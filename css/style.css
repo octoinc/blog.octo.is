@@ -114,7 +114,7 @@ figure {
     #colorlib-aside #colorlib-logo a {
       display: inline-block;
       text-align: center;
-      background: #000;
+      background:  black;
       padding: .5em .8em;
       color: #fff;
       letter-spacing: 10px;
@@ -1107,3 +1107,24 @@ body.offcanvas {
     height: inherit !important;
     float: left;
     padding-top: 30px; } }
+
+
+  
+  .alto {
+    height: 200px !important;
+      }
+
+  .alto2 {
+    height: 250px !important; }
+
+  .borde {
+    padding-right: 100px !important; 
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 18px; 
+    color: black; }
+  
+  .end {
+  padding-bottom: 0px; }
+
+  

@@ -4,8 +4,8 @@ layout: default
 
 <div class="row">
         <div class="col-md-6 col-md-offset-3 col-md-pull-3">
-            <span class="heading-meta">Read</span>
-            <h2 class="colorlib-heading animate-box" data-animate-effect="fadeInLeft">ALL POSTS</h2>
+            <span class="heading-meta">Lectura</span>
+            <h2 class="colorlib-heading animate-box" data-animate-effect="fadeInLeft">Todos los post</h2>
         </div>
     </div>
 
@@ -15,12 +15,12 @@ layout: default
 
 <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
     <div class="blog-entry">
-        <a href="{{post.url}}" class="blog-img"><img src="images/img-1.jpg" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+        <a href="{{post.url}}" class="blog-img"><img src="{{post.image2}}" class="img-responsive" alt="imagen POST"></a>
         <div class="desc">
-            <span><small>{{ post.date }}</small> | <small> Experiencias </small> | <small>{{ post.author }}</small></span>
+            <span><small>{{ post.day }}</small> | <small>{{ post.author }}</small></span>
             <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
-            <p>Breve descripción del post</p>
-            <a href="{{post.url}}" class="lead">Más información <i class="icon-arrow-right3"></i></a>
+           <!--  <p>{{ post.description }}</p> -->
+            <a href="{{post.url}}" class="lead">Ver más</a>
         </div>
     </div>
 </div>
