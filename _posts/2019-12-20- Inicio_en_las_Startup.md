@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Mi viaje antes de llegar a una Startup de tecnología"
+title:  "El viaje antes de llegar a una Startup de tecnología"
 day:   20 Diciembre, 2019
 categories: 
 author: 'Fabián Serrano'
 description: Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me cambié a Ingeniería Civil Industrial. Todos mis compañeros me decían pero cómo te vai a cambiar si no te queda nada para terminar la carrera”. Luego de tanto tiempo de haberlo hecho, fue la mejor decisión que pude tomar
-image: "/images/imagen3.jpg"
-image2: "/images/imagen1.jpg"
+image: "/images/imagen3.png"
+image2: "/images/imagen1.png"
 ---
 
 <!-- <div class="borde2">
@@ -20,7 +20,7 @@ image2: "/images/imagen1.jpg"
 
 <p class="centro"><b> .  .   . </b></p>
 
-<p>Estudie en el Instituto Nacional donde se sabe que existe una alta exigencia académica. Antes de entrar, le dije a mis papás que no quería ir porque tendría “puros compañeros nerds”</p>
+<p>Estudie en el Instituto Nacional donde se sabe que existe una alta exigencia académica. Antes de entrar, le dije a mis papás que no quería ir porque tendría “puros compañeros nerds”.</p>
 
 <p><strong>Me equivoqué rotundamente.</strong> Con la mayoría de mis compañeros y amigos de la época tirabamos la talla todo el día y era nada que ver a lo que pensaba.</p>
 
@@ -46,7 +46,7 @@ image2: "/images/imagen1.jpg"
 
 <p>Se pensó y se hizo.</p>
 
-<p>Me cambie pasando a quinto año de ingeniería desde civil minas a civil industrial en la misma Universidad.</p>
+<p>Me cambié pasando a quinto año de ingeniería desde civil minas a civil industrial en la misma Universidad.</p>
 
 <p>(Como anécdota, justo antes de cambiarme de carrera empecé a conversar con unos amigos de la carrera y les dije que mi objetivo en la vida era cambiar el mundo en algún momento. <b>Luego de un silencio de como 3 segundos, todos me miraron, se cagaron de la risa y dijeron: “este weón está loco”).</b></p>
 
@@ -63,13 +63,13 @@ image2: "/images/imagen1.jpg"
 
 <p>Tenía 22–23 y agarre el hábito de lectura a full. Empecé leyendo los típicos libros que son best seller en temas de administración y negocios, biografías de entrepreneurs, marketing, psicología conductual, ventas, gestión, etc. Quería aprender todo lo que pudiera a cada rato. <i><b>Igual era bien nerd en ese sentido</b>. Hablaba todo el rato con amigos de oportunidades de negocio y estoy seguro que los tenía chatos</i>.</p>
 
-<p>Aprovechaba de leer en la micro en el típico viaje de 2 horas de ida y vuelta a la U (cuando iba a clases eso sí). Aprovechaba de leer en la casa, hacía cursos online en edX (esa plataforma es la raja, saqué varios certificados de Universidades como Wharton o Berkeley, que aparten sirven caleta) y trataba de siempre estar pensando en algo donde aplicar ese conocimiento.</p>
+<p>Aprovechaba de leer en la micro en el típico viaje de 2 horas de ida y vuelta a la U (cuando iba a clases eso sí). Aprovechaba de leer en la casa, hacía cursos online en edX (esa plataforma es la raja, saqué varios certificados de Universidades como Wharton o Berkeley, que aparte sirven caleta) y trataba de siempre estar pensando en algo donde aplicar ese conocimiento.</p>
 
 <p>Volviendo a la carrera, en industrial me paso algo parecido que en minas, prefería quedarme en la casa aprendiendo que yendo a clases. Sentía que haciendo cursos online de universidades potentes, leyendo y otras cosas, aprendía mucho más que en clases.</p>
 
 <p>Cuando me metí al mundo laboral, hice mis primeras prácticas en áreas comerciales para empresas relacionadas a TI y Eficiencia Energética. Aprendí harto, sobre todo en la segunda ya que venía con más conocimiento encima y con un poco más de experiencia. Además, siempre me ha gustado el uso eficiente de la energía y más aún ahora donde hay mayor conciencia respecto al medioambiente.</p>
 
-<p>En el penúltimo semestre, me puse a trabajar de manera paralela como una especie de “asesor comercial/marketing” en una empresa de ingeniería donde necesitaban a alguien que los ayudará en el área comercial.</p>
+<p>En el penúltimo semestre, me puse a trabajar de manera paralela como una especie de “asesor comercial/marketing” en una empresa de ingeniería donde necesitaban a alguien que los ayudara en el área comercial.</p>
 
 <p>Adivinen a qué industria le prestaba todos sus servicios esa empresa.</p>
 
