@@ -4,7 +4,7 @@ title:  "Control del Consumo de Petróleo en Faenas Industriales"
 day:   17 Diciembre, 2019
 categories: 
 author: 'Santiago Valdivieso'
-description: Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para industria 4.0 adaptadas a resolver una necesidad específica de ellos...
+description: Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para industria 4.0 adaptadas a resolver una necesidad específica de ellos ...
 image: "/images/car1.jpg"
 image2: "/images/car.jpg"
 ---
@@ -81,7 +81,7 @@ image2: "/images/car.jpg"
 <li><strong>Integración de Lector código QR:</strong> PPara saber quién sacó petróleo, se implementó el lector de códigos QR, cada chofer antes de utilizar la pistola dispensadora de petróleo debe escanear su carnet de identidad. De esta forma, se llevará control del consumo de cada chofer como también en general.</li>
 <li><strong>Integración de Caudalímetro en manguera de Salida Camiones:</strong>De la máquina dispensadora donde se conecta la manguera integramos un caudalímetro electro-mecánico para petróleo certificado, capaz de medir la cantidad de flujo líquido que atraviesa por la manguera cuando se hace una descarga.</li>
 <li><strong>Integración de Caudalímetro en manguera de Entrada Estanque:</strong> Cuando los camiones repartidores llegan a descargar petróleo a los estanques del cliente, incorporamos un conector con caudalímetro entre el estanque y la manguera del camión para saber exactamente cuánto petróleo hecho el camión proveedor de petróleo.</li>
-<li><strong>Desarrollo de Plataforma de visualización con integración de sensores e inteligencia de negocio:</strong> DVisualizando de manera gráfica la trazabilidad de consumo de petróleo por local como a nivel país.</li>
+<li><strong>Desarrollo de Plataforma de visualización con integración de sensores e inteligencia de negocio:</strong> Visualizando de manera gráfica la trazabilidad de consumo de petróleo por local como a nivel país.</li>
 </ul>
 <br>
 <p>Solo tuvimos que tomar en consideración la cantidad de recursos perdidos en robos, para darnos cuenta de la oportunidad que otorga implementar este tipo de soluciones, las cuales en términos de costo/beneficio son de importante valor para empresas que están en busca de modernizarse en términos tecnológicos.</p>

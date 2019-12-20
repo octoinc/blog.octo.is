@@ -70,7 +70,7 @@ figure {
 #colorlib-page {
   width: 100%;
   overflow: hidden;
-  position: relative; }
+  position: relative;}
 
 #colorlib-aside {
   padding-top: 3em;
@@ -1129,6 +1129,35 @@ body.offcanvas {
 
   .spaced {
     margin-right: -4px; }
+
+  .spaced {
+    height: 2px; }
+
+  .gray {
+    -webkit-filter: grayscale(2); }
+
+  .borde2 {
+/*     padding-right: 35% !important; 
+    padding-left: 30% !important;  */
+    line-height: 1.6;
+    font-size: 18px; 
+    color: black; 
+    text-align: justify;}
+
+  .cita {
+    border-left-color: rgb(0, 0, 0);
+    border-left-style: solid;
+    border-left-width: 4px; 
+    padding-left: 10px; }
+    
+  .centro {
+    text-align: center; }
+
+  
+  
+
+
+
   
 
   
