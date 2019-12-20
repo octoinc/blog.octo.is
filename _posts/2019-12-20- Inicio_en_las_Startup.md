@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El viaje antes de llegar a una Startup de tecnología"
+title:  "Mi viaje antes de llegar a una Startup de tecnología"
 day:   20 Diciembre, 2019
 categories: 
 author: 'Fabián Serrano'
@@ -16,11 +16,11 @@ image2: "/images/imagen1.png"
     <div class="col-md-2"></div>
     <div class="col-md-7">
     <br>
-    <p>Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me cambié a Ingeniería Civil Industrial. Todos mis compañeros me decían: “pero cómo te vai a cambiar si no te queda nada para terminar la carrera”. Luego de tanto tiempo de haberlo hecho, fue la mejor decisión que pude tomar.</p>
+    <p>Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me cambié a Ingeniería Civil Industrial. Todos mis compañeros me decían: <i>“pero cómo te vai a cambiar si no te queda nada para terminar la carrera”</i>. Luego de tanto tiempo de haberlo hecho, fue la mejor decisión que pude tomar.</p>
 
 <p class="centro"><b> .  .   . </b></p>
 
-<p>Estudie en el Instituto Nacional donde se sabe que existe una alta exigencia académica. Antes de entrar, le dije a mis papás que no quería ir porque tendría “puros compañeros nerds”.</p>
+<p>Estudie en el Instituto Nacional donde se sabe que existe una alta exigencia académica. Antes de entrar, le dije a mis papás que no quería ir porque tendría <i>“puros compañeros nerds”</i>.</p>
 
 <p><strong>Me equivoqué rotundamente.</strong> Con la mayoría de mis compañeros y amigos de la época tirabamos la talla todo el día y era nada que ver a lo que pensaba.</p>
 
