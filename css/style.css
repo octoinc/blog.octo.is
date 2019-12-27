@@ -1153,11 +1153,19 @@ body.offcanvas {
   .centro {
     text-align: center; }
 
+  .img-responsive2 {
+    display: block;
+    max-width: 170%;
+    height: auto; }
   
+    .colorlib-text2 {
+    padding-left: 194px;
+    width: 100%; }
+
+    .margen {
+    margin-bottom: 15px!important }
   
 
 
-
-  
 
   

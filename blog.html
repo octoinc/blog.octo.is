@@ -13,14 +13,14 @@ layout: default
 
 {% for post in site.posts %}
 
-<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
     <div class="blog-entry">
         <a href="{{post.url}}" class="blog-img"><img src="{{post.image2}}" class="img-responsive" alt="imagen POST"></a>
         <div class="desc">
             <span><small>{{ post.day }}</small> | <small>{{ post.author }}</small></span>
             <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
            <!--  <p>{{ post.description }}</p> -->
-            <a href="{{post.url}}" class="lead">Ver más</a>
+           <!--  <a href="{{post.url}}" class="lead">Ver más</a> -->
         </div>
     </div>
 </div>
