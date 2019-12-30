@@ -2,7 +2,7 @@
 layout: post
 title:  "Control del Consumo de Petróleo en Faenas Industriales"
 day:   17 Diciembre, 2019
-categories: 
+categories: new
 author: 'Santiago Valdivieso'
 description: Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para industria 4.0 adaptadas a resolver una necesidad específica de ellos ...
 image: "/images/car.jpg"

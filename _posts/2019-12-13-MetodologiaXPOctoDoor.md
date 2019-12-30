@@ -2,7 +2,7 @@
 layout: post
 title:  "Metodología XP Aplicada a OctoDoor"
 day:   13 Diciembre, 2019
-categories: 
+categories: [old,prueba]
 author: 'Rodrigo Morgado'
 description: Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal!. Somos una empresa de tecnología especialista en crear soluciones de Industrial. Tenemos una plataforma llamada Octopull que utiliza sistemas distribuidos a nivel de microcontroladores para aumentar la confiabilidad del sistema 
 image: "/images/octodoor3.jpg"

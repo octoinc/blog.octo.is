@@ -2,11 +2,11 @@
 layout: post
 title:  "Cambio de Foco"
 day:   27 Diciembre, 2019
-categories: 
+categories: [new,prueba]
 author: 'Benjamín Andaur'
 description: Para comenzar con mi experiencia dentro de Octo Inc. quiero contextualizar de la forma más entendible y simple el propósito de nuestra empresa, para que así se pueda comprender fácilmente el proceso que día a día vivimos. Octo Inc. es una Start Up chilena que busca digitalizar y automatizar procesos críticos de negocio usando dos tecnologías emergentes a nivel nacional
-image: "/images/image4.png"
-image2: "/images/image4.png"
+image: "/images/image.png"
+image2: "/images/image.png"
 ---
 
 
@@ -47,5 +47,5 @@ image2: "/images/image4.png"
     <li>Buena relación con el equipo de desarrollo, me refiero a que comunicarles tareas específicas y concisas de lo que hace falta en la aplicación.</li>
     <li>Optimismo y paciencia, ya que muchas veces te verás superado por la situación pero tendrás que salir adelante como sea.</li> 
     </ul><br>
-    <p>Es cierto que en un principio me sentí incómodo con el hecho de cambiar de área de negocio, me sacó de mi zona de confort permitiendo expandir mis conocimientos y habilidades a una nueva área de desarrollo, ayudandome a crecer profesionalmente ganando cada día la tan preciada “experiencia”. </p>
+    <p>A pesar de que un principio me sentí incómodo al cambiar completamente el foco que tenía dentro de la empresa, este me sacó de mi zona de confort permitiéndome conocer nuevas realidades que sin duda ayudaron a seguir desarrollándome como profesional, además de ganar algo de la tan preciada experiencia. </p>
     <div class="col-md-2">
