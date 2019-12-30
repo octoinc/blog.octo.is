@@ -9,6 +9,7 @@ image: "/images/octodoor3.jpg"
 image2: "/images/octodoor3.jpg"
 ---
 
+
 <div class="borde">
 
 
@@ -38,4 +39,4 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 
 <p>El primer release lo sacamos en 1 semana, 1 semana más para <a href="https://play.google.com/store/apps/details?id=com.octoInc.octo_door" target="_blank">Google Play</a> y después 1 semana más para <a href=" ">Apple Store</a>. Hoy en día, OctoDoor es una realidad.</p>
 
-
+<div class="sharethis-inline-share-buttons"></div>
