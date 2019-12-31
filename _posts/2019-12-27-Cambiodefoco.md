@@ -7,6 +7,9 @@ author: 'Benjamín Andaur'
 description: Para comenzar con mi experiencia dentro de Octo Inc. quiero contextualizar de la forma más entendible y simple el propósito de nuestra empresa, para que así se pueda comprender fácilmente el proceso que día a día vivimos. Octo Inc. es una Start Up chilena que busca digitalizar y automatizar procesos críticos de negocio usando dos tecnologías emergentes a nivel nacional
 image: "/images/image.png"
 image2: "/images/image.png"
+site.url: https://blog.octo.is/
+pageurl:  /cambiodefoco
+
 ---
 
 <div class="row borde2">
