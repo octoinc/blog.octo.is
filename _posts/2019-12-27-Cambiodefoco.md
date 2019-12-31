@@ -9,7 +9,6 @@ image: "/images/image.png"
 image2: "/images/image.png"
 ---
 
-
 <div class="row borde2">
     <div class="col-md-2"></div>
     <div class="col-md-7">
@@ -48,4 +47,6 @@ image2: "/images/image.png"
     <li>Optimismo y paciencia, ya que muchas veces te verás superado por la situación pero tendrás que salir adelante como sea.</li> 
     </ul><br>
     <p>A pesar de que un principio me sentí incómodo al cambiar completamente el foco que tenía dentro de la empresa, este me sacó de mi zona de confort permitiéndome conocer nuevas realidades que sin duda ayudaron a seguir desarrollándome como profesional, además de ganar algo de la tan preciada experiencia. </p>
+    <br>
+    {% include buttons.html %}
     <div class="col-md-2">

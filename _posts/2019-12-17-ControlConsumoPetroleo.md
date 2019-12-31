@@ -88,3 +88,5 @@ image2: "/images/car.jpg"
 
 <p>Más creo que también las vueltas de la vida a uno le ayudan a remediar sus errores del pasado, trayendo oportunidades para devolver la mano aunque sea de manera indirecta por situaciones en las que uno se vio involucrado… Saben a lo que me refiero. ;)
 </p>
+<br>
+{% include buttons.html %}

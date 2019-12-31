@@ -115,6 +115,10 @@ image2: "/images/imagen1.png"
 <br>
 
 <p>PD: A mis amigos a los que les dije que iba a cambiar el mundo, les diría que aún no lo logro, pero siento que todo lo que he vivido y estoy viviendo me acercan cada vez más a alcanzar ese objetivo.</p>
+<br>
+{% include buttons.html %}
     <div class="col-md-3">
+
+
 
 
