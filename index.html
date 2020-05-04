@@ -15,16 +15,15 @@ layout: default
     </div>
 </div>
 
-
-{% for post in site.categories.new %}
+{% for post in site.posts %}
         <div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
             <div class="colorlib-icon">
-                <a href="{{post.url}}" class="blog-img"><img src="{{post.image}}" class="img-responsive2" alt="HTML5 Bootstrap Template by colorlib.com"></a>
+                <a href="{{post.url}}" class="blog-img"><img src="{{post.image}}" class="img-responsive2"></a>
             </div>
             <div class="colorlib-text2">
                 <h3 class="margen">{{ post.title }}</h3>
                 <P class="desc"><span><small>{{ post.day }}</small> - <small>{{ post.author }}</small></span>
-                <p>{{ post.description }} <a href="{{post.url}}" class="font">Leer más</a> </p>
+                <p align "justify">{{ post.description }} <a href="{{post.url}}" class="font">Leer más</a> </p>
                
             </div>
         </div>

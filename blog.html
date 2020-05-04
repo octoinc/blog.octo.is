@@ -9,23 +9,46 @@ layout: default
         </div>
     </div>
 
+<!-- 
+<button class="button is-checked" data-filter="*">All</button>
+<button class="button is-checked" data-filter="*">Técnico</button>
+<button class="button is-checked" data-filter="*">Clientes</button>
+<button class="button is-checked" data-filter="*">Experiencias</button>
+
+$grid.isotope({ filter: '*' })
+
+<div>
+    <input id="search-input" type="text" placeholder="Buscar...">
+        <ul class="search" id="results-container"></ul>
+</div>
+
+<input class="quicksearch w-input" data-name="Search" id="quicksearch" maxlength="256" name="Search" placeholder="🔍   Search" type="text">
+
+<div id="formulario" class="contenedor">
+			<form action="">
+<input type="text" class="busqueda" id="busqueda" placeholder="Search">
+</form>
+<div class="item"
+ data-categoria="Sketches"
+ data-tipo="Sketches ebook Boceto"
+ data-description=" Ebook Sketch | PSD">
+    <div class="item-content all Sketches ">
+     <img src="imgport/skecth-ebook.png" alt="">
+    </div>
+  </div> -->
 
 
 {% for post in site.posts %}
-
 <div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
     <div class="blog-entry">
-        <a href="{{post.url}}" class="blog-img"><img src="{{post.image2}}" class="img-responsive" alt="imagen POST"></a>
+        <a href="{{post.url}}" class="blog-img"><img src="{{post.image2}}" class="img-responsive"></a>
         <div class="desc">
             <span><small>{{ post.day }}</small> | <small>{{ post.author }}</small></span>
-            <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
-            
-           <!--  <p>{{ post.description }}</p> -->
-           <!--  <a href="{{post.url}}" class="lead">Ver más</a> -->
+            <!-- <h3><a href="{{post.url}}">{{ post.title }}</a></h3>    -->
+            <p><a style="color:black"href="{{post.url}}">{{ post.title }}</a><p>
         </div>
     </div>
 </div>
-
 {% endfor %}
 
 
