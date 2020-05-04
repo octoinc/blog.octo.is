@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trabajo colaborativo entre sensores y vehículos no tripulados"
-day:   04 Mayo, 2020
+day:   05 Mayo, 2020
 categories: new
 author: 'Rodrigo Morgado'
 description: A fines del año 2016 comenzamos con la idea de integrar la información de vehículos no tripulados como drones y rovers con aplicaciones de chat. La razón de por qué emprendimos esta misión de trabajo, fue para dejar disponible y lo más rápido posible, imágenes capturadas por drones...
@@ -74,10 +74,8 @@ image2: "/images/loomo.jpeg"
 
 <p>Si no conocen el Loomo, acá un video que explica sus funcionalidades.</P>
 
-<br>
 
 <iframe width="100%" height="340" src="https://www.youtube.com/embed/t5H4JENYps4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 {% include buttons.html %}
