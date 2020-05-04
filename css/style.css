@@ -5,6 +5,8 @@
   font-weight: normal;
   font-style: normal; }
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&family=Rajdhani:wght@700&display=swap');
+
 /* =======================================================
 *
 * 	Template Style 
@@ -50,7 +52,7 @@ figure {
     margin: 20px auto 0px auto;
     color: #b3b3b3;
     font-style: italic;
-    font-family: "Quicksand", Arial, sans-serif; }
+    font-family: 'Nunito Sans', sans-serif; }
     @media screen and (max-width: 480px) {
       figure figcaption {
         width: 100%; } }
@@ -143,7 +145,7 @@ figure {
         text-decoration: none;
         position: relative;
         padding: 10px 0;
-        font-family: 'Nunito Sans', sans-serif;;
+        font-family: 'Nunito Sans', sans-serif;
         -webkit-transition: 0.3s;
         -o-transition: 0.3s;
         transition: 0.3s; }
