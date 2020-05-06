@@ -20,7 +20,6 @@ image2: "/images/loomo.jpeg"
     <div class="col-md-7">
     <br>
 
-
 <p>A fines del año 2016 comenzamos con la idea de <b>integrar la información de vehículos no tripulados como drones y rovers con aplicaciones de chat</b>. La razón de por qué emprendimos esta misión de trabajo, fue para dejar disponible y lo más rápido posible, imágenes capturadas por drones en un grupo de chat que compartían especialistas de ingeniería de una importante multinacional. Muchos de los activos que cumplen funciones en plantas productivas en Chile provienen del extranjero y a veces, es necesario, compartir ideas entre colegas nacionales con los respectivos vendors.</p>
 
 <p>Esta aplicación nos llevó a desarrollar más funcionalidades en el trabajo colaborativo entre sensores y vehículos no tripulados. Una de las aplicaciones inmediatas abordar que un cliente visualizó para resolver un actual dolor en su compañía, eran los <b>robos en las instalaciones</b> que comprenden grandes extensiones de terreno <i>(sobre 500 hectáreas)</i>. Encontramos varios problemas para utilizar tecnologías tradicionales, entre los que se encuentran:</p>
@@ -77,8 +76,12 @@ image2: "/images/loomo.jpeg"
 
 <iframe width="100%" height="340" src="https://www.youtube.com/embed/t5H4JENYps4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br>
 
 {% include buttons.html %}
     <div class="col-md-3">
+
+
+
 
 

@@ -17,7 +17,6 @@ image2: "/images/octodoor3.jpg"
 
 <br><br>
 
-
 <p>Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal! </p>
 
 Somos una empresa de tecnología especialista en crear soluciones de Industrial <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/radically-rethink-your-strategy-how-digital-b2b-ecosystems-can-help-traditional-manufacturers-create-and-protect-value" target="_blank">Internet of Things</a>. Tenemos una plataforma llamada Octopull que utiliza sistemas distribuidos a nivel de microcontroladores para aumentar la confiabilidad del sistema y así proveer de datos a terceros a través de una <strong>API</strong> pública y privada para que terceros puedan construir soluciones.
@@ -42,3 +41,7 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 <br>
 
 {% include buttons.html %}
+
+{% include coment.html %}
+
+<div class="commentbox"></div>
