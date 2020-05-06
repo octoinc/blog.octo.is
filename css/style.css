@@ -1200,7 +1200,7 @@ body.offcanvas {
     position:fixed; 
     width:150px;  
     bottom:50px; 
-    right:50px; 
+    right:40px; 
     padding: 8px;
     font-size: 14px;
     font-weight: bold;
@@ -1212,9 +1212,9 @@ body.offcanvas {
     box-shadow: 2px 2px 3px rgba(153, 153, 153, 0); 
     z-index: 100; }
   
-  .float:hover { 
-    box-shadow: rgba(2, 25, 49, 0.52); 
-    transform: scale(1.05); }
+  .float:hover {  
+    transform: scale(1.1);
+    color: #FFF}
 
   .my-float{ 
     font-size:24px; 
