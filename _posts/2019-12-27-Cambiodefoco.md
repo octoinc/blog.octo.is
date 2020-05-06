@@ -52,4 +52,6 @@ pageurl:  /cambiodefoco
     <p>A pesar de que un principio me sentí incómodo al cambiar completamente el foco que tenía dentro de la empresa, este me sacó de mi zona de confort permitiéndome conocer nuevas realidades que sin duda ayudaron a seguir desarrollándome como profesional, además de ganar algo de la tan preciada experiencia. </p>
     <br>
     {% include buttons.html %}
+    <br><br>
+    {% include coment.html %}
     <div class="col-md-2">

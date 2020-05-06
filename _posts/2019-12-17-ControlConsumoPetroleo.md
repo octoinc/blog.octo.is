@@ -90,3 +90,5 @@ image2: "/images/car.jpg"
 </p>
 <br>
 {% include buttons.html %}
+<br><br>
+{% include coment.html %}

@@ -79,7 +79,12 @@ image2: "/images/loomo.jpeg"
 <br><br>
 
 {% include buttons.html %}
-    <div class="col-md-3">
+
+<br><br>
+
+{% include coment.html %}
+
+<div class="col-md-3">
 
 
 
