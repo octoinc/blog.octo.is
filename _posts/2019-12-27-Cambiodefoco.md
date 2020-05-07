@@ -53,5 +53,5 @@ pageurl:  /cambiodefoco
     <br>
     {% include buttons.html %}
     <br><br>
-    {% include coment.html %}
+   {% include footer.html %}
     <div class="col-md-2">

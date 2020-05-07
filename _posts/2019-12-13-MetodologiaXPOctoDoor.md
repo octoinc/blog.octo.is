@@ -41,6 +41,8 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 <br>
 {% include buttons.html %}
 <br><br>
-{% include coment.html %}
+<!-- {% include coment.html %} -->
+{% include footer.html %}
+
 
 

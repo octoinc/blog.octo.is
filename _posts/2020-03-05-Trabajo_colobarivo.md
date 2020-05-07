@@ -77,13 +77,9 @@ image2: "/images/loomo.jpeg"
 <iframe width="100%" height="340" src="https://www.youtube.com/embed/t5H4JENYps4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
-
 {% include buttons.html %}
-
 <br><br>
-
-{% include coment.html %}
-
+{% include footer.html %}
 <div class="col-md-3">
 
 

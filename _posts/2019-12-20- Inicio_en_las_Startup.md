@@ -118,7 +118,7 @@ image2: "/images/imagen1.png"
 <br>
 {% include buttons.html %}
 <br><br>
-{% include coment.html %}
+{% include footer.html %}
 <div class="col-md-3">
 
 

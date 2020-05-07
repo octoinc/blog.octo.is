@@ -91,4 +91,4 @@ image2: "/images/car.jpg"
 <br>
 {% include buttons.html %}
 <br><br>
-{% include coment.html %}
+{% include footer.html %}
