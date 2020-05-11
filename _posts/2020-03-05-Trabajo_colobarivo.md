@@ -9,8 +9,8 @@ image: "/images/loomo.jpeg"
 image2: "/images/loomo.jpeg"
 ---
 
-<meta property="og:image" content="http://www.miweb.com/imagen.jpg"/>
-<link rel="image_src" href="http://www.miweb.com/imagen.jpg" />
+<!-- <meta property="og:image" content="http://www.miweb.com/imagen.jpg"/>
+<link rel="image_src" href="http://www.miweb.com/imagen.jpg" /> -->
 
 <!-- <div class="borde2">
 <br> -->

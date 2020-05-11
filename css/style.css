@@ -375,7 +375,7 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding: 3em 3em 3em 1em;
+  padding: 3em 3em 3em 0em;
   clear: both;
   width: 100%;
   display: block; }
@@ -761,16 +761,17 @@ body.offcanvas {
         .colorlib-feature .colorlib-icon i {
           font-size: 40px; } }
   .colorlib-feature .colorlib-text {
-    padding-left: 120px;
+    /* padding-left: 180px; */
+    padding-top: 0.8em;
     width: 100%; }
     .colorlib-feature .colorlib-text h2, .colorlib-feature .colorlib-text h3 {
       margin: 0;
       padding: 0; }
     .colorlib-feature .colorlib-text h3 {
-      font-weight: 500;
+      font-weight: 600;
       margin-bottom: 20px;
       color: rgba(0, 0, 0, 0.7);
-      font-size: 14px;
+      font-size: 20px;
       letter-spacing: 3px;
       text-transform: uppercase; }
   .colorlib-feature.colorlib-feature-sm .colorlib-text {
@@ -1112,7 +1113,8 @@ body.offcanvas {
 
   
   .alto {
-    height: 200px !important;
+    height: 220px !important;
+    width: 220PX;
       }
 
   .alto2 {
@@ -1154,9 +1156,9 @@ body.offcanvas {
   .centro {
     text-align: center; }
 
-  .img-responsive2 {
+  .img--responsive {
     display: block;
-    max-width: 170%;
+    max-width: 150%;
     height: auto; }
   
   .colorlib-text2 {
@@ -1219,4 +1221,26 @@ body.offcanvas {
   .my-float{ 
     font-size:24px; 
     margin-top:18px; }
+  
+  .justify{
+  text-align: justify; }
+
+
+  .img-blog {
+    width: 50%;
+    padding: 0px;}
+
+  .p-left {
+    padding-left: 0;
+  }
+
+  @media screen and (max-width: 768px){
+    .img--responsive {
+      width: 80%;
+      align-content: center;
+    }
+    .colorlib-blog{
+      padding: 3em 3em 3em 3em;
+  }
+}
       
