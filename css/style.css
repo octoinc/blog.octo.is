@@ -1126,6 +1126,11 @@ body.offcanvas {
     line-height: 1.6;
     font-size: 18px; 
     color: black; }
+
+    @media screen and (max-width: 768px){
+      .borde {
+        padding-right: 0px!important;
+      }
   
   .end {
   padding-bottom: 0px; }
