@@ -9,7 +9,7 @@ image: "/images/car.jpg"
 image2: "/images/car.jpg"
 ---
 
-<div class="borde">
+<div class="post-text add-padd">
 
 <img src="/images/car3.jpg" width="100%" height="auto">
 <br><br>

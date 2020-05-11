@@ -10,7 +10,7 @@ image2: "/images/octodoor3.jpg"
 ---
 
 
-<div class="borde">
+<div class="post-text add-padd">
 
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/tAKcst__STk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

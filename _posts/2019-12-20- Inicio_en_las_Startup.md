@@ -12,7 +12,7 @@ image2: "/images/imagen1.png"
 <!-- <div class="borde2">
 <br> -->
 
-<div class="row borde2">
+<div class="row post-text">
     <div class="col-md-2"></div>
     <div class="col-md-7">
     <br>
