@@ -6,7 +6,6 @@ categories: new
 author: 'Fabián Serrano'
 description: Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me cambié a Ingeniería Civil Industrial. Todos mis compañeros me decían pero cómo te vai a cambiar si no te queda nada para terminar la carrera”. Luego de tanto tiempo de haberlo hecho, fue la mejor decisión que pude tomar...
 image: "/images/imagen1.png"
-image2: "/images/imagen1.png"
 ---
 
 <!-- <div class="borde2">

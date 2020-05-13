@@ -6,7 +6,6 @@ categories: new
 author: 'Rodrigo Morgado'
 description: A fines del año 2016 comenzamos con la idea de integrar la información de vehículos no tripulados como drones y rovers con aplicaciones de chat. La razón de por qué emprendimos esta misión de trabajo, fue para dejar disponible y lo más rápido posible, imágenes capturadas por drones...
 image: "/images/loomo.jpeg"
-image2: "/images/loomo.jpeg"
 ---
 
 <!-- <meta property="og:image" content="http://www.miweb.com/imagen.jpg"/>

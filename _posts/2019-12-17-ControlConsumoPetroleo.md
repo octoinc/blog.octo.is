@@ -6,7 +6,6 @@ categories: experiencias
 author: 'Santiago Valdivieso'
 description: Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para industria 4.0 adaptadas a resolver una necesidad específica de ellos ...
 image: "/images/car.jpg"
-image2: "/images/car.jpg"
 ---
 
 <div class="post-text add-padd">

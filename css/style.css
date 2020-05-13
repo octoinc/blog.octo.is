@@ -629,8 +629,8 @@ body.offcanvas {
         color: #000; }
     @media screen and (max-width: 768px) {
       .project .desc {
-        opacity: 1;
-        background: rgba(255, 255, 255, 0.5); }
+        /* opacity: 1; */
+        background: rgba(5, 5, 5, 0.801); }
         .project .desc h3 {
           font-style: 28px;
           -webkit-transform: translate3d(0, 0, 0);
@@ -1133,6 +1133,7 @@ body.offcanvas {
       .add-padd {
         padding-right: 0px!important;
       }
+    }
   
   .end {
   padding-bottom: 0px; }
@@ -1157,7 +1158,7 @@ body.offcanvas {
 
   .img-responsive {
     display: block;
-    width: 80%;
+    width: 90%;
     height: auto; }
   
   .colorlib-text2 {
@@ -1197,26 +1198,6 @@ body.offcanvas {
     color:#06C; 
     opacity:0.9; }
 
-  .float{ 
-    position:fixed; 
-    width:150px;  
-    bottom:50px; 
-    right:40px; 
-    padding: 8px;
-    font-size: 14px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    background-color:#F75940; 
-    color:#FFF; 
-    border-radius:50px; 
-    text-align:center; 
-    box-shadow: 2px 2px 3px rgba(153, 153, 153, 0); 
-    z-index: 100; }
-  
-  .float:hover {  
-    transform: scale(1.1);
-    color: #FFF}
-
   .my-float{ 
     font-size:24px; 
     margin-top:18px; }
@@ -1236,15 +1217,39 @@ body.offcanvas {
     padding-left: 0;
   }
 
-  @media screen and (max-width: 768px){
-    .img-responsive {
-      max-width: 100%;
-      
-    }
-    .colorlib-blog{
-      padding: 3em 3em 3em 3em;
+  @media screen and (max-width: 2000px){
+  .float{ 
+    position:fixed; 
+    width:150px;  
+    bottom:50px; 
+    right:40px; 
+    padding: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    background-color:#F75940; 
+    color:#FFF; 
+    border-radius:50px; 
+    text-align:center; 
+    box-shadow: 2px 2px 3px rgba(153, 153, 153, 0); 
+    z-index: 100; }
+
+  .float:hover {  
+    transform: scale(1.1);
+    color: #FFF}
   }
-    .colorlib-feature .colorlib-text {
-      padding-top: 1.2em;
-}
-      
+
+  @media screen and (max-width: 768px){
+      .img-responsive {
+        max-width: 100%;  }
+      .colorlib-blog{
+        padding: 3em 0em 3em 3em;}
+      .colorlib-feature .colorlib-text {
+        padding-top: 1.2em;}
+      .colorlib-text{
+        padding: 5% 15%;   }
+      .p-left {
+        text-align:-webkit-center;}
+      /* .colorlib-about{
+        padding: 0em 0em 0em 1em;} */
+    }
