@@ -1217,6 +1217,23 @@ body.offcanvas {
     padding-left: 0;
   }
 
+  .all-table {
+    text-align: center;
+    background-color: #75bee3;
+    color: #262626;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: initial;
+  }
+
+  .table-custom {
+    padding: 5px 8px;
+    border: white;
+    border-style: solid;
+    height: 148px;
+    width: 152px;
+  }
+
   @media screen and (max-width: 2000px){
   .float{ 
     position:fixed; 
@@ -1243,13 +1260,24 @@ body.offcanvas {
       .img-responsive {
         max-width: 100%;  }
       .colorlib-blog{
-        padding: 3em 0em 3em 3em;}
+        padding: 3em 2em 3em 3em;}
       .colorlib-feature .colorlib-text {
         padding-top: 1.2em;}
       .colorlib-text{
-        padding: 5% 15%;   }
+        padding: 5% 15%;}
+      .all-table {
+        font-size: 14px;}
+      .table-custom {
+        padding: 10px;
+        height: 18px;}
       .p-left {
         text-align:-webkit-center;}
-      /* .colorlib-about{
-        padding: 0em 0em 0em 1em;} */
+    }
+
+    @media screen and (max-width: 450px){
+      .all-table {
+        font-size: 0.4em;}
+      .table-custom {
+        padding: 10px 0px;
+        height: 30px;}
     }
