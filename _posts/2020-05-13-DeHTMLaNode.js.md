@@ -8,16 +8,10 @@ description: Una de las primeras cosas que aprendí a hacer cuando comencé a pr
 image: "/images/matrix.png"
 ---
 
-<!-- <meta property="og:image" content="http://www.miweb.com/imagen.jpg"/>
-<link rel="image_src" href="http://www.miweb.com/imagen.jpg" /> -->
-
-<!-- <div class="borde2">
-<br> -->
-
 <div class="row post-text">
-    <div class="col-md-2"></div>
-    <div class="col-md-7">
-    <br>
+<div class="col-md-2"></div>
+<div class="col-md-7">
+<br>
 <p>Una de las primeras cosas que aprendí a hacer cuando comencé a programar, por allá en el año 2010, fue animar elementos en HTML con la etiqueta <a href="https://www.w3docs.com/learn-html/html-marquee-tag.html" target="_blank"></marque></a>, y claro, eventualmente  me di cuenta que eso no era parte de lo que se conoce como “programar”. Aún así, solo con el uso de esa etiqueta se podían lograr efectos bien choros <del>para el año 2000</del> como el de <a href="https://stackoverflow.com/questions/22633699/the-matrix-style-binary-code-okay-or-bad" target="_blank">Matrix.</a><p>
 
 <p style="text-align:center;"><img src="/images/matrix.gif" width="60%" height="auto" center></p>

@@ -6,8 +6,8 @@ categories: new
 author: 'Constanza Rivas'
 description: Llevo más de un año trabajando como Project Manager en Octo Inc., utilizando principalmente el modelo de gestión Lean Project Management. No ha sido un camino fácil, pues el mundo de gestionar y coordinar un proyecto de desarrollo de software a la medida ...
 image: "/images/proyectos.jpg"
+image-sharing: "/images/proyectos.jpg"
 ---
-
 
 <div class="row post-text">
     <div class="col-md-2"></div>

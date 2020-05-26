@@ -8,6 +8,9 @@ description: Sí, nos entraron a robar a la casa 3 días después de mudarnos. Q
 image: "/images/octodoor3.jpg"
 ---
 
+<meta expr:content='data:blog.pageName' property='Metodología XP Aplicada a Octodoor'/>
+<meta expr:content='data:blog.postImageUrl' property='/images/octodoor3.jpg'/>
+<meta expr:content='data:blog.metaDescription' property=' Sí, nos entraron a robar a la casa 3 días después de mudarnos...'/>
 
 <div class="post-text add-padd">
 
