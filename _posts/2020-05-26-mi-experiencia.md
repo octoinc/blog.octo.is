@@ -24,11 +24,12 @@ image: "/images/placa-electronica.jpg"
 <p>El aspecto energético ha sido durante muchos años un elemento de batalla en las comunicaciones precisamente por los altos consumos de estos componentes, los diseñadores y fabricantes actualmente lo tienen en el punto de mira para continuar su mejora, motivado a esto, presentemente nos basamos en desarrollar hardware que contemple la mayoría de los protocolos de comunicación existente en el mercado, manejando componentes superficiales, bajo consumo y eficiencia <a href="https://www.surtel.es/blog/que-son-los-componentes-smd/" target="_blank">SMD</a>.</p>
 <p>Por tanto, el recorrido del IoT es aún un largo camino por recorrer y que explotar para el beneficio de la información que se pueda procesar. Mientras más objetos interconectados en el trabajo y en el hogar, más información estará fluyendo desde estos sistemas simples hacia grandes bases de datos, donde se pueden realizar correlaciones y llegar a la <b>toma de decisiones</b>.</p>
 <p>Es probable que si tu empresa decide trabajar con nosotros e iniciar juntos este camino de la digitalización y automatización de procesos, me veas a mí, explorando tus instalaciones e imaginando cómo podemos aumentar la eficiencia operacional de manera colectiva.</p>
-<div class=row style="margin-bottom: 80px; margin-top: 40px; font-size:15px;">
+
+<div class=row style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius: 50%;" src="/images/jose.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="/images/jose.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 30px;">
     <p>Escrito por:</p>
