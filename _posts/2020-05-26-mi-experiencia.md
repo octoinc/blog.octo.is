@@ -37,10 +37,21 @@ image: "/images/placa-electronica.jpg"
 
 <p>Es probable que si tu empresa decide trabajar con nosotros e iniciar juntos este camino de la digitalización y automatización de procesos, me veas a mí, explorando tus instalaciones e imaginando cómo podemos aumentar la eficiencia operacional de manera colectiva.</p>
 
-<br><br>
+<div class=row style="margin-bottom: 80px; margin-top: 40px; font-size:15px;">
+<div class="col-md-2">
+</div>
+<div class="col-md-3">
+    <img style="border-radius: 50%;" src="/images/jose.jpg" width="110%" height="auto">
+</div>
+<div class="col-md-7" style="margin-top: 30px;">
+    <p>Escrito por:</p>
+    <p><b style="font-size:20px">José Castillo</b>
+    <br>Technical Project Manager</p>
+</div>
+</div>
 
-<br><br>
+
 {% include footer.html %}
 <div class="col-md-3">
-
+</div>
 
