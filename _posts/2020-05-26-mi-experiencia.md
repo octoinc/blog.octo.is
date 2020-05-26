@@ -4,13 +4,9 @@ title:  "Mi experiencia en la electrónica"
 day:   26 mayo, 2020
 categories: new
 author: 'José Castillo'
-description: Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me cambié a Ingeniería Civil Industrial. Todos mis compañeros me decían pero cómo te vai a cambiar si no te queda nada para terminar la carrera”. Luego de tanto tiempo de haberlo hecho, fue la mejor decisión que pude tomar...
+description: En este momento les contaré parte de la experiencia que he tenido a nivel profesional como Ingeniero Mecatrónico, comencé realizando investigaciones para desarrollos tecnológicos en el año 2013, cuando la tecnología recién comenzaba a evolucionar en la parte de los circuitos digitales...
 image: "/images/placa-electronica.jpg"
 ---
-
-<meta expr:content='data:blog.pageName' property="Mi experiencia en la electrónica"/>
-<meta expr:content='data:blog.postImageUrl' property='/images/placa-electronica.jpg'/>
-<meta expr:content='data:blog.metaDescription' property=' Sí, nos entraron a robar a la casa 3 días después de mudarnos...'/>
 
 <div class="row post-text">
 <div class="col-md-2"></div>
