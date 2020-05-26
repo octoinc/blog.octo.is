@@ -29,7 +29,7 @@ image: "/images/placa-electronica.jpg"
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/jose.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="/images/Jose.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 30px;">
     <p>Escrito por:</p>
