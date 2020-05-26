@@ -25,7 +25,7 @@ image: "/images/placa-electronica.jpg"
 <p>Por tanto, el recorrido del IoT es aún un largo camino por recorrer y que explotar para el beneficio de la información que se pueda procesar. Mientras más objetos interconectados en el trabajo y en el hogar, más información estará fluyendo desde estos sistemas simples hacia grandes bases de datos, donde se pueden realizar correlaciones y llegar a la <b>toma de decisiones</b>.</p>
 <p>Es probable que si tu empresa decide trabajar con nosotros e iniciar juntos este camino de la digitalización y automatización de procesos, me veas a mí, explorando tus instalaciones e imaginando cómo podemos aumentar la eficiencia operacional de manera colectiva.</p>
 
-<div class=row style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
