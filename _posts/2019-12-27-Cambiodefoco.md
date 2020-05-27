@@ -48,6 +48,19 @@ pageurl:  /cambiodefoco
     <li>Optimismo y paciencia, ya que muchas veces te verás superado por la situación pero tendrás que salir adelante como sea.</li> 
     </ul><br>
     <p>A pesar de que un principio me sentí incómodo al cambiar completamente el foco que tenía dentro de la empresa, este me sacó de mi zona de confort permitiéndome conocer nuevas realidades que sin duda ayudaron a seguir desarrollándome como profesional, además de ganar algo de la tan preciada experiencia. </p>
+    <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-3">
+        <img style="border-radius:50%;" src="/images/Benjamin.jpg" width="110%" height="auto">
+    </div>
+    <div class="col-md-7" style="margin-top: 30px;">
+        <p>Escrito por:</p>
+        <p><b style="font-size:20px">Benjamín Andaur</b>
+        <br>Key Account Manager</p>
+    </div>
+    </div>
+        
     <br>
     {% include buttons.html %}
     <br><br>

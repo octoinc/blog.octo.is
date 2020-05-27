@@ -49,7 +49,20 @@ image: "/images/matrix.png"
 
 <p>Esto es lo que hoy en día considero clave aprender al momento de iniciar como programador basado en mi experiencia personal de estos últimos diez años. Será entretenido ver cómo va a cambiar todo de acá a 5 o 10 años más. No se debe nunca dejar de aprender.</p>
 
-<br><br>
+<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="col-md-2">
+</div>
+<div class="col-md-3">
+    <img style="border-radius:50%;" src="/images/Juan.jpg" width="110%" height="auto">
+</div>
+<div class="col-md-7" style="margin-top: 30px;">
+    <p>Escrito por:</p>
+    <p><b style="font-size:20px">Juan Puelpan</b>
+    <br>Lead Software Engineer</p>
+</div>
+</div>
+
+<br>
 {% include buttons.html %}
 <br><br>
 {% include footer.html %}

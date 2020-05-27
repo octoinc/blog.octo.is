@@ -87,6 +87,20 @@ image: "/images/car.jpg"
 
 <p>Más creo que también las vueltas de la vida a uno le ayudan a remediar sus errores del pasado, trayendo oportunidades para devolver la mano aunque sea de manera indirecta por situaciones en las que uno se vio involucrado… Saben a lo que me refiero. ;)
 </p>
+
+<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="col-md-2">
+</div>
+<div class="col-md-3">
+    <img style="float:right; border-radius:50%;" src="/images/Santiago.jpg" width="70%" height="auto">
+</div>
+<div class="col-md-7" style="margin-top: 30px;">
+    <p>Escrito por:</p>
+    <p><b style="font-size:20px">Santiago Valdivieso</b>
+    <br>RRHH</p>
+</div>
+</div>
+
 <br>
 {% include buttons.html %}
 <br><br>

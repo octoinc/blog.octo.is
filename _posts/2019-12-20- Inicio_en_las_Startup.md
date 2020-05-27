@@ -114,6 +114,20 @@ image: "/images/imagen1.png"
 <br>
 
 <p>PD: A mis amigos a los que les dije que iba a cambiar el mundo, les diría que aún no lo logro, pero siento que todo lo que he vivido y estoy viviendo me acercan cada vez más a alcanzar ese objetivo.</p>
+
+<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="col-md-2">
+</div>
+<div class="col-md-3">
+    <img style="border-radius:50%;" src="/images/Fabian_.png" width="110%" height="auto">
+</div>
+<div class="col-md-7" style="margin-top: 30px;">
+    <p>Escrito por:</p>
+    <p><b style="font-size:20px">Fabián Serrano</b>
+    <br>Sales Manager</p>
+</div>
+</div>
+
 <br>
 {% include buttons.html %}
 <br><br>

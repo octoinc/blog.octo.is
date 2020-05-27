@@ -63,6 +63,20 @@ image-sharing: "/images/proyectos.jpg"
 
 <p>Por lo tanto y respondiendo a la pregunta, en la gestión de un proyecto tecnológico no hay un común denominador de problemas entre todos los proyectos. Todos los proyectos son mundos aislados, pueden tener similitudes en procesos o requisitos pero nunca ser iguales.</p>
 
+<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="col-md-2">
+</div>
+<div class="col-md-3">
+    <img style="border-radius:50%;" src="/images/Constanza.jpg" width="110%" height="auto">
+</div>
+<div class="col-md-7" style="margin-top: 30px;">
+    <p>Escrito por:</p>
+    <p><b style="font-size:20px">Constanza Rivas</b>
+    <br>Project Manager</p>
+</div>
+</div>
+
+
 <br><br>
 {% include buttons.html %}
 <br><br>
