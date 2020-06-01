@@ -28,16 +28,16 @@ image: "/images/FCH.jpg"
 <li>Trabajaremos en <b>integrar más vehículos no tripulados</b>. Con la democratización de la robótica no nos podemos conformar solo con nuestros queridos <a href="https://www.segwayrobotics.com/#/loomo" target="_blank">Segway Loomo</a> y <a href="https://husarion.com/" target="_blank">Husarion</a>. Ambos ya pueden hacer rondas de vigilancia operados remotamente a través de nuestra plataforma y realizar streaming a cualquier usuario que esté conectado a <a href="http://things.octopull.us" target="_blank">Octopull</a>, pero estamos dejando fuera muchas otras soluciones, por lo que comenzamos con la integración de todos los robots que utilicen como sistema operativo <b>ROS (Robot Operating Systems)</b>. Así que si eres de <a href="https://new.abb.com/south-america" target="_blank">ABB</a> y quieres ver cómo hemos avanzado en la integración del <a href="https://new.abb.com/products/robotics/es/robots-industriales/irb-2600" target="_blank">ABB IRB2600</a>, <b><a href="mailto:contac@octo.is">escríbenos!</a></b></li><br>
 
 <p style="text-align:center;"><img src="/images/crear-mision.gif" width="80%" height="auto" center></p>
-<p class="tittle">Plataforma Octopull - Crear Misón<p>
-<p style="text-align:center;"><img src="/images/loomo-octo.png" width="80%" height="auto" center></p>
-<p class="tittle">Segway Loomo<p>
+<p class="tittle">Plataforma Octopull - Crear Misón</p>
+<p style="text-align:center;"><img src="/images/Loomo-octo.png" width="80%" height="auto" center></p>
+<p class="tittle">Segway Loomo</p>
 <p style="text-align:center;"><img src="/images/octorion-octo.png" width="50%" height="auto" center></p>
-<p class="tittle">Husarion<p>
+<p class="tittle">Husarion</p>
 
 <p>Para saber más sobre nuestros comienzos en la integración con vehículos no tripulados, te invitamos a leer <a href="" target="_blank">“Trabajo colaborativo entre sensores y vehículos no tripulados”</a></p>
 <li>Le colocaremos foco a nuestro <b>desarrollo de sistemas distribuidos a nivel de microcontroladores</b>. Estamos usando lo mejor del <a href="http://blog.editafacil.es/que-es-y-para-que-sirve-el-cloud-computing/" target="_blank">Cloud Computing</a> como protocolos <a href="https://en.wikipedia.org/wiki/Gossip_protocol" target="_blank">Gossip</a> y <a href="https://es.wikipedia.org/wiki/Chord" target="_blank">Chord</a>, pero implementado esta tecnología en nuestros nodos. Creemos que podemos innovar mucho en lo que hoy se denominan <a href="https://soporte.syscom.mx/es/articles/1923724-que-es-una-red-wifi-mesh" target="_blank">"redes mesh"</a>. Al menos, nuestros nodos instalados en el Desierto de Atacama cumplieron 1 año funcionando sin problemas.</li><br>
 <p style="text-align:center;"><img src="/images/sensors-diagram.png" width="60%" height="auto" center></p> 
-<p class="tittle">Red Mesh<p>
+<p class="tittle">Red Mesh</p>
 <p style="text-align:center;"><img src="/images/nodo.png" width="80%" height="auto" center></p>
 <p class="tittle">Nodo instalado en el desierto<p>
 <li><b>Developer Tool Kit</b>. Nos han escrito de varias partes del mundo para poder integrar soluciones de <b>Machine Learning</b> a nuestro motor de datos y sabemos que estamos al debe en esto. <a href="https://octopull.us/" target="_blank">Octopull</a> está recopilando información de cientos de sensores y nuestros clientes ya quieren saltar al próximo paso como <b>"mantenimiento predictivo"</b> o todo lo que sea <b>"predictivo"</b>. Qué mejor que integrar las soluciones de los mejores Data Scientist del mundo y dejarlos disponibles en nuestra plataforma para su uso (<a href="http://docs.octopull.cl" target="_blank">aquí</a> puedes encontrar el acceso a la documentación para developer de octopull). <b>Todos ganamos!</b> Nuestro cliente que tiene el mejor algoritmo, nuestros data scientist que reciben una bonificación por el uso, y nosotros qué hacemos felices a ambos.</li><br>
