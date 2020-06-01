@@ -27,9 +27,11 @@ image: "/images/FCH.jpg"
 <ol>
 <li>Trabajaremos en <b>integrar más vehículos no tripulados</b>. Con la democratización de la robótica no nos podemos conformar solo con nuestros queridos <a href="https://www.segwayrobotics.com/#/loomo" target="_blank">Segway Loomo</a> y <a href="https://husarion.com/" target="_blank">Husarion</a>. Ambos ya pueden hacer rondas de vigilancia operados remotamente a través de nuestra plataforma y realizar streaming a cualquier usuario que esté conectado a <a href="http://things.octopull.us" target="_blank">Octopull</a>, pero estamos dejando fuera muchas otras soluciones, por lo que comenzamos con la integración de todos los robots que utilicen como sistema operativo <b>ROS (Robot Operating Systems)</b>. Así que si eres de <a href="https://new.abb.com/south-america" target="_blank">ABB</a> y quieres ver cómo hemos avanzado en la integración del <a href="https://new.abb.com/products/robotics/es/robots-industriales/irb-2600" target="_blank">ABB IRB2600</a>, <b><a href="mailto:contac@octo.is">escríbenos!</a></b></li><br>
 
-<p style="text-align:center;"><img src="/images/crear-mision.gif" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="/images/crear-mision.gif" width="90%" height="auto" center></p>
 <p class="tittle">Plataforma Octopull - Crear Misón</p>
-<p style="text-align:center;"><img src="/images/Loomo-octo.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="/images/misiones.png" width="90%" height="auto" center></p>
+<p class="tittle">Plataforma Octopull - Tabla de Misiones</p>
+<p style="text-align:center;"><img src="/images/Loomo-octo.png" width="90%" height="auto" center></p>
 <p class="tittle">Segway Loomo</p>
 <p style="text-align:center;"><img src="/images/octorion-octo.png" width="50%" height="auto" center></p>
 <p class="tittle">Husarion</p>
