@@ -1242,6 +1242,68 @@ body.offcanvas {
     margin-bottom: 50px;
     }
 
+  .calltoaction{
+    background-color:black;
+    margin: 80px 40px;
+    color: white;
+    padding: 25px ;
+    border-radius: 15px;
+    }
+
+  .text-buttom{
+    color: white;
+    MARGIN-BOTTOM: 8PX;
+    }
+
+  .contendor-button{
+    width: 33.33%8
+    background-color: tomato;
+    }
+
+  .text-b{
+    margin-bottom: 40px;
+    font-size: 17px;
+  }
+
+  .button-calltoaction {
+    background-color: rgb(51, 51, 51);
+    border: 20px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+  }
+
+  .calltoaction-b {
+    color: white !important;
+    text-decoration: none;
+    font-size: 15px;
+    background: black;
+    padding: 1% 43%;
+    border: 1px solid white !important;
+    border-radius: 25px;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+    }
+
+  .calltoaction-b:hover {
+    color: black !important;
+    background: white;
+    border-color: white !important;
+    transition: all 0.4s ease 0s;
+    }
+
+    @media screen and (max-width: 1300px){
+      .calltoaction-b {
+        padding: 1% 30%;
+        }
+      }
+    
+
+
+
   @media screen and (max-width: 2000px){
   .float{ 
     position:fixed; 
@@ -1288,6 +1350,14 @@ body.offcanvas {
       .table-custom {
         padding: 10px 0px;
         height: 30px;}
+      .calltoaction-b {
+        padding: 1% 10%;
+        }
+      .calltoaction  {
+          margin: 0px;
+          margin-bottom: 60px;
+          margin-top: -60px;
+          }
     }
 
 
