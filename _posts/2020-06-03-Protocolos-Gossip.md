@@ -13,7 +13,7 @@ image: "/images/gossip.png"
 <div class="col-md-7">
 <br>
 
-<p>Gossip es un <a href="" target="_blank"><b>protocolo de comunicación</b></a> de datos utilizado en <b>sistemas distribuidos</b>, funciona de manera parecida a la expansión del contagio de una enfermedad o de un rumor, de persona a persona, ya que básicamente trabaja esparciendo un mensaje de nodo en nodo.</p>
+<p>Gossip es un <b>protocolo de comunicación</b> de datos utilizado en <b>sistemas distribuidos</b>, funciona de manera parecida a la expansión del contagio de una enfermedad o de un rumor, de persona a persona, ya que básicamente trabaja esparciendo un mensaje de nodo en nodo.</p>
 
 <p>Algunas de las fortalezas de los protocolos gossip son:<p>
 
