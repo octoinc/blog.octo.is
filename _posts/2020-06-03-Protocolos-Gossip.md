@@ -3,7 +3,7 @@ layout: post
 title:  "Protocolos Gossip"
 day:   03 junio, 2020
 categories: new
-author: 'Rodrigo Morgado'
+author: 'Hector Orellana'
 description: Gossip es un protocolo de comunicación de datos utilizado en sistemas distribuidos, funciona de manera parecida a la expansión del contagio de una enfermedad o de un rumor, de persona a persona, ya que básicamente trabaja esparciendo un mensaje de nodo en nodo...
 image: "/images/gossip.png"
 ---
@@ -88,7 +88,7 @@ image: "/images/gossip.png"
 <div class="col-md-7" style="margin-top: 30px;">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">Hector Orellana</b>
-    <br></p>
+    <br>Software Developer</p>
 </div>
 </div>
 
