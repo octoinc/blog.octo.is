@@ -1281,7 +1281,7 @@ body.offcanvas {
     text-decoration: none;
     font-size: 15px;
     background: black;
-    padding: 1% 43%;
+    padding: 1% 28%;
     border: 1px solid white !important;
     border-radius: 25px;
     display: inline-block;
@@ -1322,6 +1322,27 @@ body.offcanvas {
     z-index: 100; }
 
   .float:hover {  
+    transform: scale(1.1);
+    color: #FFF}
+  }
+
+  .float-whatsapp{ 
+    position:fixed; 
+    width:150px;  
+    bottom:95px; 
+    right:40px; 
+    padding: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    background-color:rgb(70, 247, 64); 
+    color:#FFF; 
+    border-radius:50px; 
+    text-align:center; 
+    box-shadow: 2px 2px 3px rgba(153, 153, 153, 0); 
+    z-index: 100; }
+
+  .float-whatsapp:hover {  
     transform: scale(1.1);
     color: #FFF}
   }
