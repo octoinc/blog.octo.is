@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Proyecto IoT de Control de Accesos en Industria de Alimentos"
-day:   19 Mayo, 2020
+day:   06 junio, 2020
 categories: new
 author: 'José Castillo & Yairan Viloria'
 description: La transformación digital es la opción que muchas empresas están adoptando para mejorar distintos aspectos operacionales core de sus negocios, ya sea productivo, logístico, contable, entre otros. Esta revolución industrial engloba cada arista de un negocio, desde lo más simple a lo más complejo. ...
