@@ -4,7 +4,7 @@ title:  "Problemas que el IoT puede resolver en la operación y mantenimiento de
 day:  16 junio, 2020
 categories: new
 author: 'Fabián Serrano'
-description: El IoT (Internet of Things), puesto en palabras simples, es la conexión y comunicación de distintos equipos y dispositivos a través de una red en la cual todos interactúan para captar datos o ejecutar acciones determinadas...
+description: El IoT (Internet of Things), puesto en palabras simples, es la conexión y comunicación de distintos equipos y dispositivos a través de una red en la cual todos interactúan para captar...
 image: "/images/klipfolio-octopull.png"
 image-sharing: "/images/huellero.jpg"
 ---
