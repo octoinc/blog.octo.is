@@ -71,7 +71,7 @@ image-sharing: "/images/huellero.jpg"
 
 <p>Por lo mismo, te mostramos como en <a href="https://octopull.cl/" target="_blank"><b>Octo Inc</b></a> te podemos ayudar a mejorar la toma de decisiones con <i><b>tecnología</b></i>.</p>
 
-<p>Para esto, utilizamos sensores que son capaces de medir distintas variables dentro de tu planta, en particular, <b>temperatura, presión, nivel o flujo de líquidos y corriente</b>.</p><br>
+<p>Para esto, utilizamos sensores que son capaces de medir distintas variables dentro de tu planta, en particular, <b>temperatura, presión, nivel o flujo de líquidos y corriente</b> (puedes encontrarlos en <a href="https://shop.octopull.cl/" target="_blank">nuestro marketplace</a>).</p><br>
 
 <p style="text-align:center;"><img src="/images/sensor-octopull.jpeg" width="80%" height="auto" center></p>
 <p class="tittle">Sensor Octopull instalado en planta</p>
