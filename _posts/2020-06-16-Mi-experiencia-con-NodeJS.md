@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mi experiencia con NodeJS en un proyecto de un gran ratail"
+title:  "Mi experiencia con NodeJS en un proyecto de un gran retail"
 day:  16 junio, 2020
 categories: new
 author: 'Matías Castro'
