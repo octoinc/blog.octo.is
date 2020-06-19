@@ -82,7 +82,7 @@ image-sharing: "/images/huellero.jpg"
 <p>Los datos de cada sensor son enviados de manera inalámbrica (o wireless) hacia un nodo de comunicación que envía la información a nuestra plataforma en la nube mediante conexión a internet.</p><br>
 
 <p style="text-align:center;"><img src="/images/nodo-octopull.jpeg" width="80%" height="auto" center></p>
-<p class="tittle">La caja blanca que se ve arriba es el nodo de comunicación que se encarga de enviar los datos de los sensores a la nube.</p>
+<p class="tittle">La caja blanca que se ve arriba es el nodo de comunicación que se encarga <br>de enviar los datos de los sensores a la nube.</p>
 
 <p>Una vez dentro de la plataforma, ya sea el encargado de planta, jefe de operaciones o quien tenga acceso, puede ver el funcionamiento de sus equipos desde su celular o computador a cualquier hora del día facilitando la gestión asociada a la operación y mantenimiento de la planta.</p><br>
 
