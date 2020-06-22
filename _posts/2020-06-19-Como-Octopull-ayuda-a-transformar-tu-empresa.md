@@ -83,7 +83,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
     <p>Gracias a la integración de cámaras o robots dentro de tu planta puedes conocer a través de una pantalla lo que está sucediendo en tiempo real.</p>
 </ul><br>
 
-<p>Si quieres probar gratis y conocer cómo <a href="https://octopull.cl" target="_blank">Octopull</a> puede transformar la forma en que trabajas, no dudes en contactarnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
+<p>Si quieres probar <b>gratis</b> y conocer cómo <a href="https://octopull.cl" target="_blank">Octopull</a> puede transformar la forma en que trabajas, no dudes en contactarnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
 
 <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
