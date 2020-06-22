@@ -33,8 +33,8 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p style="text-align:center;"><img src="/images/diagrama-industria-1.png" width="95%" height="auto" center></p>
 <p class="tittle"><a href="https://grupofranja2.com/index.php/oftalmica/item/1763-de-la-industria-1-0-a-la-4-0" target="_blank">Revista MAFO Volumen 13, Andy Huthoefer</a></p>
-<p style="text-align:center;"><img src="/images/diagrama-industria-2.png" width="95%" height="auto" center></p>
-<p class="tittle"><a href="https://www.shutterstock.com/es/image-vector/industrial-revolution-stages-steam-power-cyber-524444866" target="_blank">Industrial Revolution</a></p>
+<!-- <p style="text-align:center;"><img src="/images/diagrama-industria-2.png" width="95%" height="auto" center></p>
+<p class="tittle"><a href="https://www.shutterstock.com/es/image-vector/industrial-revolution-stages-steam-power-cyber-524444866" target="_blank">Industrial Revolution</a></p> -->
 
 <p>Sabemos que estos conceptos pueden parecer complejos y difíciles de entender.</p>
 
@@ -83,7 +83,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
     <p>Gracias a la integración de cámaras o robots dentro de tu planta puedes conocer a través de una pantalla lo que está sucediendo en tiempo real.</p>
 </ul><br>
 
-<p>Si quieres conocer cómo <a href="https://octopull.cl" target="_blank">Octopull</a> puede transformar la forma en que trabajas, no dudes en contactarnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
+<p>Si quieres probar gratis y conocer cómo <a href="https://octopull.cl" target="_blank">Octopull</a> puede transformar la forma en que trabajas, no dudes en contactarnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
 
 <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
