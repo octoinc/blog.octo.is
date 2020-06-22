@@ -21,7 +21,7 @@ image-sharing: "/images/huellero.jpg"
 <p>
 Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad, y se conoce como la <b>revolución industrial</b>.</p>
 
-<p>Este hecho histórico se ha dado principalmente por los avances tecnológicos que se han desarrollado, partiendo con la <i>máquina a vapor</i>, pasando por la <i>producción en serie</i> a la más reciente transformación de la <i><b>revolución digital dada por la informática y electrónica</b></i> en la automatización de procesos y la entrada del internet en nuestras vidas, generando grandes impactos en la economía y sociedad.</p>
+<p>Este hecho histórico se ha dado principalmente por los avances tecnológicos que se han desarrollado, partiendo con la <i>máquina a vapor</i>, pasando por la <i>producción en serie</i> a la más reciente transformación de la <i><b>revolución digital dada por la informática y electrónica</b></i> en la automatización de procesos y la entrada de internet en nuestras vidas, generando grandes impactos en la economía y sociedad.</p>
 
 <br><ul>
 <p class="cita"><b>Estamos viviendo la cuarta revolución industrial en donde la industria 4.0 y la transformación digital tomará un rol protagónico en la forma en que vivimos el día a día. </b></p>
@@ -29,16 +29,16 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p>La <b>industria 4.0</b> viene dado por la aparición de tecnologías innovadoras como lo son el <b>internet de las cosas, los drones, robots, la inteligencia artificial, impresión 3D, big data,</b> entre otras tecnologías que permiten mejorar de forma significativa la eficiencia y productividad. </p>
 
-<p>Este nuevo paradigma industrial, según el <a href="https://es.weforum.org/agenda/2017/05/industry-4-0-o-como-las-nuevas-tecnologias-estan-poniendo-patas-arriba-el-sector-industrial/" target="_blank">foro económico mundial</a>, <i>se define como la creación de un modelo abstracto y virtual del mundo físico de la planta de manufactura y sus procesos, lo cual permite tomar mejores decisiones a todo</i>.</p><br>
+<p>Este nuevo paradigma industrial, según el <a href="https://es.weforum.org/agenda/2017/05/industry-4-0-o-como-las-nuevas-tecnologias-estan-poniendo-patas-arriba-el-sector-industrial/" target="_blank">foro económico mundial</a>, <i>se define como la creación de un modelo abstracto y virtual del mundo físico de la planta de manufactura y sus procesos, lo cual permite tomar mejores decisiones a todo nivel</i>.</p><br>
 
 <p style="text-align:center;"><img src="/images/diagrama-industria-1.png" width="95%" height="auto" center></p>
-<p class="tittle"></p>
+<p class="tittle"><a href="https://grupofranja2.com/index.php/oftalmica/item/1763-de-la-industria-1-0-a-la-4-0" traget="_blank">Revista MAFO Volumen 13, Andy Huthoefer</a></p>
 <p style="text-align:center;"><img src="/images/diagrama-industria-2.png" width="95%" height="auto" center></p>
-<p class="tittle"></p><br>
+<p class="tittle"><a href="https://www.shutterstock.com/es/image-vector/industrial-revolution-stages-steam-power-cyber-524444866" traget="_blank">Industrial Revolution</a></p><br>
 
 <p>Sabemos que estos conceptos pueden parecer complejos y difíciles de entender.</p>
 
-<p>En <a href="https://octopull.cl" target="_blank"><b>Octo Inc</b></a> nos enfocamos en simplificar las cosas y ayudarte a ti a comenzar con este proceso de transformación digital.</p>
+<p>En <a href="https://octopull.cl" target="_blank"><b>Octo Inc</b></a> nos enfocamos en simplificar las cosas y ayudarte a ti a comenzar con este proceso de <b>transformación digital</b>.</p>
 
 <p>Después de conocer estos conceptos es importante pensar: ¿Cómo puedo implementar o tener tecnologías de la Industria 4.0? ¿Cómo empiezo con este proceso de transformación digital?, quiero optimizar mi planta, ¿Cómo lo hago?.</p>
 
@@ -61,7 +61,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p><a href="https://octopull.cl" target="_blank"><b>Octopull</b></a> te ayuda a comenzar con este proceso de <b>transformación digital</b>, que más que integración de nuevas tecnologías, es un cambio cultural que se da dentro de las empresas. En este sentido, <a href="https://octopull.cl" target="_blank"><b>Octopull</b></a> te acompaña en el camino a la implementación de la <b>Industria 4.0</b>.</p>
 
-<p>El viaje de la transformación digital comprende dos etapas principales:</p>
+<p>El viaje de la <b>transformación digital</b> comprende dos etapas principales:</p>
 
 <ol>
     <li><b>Digitalizar</b> y disponibilizar en la red la mayor cantidad de información de tus activos y procesos operacionales en tu empresa. </li>
