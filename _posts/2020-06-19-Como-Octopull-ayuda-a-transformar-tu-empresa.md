@@ -32,9 +32,9 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 <p>Este nuevo paradigma industrial, según el <a href="https://es.weforum.org/agenda/2017/05/industry-4-0-o-como-las-nuevas-tecnologias-estan-poniendo-patas-arriba-el-sector-industrial/" target="_blank">foro económico mundial</a>, <i>se define como la creación de un modelo abstracto y virtual del mundo físico de la planta de manufactura y sus procesos, lo cual permite tomar mejores decisiones a todo nivel</i>.</p><br>
 
 <p style="text-align:center;"><img src="/images/diagrama-industria-1.png" width="95%" height="auto" center></p>
-<p class="tittle"><a href="https://grupofranja2.com/index.php/oftalmica/item/1763-de-la-industria-1-0-a-la-4-0" traget="_blank">Revista MAFO Volumen 13, Andy Huthoefer</a></p>
+<p class="tittle"><a href="https://grupofranja2.com/index.php/oftalmica/item/1763-de-la-industria-1-0-a-la-4-0" target="_blank">Revista MAFO Volumen 13, Andy Huthoefer</a></p>
 <p style="text-align:center;"><img src="/images/diagrama-industria-2.png" width="95%" height="auto" center></p>
-<p class="tittle"><a href="https://www.shutterstock.com/es/image-vector/industrial-revolution-stages-steam-power-cyber-524444866" traget="_blank">Industrial Revolution</a></p><br>
+<p class="tittle"><a href="https://www.shutterstock.com/es/image-vector/industrial-revolution-stages-steam-power-cyber-524444866" target="_blank">Industrial Revolution</a></p>
 
 <p>Sabemos que estos conceptos pueden parecer complejos y difíciles de entender.</p>
 
