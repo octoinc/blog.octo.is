@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cómo Octopull ayuda a transformar tu empresa"
+title:  "¿Cómo puedo digitalizar mi empresa con la ayuda de Octopull?"
 day:  19 junio, 2020
 categories: new
 author: 'Benjamín Andaur'
