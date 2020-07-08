@@ -104,13 +104,13 @@ image-sharing: "/images/seguridad-octopull.png"
 
 <p><b><i>Y en tiempo real.</i></b></p>
 
-<p>Sin duda, hay muuuchas situaciones que se pueden presentar al interior de una instalación con activos valiosos y este sistema busca facilitar las acciones que se deben tomar frente a aquello.</p>
+<p>Sin duda, hay muchas situaciones que se pueden presentar al interior de una instalación con activos valiosos y este sistema busca facilitar las acciones que se deben tomar frente a aquello.</p>
 
 <p>De igual manera, todo sigue mejorando para aumentar la precisión del sistema.</p>
 
 <p>Así que, si son responsables de seguridad o cuentan con activos que quieren proteger en instalaciones cerradas, sin duda alguna un sistema como este les puede facilitar en gran medida la tarea.</p>
 
-<p>Si te interesa o tienes alguna una duda contacte con nosotros a <a href="mailto:contact@octo.is">contact@octo.is</a><p>
+<p>Si te interesa o tienes alguna una duda comunicate con nosotros a <a href="mailto:contact@octo.is">contact@octo.is</a><p>
 
 <br>
 
