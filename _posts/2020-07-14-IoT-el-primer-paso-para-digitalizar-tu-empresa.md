@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IoT el primer paso para digitalizar tu empresa"
-day:  15 julio, 2020
+day:  14 julio, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Todas las empresas están en la búsqueda continua de mejorar el rendimiento de sus procesos sumado a la necesidad de reducir costos y optimizar el uso de los recursos ¡Todo esto al mismo tiempo!...
