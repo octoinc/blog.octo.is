@@ -1247,7 +1247,10 @@ body.offcanvas {
     margin: 80px 40px;
     color: white;
     padding: 25px ;
-    border-radius: 15px;
+    border-radius: 28px;
+    -webkit-box-shadow: 0px 9px 17px 7px rgba(204,200,204,1);
+    -moz-box-shadow: 0px 9px 17px 7px rgba(204,200,204,1);
+    box-shadow: 0px 9px 17px 7px rgba(204,200,204,1);
     }
 
   .text-buttom{
@@ -1273,7 +1276,7 @@ body.offcanvas {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 15px;
+    font-size: 30px;
   }
 
   .calltoaction-b {
@@ -1299,6 +1302,7 @@ body.offcanvas {
       border-radius: 25px;
       display: inline-block;
       transition: all 0.4s ease 0s;
+      margin-bottom: 15px
       }
 
   .calltoaction-b:hover {
@@ -1403,5 +1407,8 @@ body.offcanvas {
           margin-top: -60px;
           }
     }
+
+  
+  ol.number {list-style-type: lower-latin;}
 
 

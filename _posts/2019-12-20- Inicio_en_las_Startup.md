@@ -121,7 +121,7 @@ image: "/images/imagen1.png"
 <div class="col-md-3">
     <img style="border-radius:50%;" src="/images/Fabian_.png" width="110%" height="auto">
 </div>
-<div class="col-md-7" style="margin-top: 30px;">
+<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">Fabián Serrano</b>
     <br>Sales Manager</p>

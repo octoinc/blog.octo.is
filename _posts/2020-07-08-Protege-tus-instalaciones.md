@@ -112,15 +112,14 @@ image-sharing: "/images/seguridad-octopull.png"
 
 <p>Si te interesa o tienes alguna una duda comunicate con nosotros a <a href="mailto:contact@octo.is">contact@octo.is</a><p>
 
-<br>
 
 <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Fabian.png" width="115%" height="auto">
+    <img style="border-radius:50%;" src="/images/Fabian_.png" width="115%" height="auto">
 </div>
-<div class="col-md-7" style="margin-top: 20px;">
+<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">Fabián Serrano</b>
     <br>Sales Manager</p>

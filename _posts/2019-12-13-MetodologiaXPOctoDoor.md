@@ -46,7 +46,7 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 <div class="col-md-3">
     <img style="float:right; border-radius:50%;" src="/images/Rodrigo.jpg" width="70%" height="auto">
 </div>
-<div class="col-md-7" style="margin-top: 30px;">
+<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">Rodrigo Morgado</b>
     <br>CTO</p>
