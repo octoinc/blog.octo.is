@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IoT el primer paso para digitalizar tu empresa"
-day:  14 julio, 2020
+day:  15 julio, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Todas las empresas están en la búsqueda continua de mejorar el rendimiento de sus procesos sumado a la necesidad de reducir costos y optimizar el uso de los recursos ¡Todo esto al mismo tiempo!...
@@ -20,15 +20,21 @@ image-sharing: "/images/IoT.jpg"
 
 <p><b>¡Todo esto al mismo tiempo!</b></p>
 
-<p>Esto es un desafío no menor y muy complejo, por lo que muchas veces es un reto desalentador para los gerentes o tomadores de decisiones en las empresas.</p>
+<p>Esto es un desafío muy complejo, por lo que muchas veces es un reto desalentador para los gerentes o tomadores de decisiones en las empresas.</p>
 
-<p>Pero... hay una buena noticia... estamos viviendo el proceso de <b>¡Transformación Digital en la Industria!</b></p>
+<p>Pero hay una buena noticia...</p>
+
+<p>... estamos viviendo el proceso llamado</p>
+
+<p><b>¡Transformación Digital en la Industria!</b></p>
 
 <p>Esta transformación viene dada por los grandes avances tecnológicos que conforman lo que se conoce como <a href="https://blog.octo.is/new/2020/06/19/Como-Octopull-ayuda-a-transformar-tu-empresa.html" target="_blank">industria 4.0</a>, la cual permitirá lograr la hazaña que todas las empresas buscan.</p>
 
 <p>La transición es un largo camino en donde todas las empresas se verán obligadas a ser parte, entregando herramientas y ventajas competitivas que generan un valor imprescindible en las época en que vivimos.</p>
 
-<p>Cabe destacar que el proceso de transformación digital va de la mano con el <b>grado de madurez tecnológica de tu empresa</b>, el cual es clave para determinar en qué etapa te encuentras y así comenzar con este desafío.</p>
+<ul>
+<p class="cita">Cabe destacar que el proceso de transformación digital va de la mano con el <b>grado de madurez tecnológica de tu empresa</b>, el cual es clave para determinar en qué etapa te encuentras y así comenzar con este desafío.</p>
+</ul>
 
 <p>El primer paso de este cambio cultural es la denominada <b>digitalización industrial</b>, que consiste en <b><i>disponer la información relevante de forma virtual para que todos los actores relevantes</i></b>, desde los operarios hasta gerencia de más alto nivel, para que sean capaces de tomar las mejores decisiones en el día a día y además de <b><i>conocer en todo momento el funcionamiento completo de tu planta</i></b>.</p>
 
