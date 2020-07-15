@@ -4,7 +4,7 @@ title:  "¿Cómo puedo digitalizar mi empresa con la ayuda de Octopull?"
 day:  19 junio, 2020
 categories: new
 author: 'Benjamín Andaur'
-description: Hoy en día estamos viviendo un cambio de era. Las nuevas tecnologías e innovaciones están transformando el mundo a una velocidad sorprendente, donde aparecen oportunidades únicas que modifican por completo la manera de hacer las cosas, logrando cosas como, por ejemplo...
+description: Hoy en día estamos viviendo un cambio de era. Las nuevas tecnologías e innovaciones están transformando el mundo a una velocidad sorprendente, donde aparecen oportunidades únicas que modifican por completo la manera de hacer las cosas, logrando cosas como, por ejemplo ...
 image: "/images/monitoreo-datos.png"
 image-sharing: "/images/huellero.jpg"
 ---
