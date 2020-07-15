@@ -5,7 +5,7 @@ day:  14 julio, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Todas las empresas están en la búsqueda continua de mejorar el rendimiento de sus procesos sumado a la necesidad de reducir costos y optimizar el uso de los recursos ¡Todo esto al mismo tiempo!...
-image: "/images/IoT.jpg"
+image: "/images/iot.jpg"
 image-sharing: "/images/IoT.jpg"
 ---
 <!-- {% include whatsapp.html %} -->
