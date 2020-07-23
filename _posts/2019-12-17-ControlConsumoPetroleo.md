@@ -5,12 +5,12 @@ day:   17 Diciembre, 2019
 categories: experiencias
 author: 'Santiago Valdivieso'
 description: Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para industria 4.0 adaptadas a resolver una necesidad específica de ellos ...
-image: "/images/car.jpg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas2.jpg"
 ---
 
 <div class="post-text add-padd">
 
-<img src="/images/car3.jpg" width="100%" height="auto">
+<img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas.jpg" width="100%" height="auto">
 <br><br>
 <p>Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para <a href="https://www.mckinsey.com/business-functions/operations/our-insights/industry-40-looking-beyond-the-initial-hype" target="_blank">industria 4.0</a> adaptadas a resolver una necesidad específica de ellos. </p>
 
@@ -68,7 +68,7 @@ image: "/images/car.jpg"
 
 <p>Solo por darles ciertos números en cada faena se poseen estanques con capacidades de 15.000 a 30.000 litros. Mensualmente en cada uno de estos lugares se consumen aproximadamente 120.000 litros y en cada uno de estos estanques existen mermas aproximadas de 1.000 litros mensuales. Que de los cuales 400 aproximados provienen de errores humanos en la medición de combustible por varilla y 600 aproximados por robo o pérdida en ruta de combustible de los camiones.</p>
 
-<img src="/images/dispensadorpetroleo.jpg" width="48%" height="auto" hspace="10" vspace="20"><img src="/images/dispensadorpetroleo2.jpg" width="48%" height="auto" hspace="10" vspace="20">
+<img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dispensadorpetroleo.jpg" width="48%" height="auto" hspace="10" vspace="20"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dispensadorpetroleo2.jpg" width="48%" height="auto" hspace="10" vspace="20">
 <br><br>
 
 <p>Para esto creamos una solución digital que ayuda a eliminar el viejo sistema de nota de vales, para llevar contabilidad de la cantidad de petróleo dispensado. Quiere decir; quién, cuándo, cuánto y a qué máquina se le echó petróleo, de manera digital.<p>
@@ -88,13 +88,13 @@ image: "/images/car.jpg"
 <p>Más creo que también las vueltas de la vida a uno le ayudan a remediar sus errores del pasado, trayendo oportunidades para devolver la mano aunque sea de manera indirecta por situaciones en las que uno se vio involucrado… Saben a lo que me refiero. ;)
 </p>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row section-author">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="float:right; border-radius:50%;" src="/images/Santiago.jpg" width="70%" height="auto">
+    <img class="author" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Santiago.jpg" width="70%" height="auto">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 author-space">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">Santiago Valdivieso</b>
     <br>RRHH</p>
@@ -102,6 +102,6 @@ image: "/images/car.jpg"
 </div>
 
 <br>
-{% include buttons.html %}
+<div>{% include calltoaction.html %}</div>
 <br><br>
 {% include footer.html %}

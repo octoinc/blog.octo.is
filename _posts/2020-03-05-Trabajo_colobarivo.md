@@ -5,7 +5,7 @@ day:   05 Mayo, 2020
 categories: new
 author: 'Rodrigo Morgado'
 description: A fines del año 2016 comenzamos con la idea de integrar la información de vehículos no tripulados como drones y rovers con aplicaciones de chat. La razón de por qué emprendimos esta misión de trabajo, fue para dejar disponible y lo más rápido posible, imágenes capturadas por drones...
-image: "/images/loomo.jpeg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/loomo.jpeg"
 ---
 
 <!-- <meta property="og:image" content="http://www.miweb.com/imagen.jpg"/>
@@ -32,7 +32,7 @@ image: "/images/loomo.jpeg"
 <br>
 
 
-<img style="float:left; margin:10px 20px 10px 0;" src="/images/panel-solar.jpeg" width="40%" height="auto">
+<img style="float:left; margin:10px 20px 10px 0;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/panel-solar.jpeg" width="40%" height="auto">
 <p>La empresa decidió innovar y acceder a implementar una propuesta que incluía el uso de nodos con comunicación wireless y alimentación a través de baterías más paneles solares. Al construir nodos de bajo costo, nos permitió generar redundancia en el sistema y con ellos, aumentar su resiliencia. El problema que  encontramos fue que nuestro diseño no era óptimo. Dentro de un espacio de 1.000 hectáreas, no es necesario instalar sensores en el 100% del área, solo es esencial instalar en aquellas zonas que la empresa ya había identificado como críticas (historial de los robos). Al crear una <a href="https://soporte.syscom.mx/es/articles/1923724-que-es-una-red-wifi-mesh" target="_blank">red mesh</a> en un 90% distribuida, se calcula el porcentaje de manera similar a la que un mensaje ping del <a href="https://medium.com/@adr.rod87/qu%C3%A9-son-los-protocolos-gossip-6b92fe449ec0" target="_blank">protocolo Gossip</a> golpea un peer o no. Si tenemos 10 nodos, y el nodo A envía un mensaje, éste es transmitido por el 90% de los nodos restantes. Yep!, genera problemas en el ancho de banda, pero nada que no se pueda optimizar. Existe un parámetro que llamado TTL, "Time To Live" (que ayuda a controlar el nivel de propagación de los mensajes) se deben agregar nodos intermedios para poder conectar estas áreas, ya que los datos no pueden salir a la nube por sí solos. Esto nos motivó a investigar lo que estaban haciendo varios académicos que usan vehículos no tripulados cómo drones para mejorar la red.</p>
 
 <h3><b>Redes Colaborativas Entre Sensores y Vehículos No Tripulados</b></h3>
@@ -55,7 +55,7 @@ image: "/images/loomo.jpeg"
 <li>Finalmente, usando el modo auto-pilot se puede obtener feedback de la misión para analizar posteriormente las rutas realizadas.</li>
 </ul><br>
 
-<img style="float:right; margin:8px 0px 0px 25px;" src="/images/drone-bumblebot.jpeg" width="40%" height="auto">
+<img style="float:right; margin:8px 0px 0px 25px;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/drone-bumblebot.jpeg" width="40%" height="auto">
 <p>En el equipo <a href="https://www.octo.is/" taget="_blank">Octo Inc.</a>, durante nuestro trabajo en la integración de Bumble Bot (aplicación que se preocupa del compliance a la hora de operar drones) nos percatamos que tener puntos en tierra (como los nodos) correctamente geolocalizados y conociendo con exactitud su precisión, nos permitía corregir las rutas de los drones. Con esto, durante levantamientos aerofotogramétricos, nos permitía obtener mejores resultados.</p><br>
 
 
@@ -63,7 +63,7 @@ image: "/images/loomo.jpeg"
 
 <p>Una vez terminado el proyecto piloto donde colocamos cerca de 50 nodos de seguridad en el Desierto de Atacama utilizando principalmente el protocolo LoRa (para larga distancia y de bajo consumo), comenzamos con la integración en la <a href="https://www.octopull.cl/" taget="_blank">plataforma Octopull</a> donde se comunicaban señales desde estos sensores a drones DJI (Matrice 600, Mavic Pro y Enterprise. Es el mismo SDK por lo que el dolor de cabeza es uno solo). <b>Con esta integración, buscamos generar una misión de vuelo a un drone y una misión de inspección al rover cuando se active una alerta</b> (ej. movimiento en cerco infrarrojo perimetral). El desafío en estas pruebas fue ejecutar la misión desde el "home" hasta la ubicación del sensor de la manera más óptima posible. No solo el GPS del vehículo no tripulado es necesario, se requiere complementar con otros sensores (como de proximidad) para poder guiar al objeto a que ejecute la ruta sin percances.</p>
 
-<img style="float:right; margin:8px 0px 0px 25px;" src="/images/loomo-octo.jpeg" width="45%" height="auto">
+<img style="float:right; margin:8px 0px 0px 25px;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/loomo-octo.jpeg" width="45%" height="auto">
 <p>En una de las pruebas que llevamos a cabo, utilizamos un rover Segway Loomo, si bien, no viene con un GPS de fábrica, posee sensores que permiten una ejecución de ruta bastante decente, pero nos encontramos con problemas de precisión cuando queríamos llegar desde el punto A al B con un error menor de 10 cms. Si la distancia entre A a B era menor de 100 metros, el resultado se encontraba en ese rango de error, pero si aumentábamos la distancia, el error se duplicaba cada 20 metros que agregábamos a la ruta. Algo insostenible para llevar el piloto a producción.</p>
 
 <p>Para poder cumplir con la misión de llegar al Punto B desde A con la mayor precisión posible en distancias sobre 1Km, tuvimos que incorporar hardware y software adicional al Loomo. Esto lo hicimos principalmente para corregir la posición en el tiempo t=t1. Nos dimos cuenta que por consola, el Segway Loomo nos declaraba una posición p=p1 en t=t1, la cual distaba del dato real que capturaba un sensor (GPS y proximidad). Al hacer esta comparación entre la posición reportada por el rover y aquella, reportada por los sensores, nos permitía actualizar las instrucciones del vehículo no tripulado, corrigiendo la ruta y reduciendo el error acumulado en todas las posiciones donde capturábamos datos. Esto nos permitió ejecutar misiones de inspección y vigilancia de mejor manera.</p>
@@ -79,7 +79,7 @@ image: "/images/loomo.jpeg"
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Rodrigo.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Rodrigo.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
@@ -88,13 +88,7 @@ image: "/images/loomo.jpeg"
 </div>
 </div>
 
-<br>
-{% include buttons.html %}
-<br><br>
+<div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">
-
-
-
 
 

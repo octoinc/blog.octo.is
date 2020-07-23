@@ -1412,3 +1412,20 @@ body.offcanvas {
   ol.number {list-style-type: lower-latin;}
 
 
+.author{
+  float:right; 
+  border-radius:50%;
+}
+
+.author-space{
+  margin-top: 26px;
+  padding-left:40px; }
+
+.section-author{
+  margin-bottom:80px;
+  margin-top:40px;
+  font-size:15px;
+}
+ 
+
+

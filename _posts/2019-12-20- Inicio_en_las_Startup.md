@@ -5,7 +5,7 @@ day:   20 Diciembre, 2019
 categories: new
 author: 'Fabián Serrano'
 description: Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me cambié a Ingeniería Civil Industrial. Todos mis compañeros me decían pero cómo te vai a cambiar si no te queda nada para terminar la carrera”. Luego de tanto tiempo de haberlo hecho, fue la mejor decisión que pude tomar...
-image: "/images/imagen1.png"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/firstdoit.png"
 ---
 
 <!-- <div class="borde2">
@@ -53,7 +53,7 @@ image: "/images/imagen1.png"
 
 <p>Como siempre me gustaron los negocios y ya estaba en algo más cercano a lo que me gustaba, en ese tiempo donde estaba en minas y me cambiaba a industrial, empecé a cachar que la mayoría de los más crack como Elon Musk, Bill Gates, Jeff Bezos, Warren Buffet y otros, <b><i>leían caleta</i></b>.</p>
 
-<img style="float:left; margin:10px;" src="/images/libro.jpg" width="40%" height="auto"><i><br>Para los que no cachan nada, lean la biografía de Musk. Sin embargo, les advierto dos cosas: primero sentirán admiración y luego un sentimiento de depresión/angustia si llegan a compararse con él a nivel empresarial o intelectual jajaja.</i></p>
+<img style="float:left; margin:10px;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/libro-elton-musk.jpg" width="40%" height="auto"><i><br>Para los que no cachan nada, lean la biografía de Musk. Sin embargo, les advierto dos cosas: primero sentirán admiración y luego un sentimiento de depresión/angustia si llegan a compararse con él a nivel empresarial o intelectual jajaja.</i></p>
 <br>
 <p><i>Dato: Si leen en inglés, traigan los libros de Amazon. Pueden encontrar en tapa dura y mucho más baratos que en Chile. Acá se van al chancho con el IVA.</i></p>
 
@@ -119,7 +119,7 @@ image: "/images/imagen1.png"
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Fabian_.png" width="110%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png" width="110%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
@@ -128,11 +128,10 @@ image: "/images/imagen1.png"
 </div>
 </div>
 
-<br>
-{% include buttons.html %}
-<br><br>
+<div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">
+
+
 
 
 

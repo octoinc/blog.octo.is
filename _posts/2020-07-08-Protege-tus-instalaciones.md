@@ -5,8 +5,7 @@ day:  08 julio, 2020
 categories: new
 author: 'Fabián Serrano'
 description: Ya sea que trabajes en una empresa de energía, telecomunicaciones o industrial, a todos nos gustaría conocer lo que está pasando en todo momento en nuestras instalaciones que tienen activos de alto valor...
-image: "/images/seguridad-octopull.png"
-image-sharing: "/images/seguridad-octopull.png"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/seguridad-octopull.png"
 ---
 
 {% include whatsapp.html %}
@@ -55,7 +54,7 @@ image-sharing: "/images/seguridad-octopull.png"
 
 <p><b>Utilizando un sistema de detección de estados mediante sensores IoT y visión computarizada.</b></p>
 
-<p style="text-align:center;"><img src="/images/sistema-seguridad-octopull.png" width="98%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sistema-seguridad-octopull.png" width="98%" height="auto" center></p>
 <p class="tittle"><a href="https://octopull.cl/seguridad/" target="_blank">Sistema de seguridad para espacios cerrados Octopull</a></p>
 
 <p><b>Suena futurista pero es real.</b></p>
@@ -88,7 +87,7 @@ image-sharing: "/images/seguridad-octopull.png"
 
 <p>Con todos los sensores captando información de manera constante, es posible <b>utilizar visión computarizada</b> y así llegar a una detección de eventos dentro de la instalación.</p>
 
-<p style="text-align:center;"><img src="/images/vision-computarizada.png" width="98%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/vision-computarizada.png" width="98%" height="auto" center></p>
 <p class="tittle">Ejemplo de detección de persona al interior</p>
 
 <p>En este sentido, sabemos que medir si aumentó o disminuyó el valor de una variable no dice mucho.</p>
@@ -117,7 +116,7 @@ image-sharing: "/images/seguridad-octopull.png"
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Fabian_.png" width="115%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.jpg" width="115%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>

@@ -5,8 +5,7 @@ day:   19 Mayo, 2020
 categories: new
 author: 'Constanza Rivas'
 description: Llevo más de un año trabajando como Project Manager en Octo Inc., utilizando principalmente el modelo de gestión Lean Project Management. No ha sido un camino fácil, pues el mundo de gestionar y coordinar un proyecto de desarrollo de software a la medida ...
-image: "/images/proyectos.jpg"
-image-sharing: "/images/proyectos.jpg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/project.jpg"
 ---
 
 <div class="row post-text">
@@ -54,7 +53,7 @@ image-sharing: "/images/proyectos.jpg"
 <p>Al final cuando ya está el producto de desarrollo de Software listo y probado, se debe analizar las cosas que se hicieron bien y las que se hicieron mal. Esta fase se llama <b>Evaluación</b>. Pero esta evaluación no sirve de nada, si no hay sinceridad por parte del equipo de desarrollo, de parte del Jefe de Producto y del cliente.  Se debe cuestionar en relación a si fueron implementados realmente todos los requerimientos, si la calidad fue la comprometida, si el equipo de trabajo estuvo realmente comprometido, si se cumplieron los plazos propuestos, si los requerimientos fueron los adecuados, entre otros factores más. Estos nos ayudan a no hacer dos veces las cosas mal.</p>
 
 <br>
-<p style="text-align:center;"><img src="/images/diagrama-proyectos.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/diagrama-proyectos.png" width="80%" height="auto" center></p>
 <br>
 
 <p>Ahora que explique, de manera muy general la estructura de trabajo con la mayoría de nuestros clientes, les quiero decir que esto no se da perfectamente con todos. Y si te preguntas ¿por qué no se aplica para todos esta misma estructura? La respuesta es porque se trabaja con Personas, y como mencione anteriormente, entender los intereses personales, problemas reales, frustraciones o motivaciones de cada persona es un desafío continuo.</p>
@@ -67,7 +66,7 @@ image-sharing: "/images/proyectos.jpg"
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Constanza.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Constanza.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>

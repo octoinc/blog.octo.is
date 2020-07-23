@@ -5,8 +5,7 @@ day:  19 junio, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Hoy en día estamos viviendo un cambio de era. Las nuevas tecnologías e innovaciones están transformando el mundo a una velocidad sorprendente, donde aparecen oportunidades únicas que modifican por completo la manera de hacer las cosas, logrando cosas como, por ejemplo ...
-image: "/images/monitoreo-datos.png"
-image-sharing: "/images/huellero.jpg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/monitoreo-datos.png"
 ---
 <!-- {% include whatsapp.html %} -->
 {% include whatsapp.html %}
@@ -31,7 +30,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p>Este nuevo paradigma industrial, según el <a href="https://es.weforum.org/agenda/2017/05/industry-4-0-o-como-las-nuevas-tecnologias-estan-poniendo-patas-arriba-el-sector-industrial/" target="_blank">foro económico mundial</a>, <i>se define como la creación de un modelo abstracto y virtual del mundo físico de la planta de manufactura y sus procesos, lo cual permite tomar mejores decisiones a todo nivel</i>.</p><br>
 
-<p style="text-align:center;"><img src="/images/diagrama-industria-1.png" width="95%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/diagrama-industria4.0.png" width="95%" height="auto" center></p>
 <p class="tittle"><a href="https://grupofranja2.com/index.php/oftalmica/item/1763-de-la-industria-1-0-a-la-4-0" target="_blank">Revista MAFO Volumen 13, Andy Huthoefer</a></p>
 <!-- <p style="text-align:center;"><img src="/images/diagrama-industria-2.png" width="95%" height="auto" center></p>
 <p class="tittle"><a href="https://www.shutterstock.com/es/image-vector/industrial-revolution-stages-steam-power-cyber-524444866" target="_blank">Industrial Revolution</a></p> -->
@@ -48,13 +47,13 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p>En esta plataforma se integran tecnologías de vanguardia, ya sean sensores que utilizan Internet de las Cosas, drones o robots y modelos matemáticos de Inteligencia Artificial, todo esto con la visión de lograr mantener la operación de tu empresa de forma remota.</p><br>
 
-<p style="text-align:center;"><img src="/images/sensor-vibracion.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-vibracion.png" width="80%" height="auto" center></p>
 <p class="tittle">Sensor vibración</p>
 
-<p style="text-align:center;"><img src="/images/sensor-presion.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-presion.png" width="80%" height="auto" center></p>
 <p class="tittle">Sensor presión de fluido</p>
 
-<p style="text-align:center;"><img src="/images/monitoreo-datos.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/monitoreo-datos.png" width="80%" height="auto" center></p>
 <p class="tittle">Plataforma donde se pueden visualizar los datos obtenidos por <br>los sensores en tiempo real.</p>
 
 
@@ -89,7 +88,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Benjamin.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="115%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>

@@ -5,9 +5,7 @@ day:   27 Diciembre, 2019
 categories: [new,prueba]
 author: 'Benjamín Andaur'
 description: Para comenzar con mi experiencia dentro de Octo Inc. quiero contextualizar de la forma más entendible y simple el propósito de nuestra empresa, para que así se pueda comprender fácilmente el proceso que día a día vivimos. Octo Inc. es una Start Up chilena que busca digitalizar y automatizar procesos críticos...
-image: "/images/image.png"
-site.url: https://blog.octo.is/
-pageurl:  /cambiodefoco
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/cambio-de-foco.png"
 ---
 
 <div class="row post-text">
@@ -52,7 +50,7 @@ pageurl:  /cambiodefoco
     <div class="col-md-2">
     </div>
     <div class="col-md-3">
-        <img style="border-radius:50%;" src="/images/Benjamin.jpg" width="110%" height="auto">
+        <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="110%" height="auto">
     </div>
     <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
         <p>Escrito por:</p>
@@ -61,8 +59,5 @@ pageurl:  /cambiodefoco
     </div>
     </div>
         
-    <br>
-    {% include buttons.html %}
-    <br><br>
-   {% include footer.html %}
-    <div class="col-md-2">
+ <div>{% include calltoaction.html %}</div>
+{% include footer.html %}

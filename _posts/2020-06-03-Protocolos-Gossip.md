@@ -5,7 +5,7 @@ day:   03 junio, 2020
 categories: new
 author: 'Hector Orellana'
 description: Gossip es un protocolo de comunicación de datos utilizado en sistemas distribuidos, funciona de manera parecida a la expansión del contagio de una enfermedad o de un rumor, de persona a persona, ya que básicamente trabaja esparciendo un mensaje de nodo en nodo...
-image: "/images/gossip.png"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/gossip.png"
 ---
 
 <div class="row post-text">
@@ -52,7 +52,7 @@ image: "/images/gossip.png"
 
 <p>El siguiente gráfico muestra cómo el mensaje llega a más nodos a medida que pasa el tiempo, con 30 nodos en la red, se envía el mensaje a <b>3 pares cada 5 segundos</b>, asumiendo que no hay nodos con fallas y que no se están perdiendo mensajes.<p>
 
-<p style="text-align:center;"><img src="/images/protocol-gossip.png" width="100%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/protocol-gossip.png" width="100%" height="auto" center></p>
 <p class="tittle">Fuente: <a href="https://www.serf.io/docs/internals/simulator.html" target="_blank">https://www.serf.io/docs/internals/simulator.htm</a></p>
 
 <p>También, se puede observar que toma algo de tiempo (30 segundos) en este caso para que un mensaje llegue a toda la red. Por este motivo se dice que las redes que utilizan protocolos gossip son eventualmente <b>consistentes</b>.</p>
@@ -78,12 +78,11 @@ image: "/images/gossip.png"
 
 <p>El lograr que la red se comunique utilizando un protocolo gossip permite que la plataforma Octopull pueda escalar en el momento en que sea necesario agregar más nodos a la red y resiliente para adaptarse a problemas que puedan surgir.</p>
 
-
 <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Hector.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Hector.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
@@ -93,7 +92,6 @@ image: "/images/gossip.png"
 </div>
 
 {% include calltoaction.html %}
-
 {% include footer.html %}
 <div class="col-md-3">
 </div>

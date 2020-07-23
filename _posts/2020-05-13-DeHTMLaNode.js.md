@@ -5,7 +5,7 @@ day:   13 Mayo, 2020
 categories: new
 author: 'Juan Puelpan'
 description: Una de las primeras cosas que aprendí a hacer cuando comencé a programar, por allá en el año 2010, fue animar elementos en HTML con la etiqueta, y claro, eventualmente  me di cuenta que eso no era parte de lo que se conoce como “programar”...
-image: "/images/matrix.png"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/matrix.png"
 ---
 
 <div class="row post-text">
@@ -14,7 +14,7 @@ image: "/images/matrix.png"
 <br>
 <p>Una de las primeras cosas que aprendí a hacer cuando comencé a programar, por allá en el año 2010, fue animar elementos en HTML con la etiqueta <a href="https://www.w3docs.com/learn-html/html-marquee-tag.html" target="_blank"></marque></a>, y claro, eventualmente  me di cuenta que eso no era parte de lo que se conoce como “programar”. Aún así, solo con el uso de esa etiqueta se podían lograr efectos bien choros <del>para el año 2000</del> como el de <a href="https://stackoverflow.com/questions/22633699/the-matrix-style-binary-code-okay-or-bad" target="_blank">Matrix.</a><p>
 
-<p style="text-align:center;"><img src="/images/matrix.gif" width="60%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/matrix.gif" width="60%" height="auto" center></p>
 
 <p>Pasó el tiempo y mientras aprendía HTML y CSS conocí Javascript, y lo encontré bastante complicado, no entendía qué era cada cosa ni cómo utilizar las funciones ya existentes para crear mis propias funciones y así controlar el DOM (ni [REDACTED] idea qué era eso) con suerte sabía qué era una función. Y por no saber nada de eso fue como me topé con jQuery, el famoso <del>framework</del> librería del momento con el que podías hacer que se movieran las cosas en tu página, el cual me fue mucho más fácil de entender. Solo tenía que utilizar la función <a href="https://api.jquery.com/animate/" target="_blank">.animate() </a> y todo se movía como yo quería, aunque no tuviera la más mínima idea de lo que estaba haciendo por debajo, generalmente copiaba código que encontraba en Stackoverflow u otros sitios similares.</p>
 
@@ -43,7 +43,7 @@ image: "/images/matrix.png"
 <p><b>Errores</b>. Todo falla. Siempre. Si funciona a la primera, es porque hay algo raro. Lo mejor que puede pasar para aprender, es que salgan montones de errores, ver por qué ocurren, pero más importante es saber leer un error. He visto a muchos principiantes que cuando les da un error entran en pánico, abren el código en algún editor y se ponen a buscar por todas partes la falla, sin ni siquiera leer el detalle del error, no se fijan en qué archivo pasó ni el número de línea. Mientras más errores veas y los puedas solucionar, más sabrás a futuro, cuando tu o alguien más se encuentre con ese mismo error. Por eso es importante que todo falle. Literalmente aprendes de tus errores.</p>
 
 
-<p><b>Buscar</b>. Sí, buscar en Google, Stackoverflow, Duck Duck Go, Bing, en todos lados. Principalmente buscar en inglés, la mayoría del contenido está en este idioma y aunque te cueste un poco el inglés no es necesario algo tan avanzado, con inglés tarzán encontrarás muchas coincidencias en tu búsqueda, incluso más que si describes el tema con el mejor inglés que tengas. <img style="float:right; margin:8px 0px 0px 25px;" src="/images/tarzan.gif" width="40%" height="auto">La idea es acostumbrarse a usar inglés en tus búsquedas hasta en las que no estén relacionadas con el área y te darás cuenta que obtendrás mejores resultados y de paso mejorarás tu inglés.</p>
+<p><b>Buscar</b>. Sí, buscar en Google, Stackoverflow, Duck Duck Go, Bing, en todos lados. Principalmente buscar en inglés, la mayoría del contenido está en este idioma y aunque te cueste un poco el inglés no es necesario algo tan avanzado, con inglés tarzán encontrarás muchas coincidencias en tu búsqueda, incluso más que si describes el tema con el mejor inglés que tengas. <img style="float:right; margin:8px 0px 0px 25px;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/tarzan.gif" width="40%" height="auto">La idea es acostumbrarse a usar inglés en tus búsquedas hasta en las que no estén relacionadas con el área y te darás cuenta que obtendrás mejores resultados y de paso mejorarás tu inglés.</p>
 
 <p><b>Practicar y enseñar</b>. Esto es un poco obvio, pero para aprender algo de verdad se debe poner en práctica inmediatamente con lo que sea, haz scripts que resuelvan algún problema específico, no es necesario hacer cosas nuevas, puedes hacer cosas que ya existan y mejorarlas o <a href="https://github.com/florinpop17/app-ideas" target="_blank">sacar alguna idea de este listado</a>. Cuando sepas un poco más del tema, tratar de enseñarlo. Buscar una forma simple de cómo explicarlo. Te darás cuenta de que en realidad no lo sabes tan bien y tendrás que volver a buscar e investigar y esto es altamente recomendado hacerlo mientras estás enseñando, así de paso enseñas a cómo investigar, cuáles son los que sigues, cuál es la lógica que aplicas y lo más valioso de todo es que se comparten las ideas y los puntos de vista aprendiendo mucho más!</p>
 
@@ -53,7 +53,7 @@ image: "/images/matrix.png"
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Juan.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Juan.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
@@ -62,8 +62,5 @@ image: "/images/matrix.png"
 </div>
 </div>
 
-<br>
-{% include buttons.html %}
-<br><br>
+ <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">

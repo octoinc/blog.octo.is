@@ -5,8 +5,8 @@ day:  16 junio, 2020
 categories: new
 author: 'Matías Castro'
 description: La experiencia que he tenido trabajando en el área del backend ha sido por ya aproximadamente 3 años, en algunos lenguajes como ruby on rails, php nativo, php o con framework Laravel, al igual que el uso de bases de datos mysql y postgresql principalmente. Todos los lenguajes que he mencionado...
-image: "/images/lenguaje-programacion.jpg"
-image-sharing: "/images/huellero.jpg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/lenguaje-programacion.jpg"
+image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/lenguaje-programacion.jpg"
 ---
 <!-- {% include whatsapp.html %} -->
 {% include whatsapp.html %}
@@ -109,7 +109,7 @@ const nowDate = moment([2018, 6, 15]);
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Matias.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Matias.jpg" width="115%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
@@ -120,7 +120,6 @@ const nowDate = moment([2018, 6, 15]);
 
 
 {% include calltoaction.html %}
-
 {% include footer.html %}
 <div class="col-md-3">
 </div>

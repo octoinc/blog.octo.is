@@ -5,7 +5,7 @@ day:   13 Diciembre, 2019
 categories: [old,prueba]
 author: 'Rodrigo Morgado'
 description: Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal!. Somos una empresa de tecnología especialista en crear soluciones de Industrial. Tenemos una plataforma llamada Octopull que utiliza sistemas distribuidos ...
-image: "/images/octodoor3.jpg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg"
 ---
 
 <meta expr:content='data:blog.pageName' property='Metodología XP Aplicada a Octodoor'/>
@@ -40,13 +40,12 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 
 <p>El primer release lo sacamos en 1 semana, 1 semana más para <a href="https://play.google.com/store/apps/details?id=com.octoInc.octo_door" target="_blank">Google Play</a> y después 1 semana más para <a href=" ">Apple Store</a>. Hoy en día, OctoDoor es una realidad.</p>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
-<div class="col-md-2">
-</div>
+<div class="row section-author">
+<div class="col-md-2"></div>
 <div class="col-md-3">
-    <img style="float:right; border-radius:50%;" src="/images/Rodrigo.jpg" width="70%" height="auto">
+    <img class="author" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Rodrigo.jpg" width="70%" height="auto">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 author">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">Rodrigo Morgado</b>
     <br>CTO</p>
@@ -54,12 +53,8 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 </div>
 
 
-<br>
-{% include buttons.html %}
-<br><br>
-<!-- {% include coment.html %} -->
+<div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-
 
 
 

@@ -5,8 +5,7 @@ day:   06 junio, 2020
 categories: new
 author: 'José Castillo & Yairan Viloria'
 description: La transformación digital es la opción que muchas empresas están adoptando para mejorar distintos aspectos operacionales core de sus negocios, ya sea productivo, logístico, contable, entre otros. Esta revolución industrial engloba cada arista de un negocio, desde lo más simple a lo más complejo. ...
-image: "/images/huellero.jpg"
-image-sharing: "/images/huellero.jpg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/huellero.jpg"
 ---
 {% include whatsapp.html %}
 
@@ -35,7 +34,7 @@ image-sharing: "/images/huellero.jpg"
 
 <p>Para el segundo caso correspondientes al control de acceso de usuarios en el área de oficinas, se implementaron nodos inteligentes asociados a huelleros y chapas magnéticas para los distintos accesos, a través de protocolos de comunicación Wiegand para la obtención de los datos que posteriormente serán almacenados en nuestra base de datos.</p>
 
-<p style="text-align:center;"><img src="/images/huellero.gif" width="50%" height="auto" center></p><br>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/huellero.gif" width="50%" height="auto" center></p><br>
 
 <p>Finalmente se ubicaron nodos principales encargados de capturar y enviar toda la data a nuestra  plataforma web, con el fin de entregar a nuestro cliente el registro de acceso de cada usuario por fecha y hora.</p>
 
@@ -45,14 +44,14 @@ image-sharing: "/images/huellero.jpg"
 
 <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
-    <img style="border-radius:50%;" src="/images/Jose.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Jose.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-4" style="margin-top: 30px;">
     <p><b style="font-size:20px">José Castillo</b>
     <br>Technical Project Manager</p>
 </div>
 <div class="col-md-2">
-    <img style="border-radius:50%;" src="/images/Yairan.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Yairan.jpg" width="110%" height="auto">
 </div>
 <div class="col-md-4" style="margin-top: 30px;">
     <p><b style="font-size:20px">Yairan Viloria</b>

@@ -5,8 +5,8 @@ day:  15 julio, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Todas las empresas están en la búsqueda continua de mejorar el rendimiento de sus procesos sumado a la necesidad de reducir costos y optimizar el uso de los recursos ¡Todo esto al mismo tiempo!...
-image: "/images/iot.jpg"
-image-sharing: "/images/IoT.jpg"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
+image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
 ---
 <!-- {% include whatsapp.html %} -->
 {% include whatsapp.html %}
@@ -55,7 +55,7 @@ image-sharing: "/images/IoT.jpg"
                     <li>Maximizar el tiempo de funcionamiento de las máquinas.</li>
                     <li>Ganar transparencia en la salud de tus equipos.</li>
                 </ul>  <br>  
-                <p style="text-align:center;"><img src="/images/plataforma-octopull-03.png" width="100%" height="auto" center></p>
+                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-03.png" width="100%" height="auto" center></p>
                 <p class="tittle">Plataforma Octopull - Lista de sensores</p>  
             <li><b>Gestión de rendimiento de activos</b>: Al rastrear y monitorear la condición y estado de tus equipos en tiempo real, se pueden identificar y alertar de los momentos en que estos dejan de operar de forma óptima. Logrando:</li>
                 <ul>
@@ -63,7 +63,7 @@ image-sharing: "/images/IoT.jpg"
                     <li>Generar indicadores de rendimiento (KPI’s) de las máquinas.</li>
                     <li>Ajustar continuamente los equipos para obtener su máxima eficiencia y productividad.</li>
                 </ul><br>
-                <p style="text-align:center;"><img src="/images/plataforma-octopull-02.png" width="100%" height="auto" center></p>
+                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-02.png" width="100%" height="auto" center></p>
                 <p class="tittle">Plataforma Octopull - Alertas y data</p>  
                 <br>   
             <li><b>Optimización de recursos (energía y agua)</b>: Con un seguimiento continuo de las plantas productivas permite identificar los equipos y procesos que puedan reducir su consumo de recursos naturales. Generando beneficios como:</li>
@@ -73,7 +73,7 @@ image-sharing: "/images/IoT.jpg"
                     <li>Comprender mejor la contribución de las máquinas y procesos en el consumo de estos recursos naturales.</li>
                     <li>Mejorar los esfuerzos de sostenibilidad ambiental.</li>
                 </ul><br>
-                <p style="text-align:center;"><img src="/images/plataforma-octopull-01.png" width="100%" height="auto" center></p>
+                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-01.png" width="100%" height="auto" center></p>
                 <p class="tittle">Plataforma Octopull - sensores</p>  
                 <br>  
         </ol>
@@ -100,7 +100,7 @@ El tener datos correctos y confiables permite generar información clave a la ho
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Benjamin.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="115%" height="auto">
 </div>
 <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>

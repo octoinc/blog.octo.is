@@ -5,9 +5,11 @@ day:  21 julio, 2020
 categories: new
 author: 'Octopull'
 description: Monitorea remotamente tus variables críticas en tiempo real y crea tus propias alarmas desde nuestra plataforma octopull.
-image: "/images/octopull_.png"
-image-sharing: "/images/seguridad-octopull.png"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
+image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
 ---
+
+<link rel="image_src" href="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg" />
 
 {% include whatsapp.html %}
 
