@@ -6,10 +6,12 @@ categories: new
 author: 'Octopull'
 description: Monitorea remotamente tus variables críticas en tiempo real y crea tus propias alarmas desde nuestra plataforma octopull.
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
-image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
----
 
-<link rel="image_src" href="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg" />
+---
+<!--Share-->
+<meta property="og:title" content="titulo"/>
+<meta property="og:description" content="descripción"/>
+<meta property="og:image" content="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"/>    
 
 {% include whatsapp.html %}
 
