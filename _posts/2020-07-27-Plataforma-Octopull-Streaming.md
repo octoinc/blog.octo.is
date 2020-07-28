@@ -16,11 +16,12 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopu
     <div class="col-md-9">
     <br>
     Mediante todos los dispositivos que tengas conectado a nuestra <a ref="" target="_blank">plataforma Octopull</a> realiza<b> streaming en tiempo real, toma fotografías y graba</b> tus instalaciones.<br><br>
-    <iframe width="700" height="395" src="https://www.youtube.com/embed/e5-QV1NVMj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <br><br>
+    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/e5-QV1NVMj0' frameborder='0' allowfullscreen></iframe></div>
+    <br>
     ¿Quieres a <b>Octopull</b> en tu empresa?<br> Escríbenos a <a ref="mailto:contact@octo.is">contact@octo.is</a> para coordinar una demostración gratuita.
-    <div style="margin:;">{% include calltoaction.html %}</div>
+    <div style="margin-top: 80px;">{% include calltoaction.html %}</div>
     {% include footer.html %}
     <div class="col-md-3">
     </div>
+    
 
