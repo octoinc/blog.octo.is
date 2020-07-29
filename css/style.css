@@ -1433,7 +1433,8 @@ body.offcanvas {
 
   @media screen and (max-width: 768px){
     .form {
-      padding: 0px;}
+      padding: 0px;
+      margin-left: -40px;}
     }
 
 

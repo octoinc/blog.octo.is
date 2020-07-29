@@ -29,7 +29,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopu
 
 <p>No dudes en contactarnos escribiéndonos a <a ref="" target="_blank">contact@octo.is</a> o solicitar una reunión con nosotros.
 
-<div style="margin-top: 50px;">{% include calltoaction.html %}</div>
+<div style="margin-top: 80px;">{% include calltoaction.html %}</div>
 
 <p>Resolveremos todas tus dudas y te ayudaremos en este camino.</p><br><br>
 
