@@ -4,7 +4,7 @@ title:  "Digitalización ¿opción u obligación?"
 day:  29 julio, 2020
 categories: new
 author: 'Octopull'
-description: descripción...
+description: Hoy en día la tecnología está continuamente en procesos de cambios por lo que las empresas hacen el mayor esfuerzo por estar al día con las nuevas tecnologías, adaptando las herramientas y plataformas necesarias...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
 
 ---
@@ -16,7 +16,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopu
 
 <p>Reliza el siguiente test y conoce en que nivel de digitalización se encuentra tu empresa.</p><br>
 
-<div style="padding: 0px 115px;">
+<div class="form">
 {% include questions.html %}
 </div><br><br>
 
@@ -27,7 +27,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopu
 
 <p>Si te estás preguntando <b>¿Por dónde puedo empezar la transformación digital de mi empresas?</b></p>
 
-<p>No dudes en contactarnos escribiéndonos a <a ref="" target="_blank">contact@octo.is</a> o solicitando una reunión con nosotros.
+<p>No dudes en contactarnos escribiéndonos a <a ref="" target="_blank">contact@octo.is</a> o solicitar una reunión con nosotros.
 
 <div style="margin-top: 50px;">{% include calltoaction.html %}</div>
 
