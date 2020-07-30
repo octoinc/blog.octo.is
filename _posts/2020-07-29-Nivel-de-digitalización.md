@@ -10,17 +10,15 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopu
 ---
 
 <div class="row post-text">
-<div class="col-md-2"></div>
-<div class="col-md-7">
-<br>
+    <div class="col-md-2"></div>
+    <div class="col-md-7">
+    <br>
 
-<p>Reliza el siguiente test y conoce en que nivel de digitalización se encuentra tu empresa.</p><br>
+<p>Reliza el siguiente test y conoce en que nivel de digitalización se encuentra tu empresa.</p>
 
-<div class="form">
-{% include questions.html %}
-</div><br><br>
+<div id="ss_survey_widget"></div><script>(function(){var e="ss-widget",t="script",a=document,r=window;var s,n,c;r.SS_WIDGET_TOKEN="tt-56e471";r.SS_ACCOUNT="octo.surveysparrow.com";r.SS_SURVEY_NAME="DIGITALIZACION";if(!a.getElementById(e)){var S=function(){S.update(arguments)};S.args=[];S.update=function(e){S.args.push(e)};r.SparrowLauncher=S;s=a.getElementsByTagName(t);c=s[s.length-1];n=a.createElement(t);n.type="text/javascript";n.async=!0;n.id=e;n.src=["https://","octo.surveysparrow.com/widget/",r.SS_WIDGET_TOKEN].join("");c.parentNode.insertBefore(n,c)}})();</script>
 
-
+<br><br>
 <p>La <b>transformación digital</b> es un gran reto al que tu empresa deberá enfrentarse tarde o temprano.</p>
  
 <p>Hoy en día la tecnología está continuamente en procesos de cambios por lo que las empresas hacen el mayor esfuerzo por estar al día con las nuevas tecnologías, adaptando las herramientas y plataformas necesarias para llevar a cabo dicha transformación.</p>
