@@ -46,14 +46,18 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/encuesta-digitali
 <br>
 <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png" width="110%" height="auto">
 </div>
-<div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png" width="115%" height="auto">
-</div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
-    <p>Escrito por:</p>
+<div class="col-md-4" style="margin-top: 30px;">
     <p><b style="font-size:20px">Fabián Serrano</b>
     <br>Sales Manager</p>
+</div>
+<div class="col-md-2">
+    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/camila.jpg" width="110%" height="auto">
+</div>
+<div class="col-md-4" style="margin-top: 30px;">
+    <p><b style="font-size:20px">Camila Fonseca</b>
+    <br>Marketing Manager</p>
 </div>
 </div>
 
