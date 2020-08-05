@@ -5,7 +5,7 @@ day:  05 agosto, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Hoy en día se habla mucho de las tecnologías de la industria 4.0 pero en concreto ¿Qué es?. La Industria 4.0 es la integración de nuevas tecnologías en la operación diaria de empresas...
-image: "/images/placa.JPG"
+image: "/images/placa.jpeg"
 ---
 <!-- {% include whatsapp.html %} -->
 {% include whatsapp.html %}
@@ -57,7 +57,7 @@ image: "/images/placa.JPG"
             <p class="tittle">Placas Octopull</p>  
         <p>Esta <b>red es local</b> y se forma por todos los sensores que se instalan en la planta, los cuales se <b>comunican y relacionan entre sí</b>.</p>
             <br><p style="text-align:center;"><img src="/images/plataforma.png" width="70%" height="auto" center></p>
-            <p class="tittle">Red octopull</p>  
+            <p class="tittle">Red Octopull</p>  
         <br> 
     </li>
     <li><h3>Gateway / Nodo central</h3>
@@ -68,7 +68,7 @@ image: "/images/placa.JPG"
 
 <p>Una vez que se monta esta <b>red de sensores</b>, es posible <b>poseer los datos capturados en la web</b> y obtener todos los beneficios de esta tecnología. </p>
 
-<p>Si quieres saber más de cómo funciona o el potencial que posee esta tecnología en tu empresa, no dudes en <a ref="mailto:contact@octo.is" target="_blank">contactarnos</a> y feliz realizamos una <b>demostración GRATIS</b> en tu instalación. </p><br>
+<p>Si quieres saber más de cómo funciona o el potencial que posee esta tecnología en tu empresa, no dudes en <a href="mailto:contact@octo.is" target="_blank">contactarnos</a> y feliz realizamos una <b>demostración GRATIS</b> en tu instalación. </p><br>
 
 
 
