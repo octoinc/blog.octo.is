@@ -53,8 +53,8 @@ image: "/images/placa.jpeg"
     </li>
     <li><h3>Nodo de comunicación</h3>
         <p>Cada sensor por sí solo no es capaz de comunicarse por internet, por lo que es necesario adaptarlo y “transformarlo en inteligente”. Esto se hace a través de un <b>nodo de comunicación</b> que <b>transmite la información</b> que captura el sensor hacia la red.</p>
-            <br><p style="text-align:center;"><img src="/images/Placas.jpeg" width="80%" height="auto" center></p>
-            <p class="tittle">Placas Octopull</p>  
+            <br><p style="text-align:center;"><img src="/images/Tarjeta-Control-Gateway.jpeg" width="80%" height="auto" center></p>
+            <p class="tittle">Tarjeta de Control Octopull</p>  
         <p>Esta <b>red es local</b> y se forma por todos los sensores que se instalan en la planta, los cuales se <b>comunican y relacionan entre sí</b>.</p>
             <br><p style="text-align:center;"><img src="/images/plataforma.png" width="70%" height="auto" center></p>
             <p class="tittle">Red Octopull</p>  
