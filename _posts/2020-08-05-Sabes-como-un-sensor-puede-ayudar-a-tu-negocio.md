@@ -4,8 +4,8 @@ title:  "¿Sabes cómo un sensor puede ayudar a tu negocio?"
 day:  05 agosto, 2020
 categories: new
 author: 'Benjamín Andaur'
-description: ...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/monitoreo-datos.png"
+description: Hoy en día se habla mucho de las tecnologías de la industria 4.0 pero en concreto ¿Qué es?. La Industria 4.0 es la integración de nuevas tecnologías en la operación diaria de empresas...
+image: "/images/placa.jpg"
 ---
 <!-- {% include whatsapp.html %} -->
 {% include whatsapp.html %}
