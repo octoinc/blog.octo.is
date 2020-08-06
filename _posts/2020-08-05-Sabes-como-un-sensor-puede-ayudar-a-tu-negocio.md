@@ -5,7 +5,7 @@ day:  05 agosto, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Hoy en día se habla mucho de las tecnologías de la industria 4.0 pero en concreto ¿Qué es?. La Industria 4.0 es la integración de nuevas tecnologías en la operación diaria de empresas...
-image: "/images/placa.jpeg"
+image: "/images/placa.png"
 ---
 <!-- {% include whatsapp.html %} -->
 {% include whatsapp.html %}
