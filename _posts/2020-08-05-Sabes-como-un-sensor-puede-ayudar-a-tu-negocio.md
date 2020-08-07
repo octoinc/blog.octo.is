@@ -5,7 +5,7 @@ day:  05 agosto, 2020
 categories: new
 author: 'Benjamín Andaur'
 description: Hoy en día se habla mucho de las tecnologías de la industria 4.0 pero en concreto ¿Qué es?. La Industria 4.0 es la integración de nuevas tecnologías en la operación diaria de empresas...
-image: "/images/placa.png"
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/placa.png"
 ---
 <!-- {% include whatsapp.html %} -->
 {% include whatsapp.html %}
@@ -53,10 +53,10 @@ image: "/images/placa.png"
     </li>
     <li><h3>Nodo de comunicación</h3>
         <p>Cada sensor por sí solo no es capaz de comunicarse por internet, por lo que es necesario adaptarlo y “transformarlo en inteligente”. Esto se hace a través de un <b>nodo de comunicación</b> que <b>transmite la información</b> que captura el sensor hacia la red.</p>
-            <br><p style="text-align:center;"><img src="/images/Tarjeta-Control-Gateway.jpeg" width="80%" height="auto" center></p>
+            <br><p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Tarjeta-Control-Gateway.jpeg" width="80%" height="auto" center></p>
             <p class="tittle">Tarjeta de Control Octopull</p>  
         <p>Esta <b>red es local</b> y se forma por todos los sensores que se instalan en la planta, los cuales se <b>comunican y relacionan entre sí</b>.</p>
-            <br><p style="text-align:center;"><img src="/images/plataforma.png" width="70%" height="auto" center></p>
+            <br><p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma.png" width="70%" height="auto" center></p>
             <p class="tittle">Red Octopull</p>  
         <br> 
     </li>
