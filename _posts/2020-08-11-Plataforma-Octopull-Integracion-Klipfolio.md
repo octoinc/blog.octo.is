@@ -4,7 +4,7 @@ title:  "Plataforma Octopull - Integración con Klipfolio"
 day:  28 julio, 2020
 categories: new
 author: 'Octopull'
-description: Mediante todos los dispositivos que tengas conectado a nuestra plataforma Octopull, realiza streaming en tiempo real, toma fotografías y graba tus instalaciones.
+description:  Para visualizar los datos obtenidos por nuestros sensores podrás integrar Octopull en diferentes plataformas. Dentro de ellas se encuentra Klipfolio...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
 
 ---
