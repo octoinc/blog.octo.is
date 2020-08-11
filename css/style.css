@@ -1331,11 +1331,11 @@ body.offcanvas {
   @media screen and (max-width: 2000px){
   .float{ 
     position:fixed; 
-    width:150px;  
-    bottom:50px; 
-    right:40px; 
-    padding: 8px;
-    font-size: 14px;
+    width:200px;  
+    bottom:66px; 
+    right:26px; 
+    padding: 12px;
+    font-size: 12px;
     font-weight: bold;
     letter-spacing: 2px;
     background-color:#F75940; 

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Plataforma Octopull - Integración con Klipfolio"
+day:  28 julio, 2020
+categories: new
+author: 'Octopull'
+description: Mediante todos los dispositivos que tengas conectado a nuestra plataforma Octopull, realiza streaming en tiempo real, toma fotografías y graba tus instalaciones.
+image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
+
+---
+
+
+
+<div class="row post-text text-center" style="text-align: center;">
+    <div class="col-md-1"></div>
+    <div class="col-md-9">
+    <br>
+    Para visualizar los datos obtenidos por nuestros sensores podrás integrar <a href="https://octopull.cl/index.html" target="_blank">Octopull</a> en diferentes plataformas.
+    Dentro de ellas se encuentra <a href="https://www.klipfolio.com/" target="_blank">Klipfolio</a>, una plataforma de fácil programación. Crea <i>listas, gráficos y tablas</i> para <b>ver y analizar</b> tus datos, en el siguiente video te mostramos como llamar un dato y visualizarlo creando un klip: <br><br> 
+    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+    <iframe src="https://www.youtube.com/embed/V9KKkDzwO5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <br>  <br>
+    ¿Quieres a <b>Octopull</b> en tu empresa?<br> Escríbenos a <a ref="mailto:contact@octo.is">contact@octo.is</a> para coordinar una demostración gratuita.
+    <div style="margin-top: 80px;">{% include calltoaction.html %}</div>
+    {% include footer.html %}
+    <div class="col-md-3">
+    </div>
+    
