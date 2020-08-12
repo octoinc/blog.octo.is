@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Plataforma Octopull - Integración con Klipfolio"
-day:  28 julio, 2020
+day:  11 agosto, 2020
 categories: new
 author: 'Octopull'
 description:  Para visualizar los datos obtenidos por nuestros sensores podrás integrar Octopull en diferentes plataformas. Dentro de ellas se encuentra Klipfolio...
