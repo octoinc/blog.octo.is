@@ -2,29 +2,12 @@
 layout: default
 ---
 
-<head>
-    <link href="https://api.github.com/user/repos?page=3&per_page=100" rel="next">
-    <link href="https://api.github.com/user/repos?page=50&per_page=100" rel="last">
-    
-</head>
-
-<!-- <nav aria-label="Page navigation example">
-    <ul class="pagination">
-      <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-      <li class="page-item"><a class="page-link" href="#">1</a></li>
-      <li class="page-item"><a class="page-link" href="#">2</a></li>
-      <li class="page-item"><a class="page-link" href="#">3</a></li>
-      <li class="page-item"><a class="page-link" href="#">Next</a></li>
-    </ul>
-  </nav> -->
-
-  <div class="row">
+<div class="row">
     <div class="col-md-6 col-md-offset-3 col-md-pull-3">
         <span class="heading-meta">Últimos post</span>
         <h2 class="colorlib-heading animate-box" data-animate-effect="fadeInLeft">STORIES & NEWS</h2>
     </div>
 </div>
-
 
 {% for post in site.posts %}
 <div class="row">
@@ -48,4 +31,3 @@ layout: default
     </div>
 </div>
 {% endfor %}
-

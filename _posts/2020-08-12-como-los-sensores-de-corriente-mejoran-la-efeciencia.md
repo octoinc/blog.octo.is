@@ -7,6 +7,8 @@ author: 'Octopull'
 description:  Sabemos que la palabra eficiencia es un término muy utilizado en cualquier ámbito industrial.En este sentido, siempre se busca maximizar este indicador a nivel productivo...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-corriente-172.jpg"
 
+pagination: 
+   enabled: false
 ---
 
 <div class="row post-text">

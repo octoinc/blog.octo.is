@@ -7,6 +7,8 @@ author: 'Octopull'
 description:  Para visualizar los datos obtenidos por nuestros sensores podrás integrar Octopull en diferentes plataformas. Dentro de ellas se encuentra Klipfolio...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull.png"
 
+pagination: 
+   enabled: true
 ---
 
 
