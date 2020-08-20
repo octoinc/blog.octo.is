@@ -1320,10 +1320,25 @@ body.offcanvas {
 
     @media screen and (max-width: 1300px){
       .calltoaction-b {
-        padding: 1% 30%;
+        padding: 1% 16%;
+        border-radius: 20px;
+        }
+      .imagen-author-post{
+          width: 40%!important;
+          }
+      .content-author-post{
+          text-align: center;
+        }
+      .borde-author-post{
+        padding: 0!important;
         }
       }
-    
+
+      @media screen and (max-width: 750px){
+        .imagen-author-post{
+            width: 60%!important;
+            }
+        }
 
 
 

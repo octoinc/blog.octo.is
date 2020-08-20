@@ -42,13 +42,13 @@ image: "/images/inicio-sensor-vibracion.jpeg"
 
 <p>Si quieres saber más de cómo funciona o el potencial que posee esta tecnología en tu empresa, no dudes en <a href="mailto:contact@octo.is" target="_blank">contactarnos</a> y feliz realizamos una <b>demostración GRATIS</b> en tu instalación. </p><br>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row content-author-post" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" class="imagen-author-post" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="115%" height="auto">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 borde-author-post" style="margin-top: 26px;padding-left:40px;">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">Benjamín Andaur</b>
     <br>Key Account Manager</p>
