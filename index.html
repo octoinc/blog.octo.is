@@ -1,35 +1,95 @@
 ---
-layout: default 
+layout: home
 ---
-<!-- 
-<div id="colorlib-main">
-        <div class="colorlib-services">
-            <div class="container-fluid">
-                <div class="row">
- -->
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-md-6 col-md-offset-3 col-md-pull-3">
         <span class="heading-meta">Últimos post</span>
-        <h2 class="colorlib-heading animate-box" data-animate-effect="fadeInLeft">STORIES & NEWS</h2>
+        <h2 class="colorlib-heading">STORIES & NEWS</h2>
     </div>
-</div>
+</div> -->
 
-{% for post in site.posts %}
+
+
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+
+  {% assign start = paginator.page | minus: 2 %}
+  {% assign end = paginator.page | plus: 2 %}
+
+  {% if start < 1 %}
+    {% assign start = 1 %}
+    {% assign end = start | plus: 2 %}
+  {% elsif end > paginator.total_pages %}
+    {% assign start = paginator.total_pages | minus: 2%}
+    {% assign end = paginator.total_pages %}
+  {% endif %}
+
+  {% if start < 1 %}
+    {% assign start = 1 %}
+  {% endif %}
+
+  {% if end > paginator.total_pages %}
+    {% assign end = paginator.total_pages %}
+  {% endif %}
+
+  <div class="pagination-wrapper-home">
+    <div class="pagination pagination-center">
+      <span class="text-paginate pagination-step">Páginas:</span>
+      {% if paginator.previous_page %}
+        <a class="pagination-step" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo</a>
+      {% else %}
+        <span class="pagination-step"></span>
+      {% endif %}
+
+      {% if start > 1 %}
+        <a class="pagination-first" href="{{ site.baseurl }}/">1</a>
+        <span class="pagination-more">...</span>
+      {% endif %}
+
+      {% for page in (start..end) %}
+        {% if page == paginator.page %}
+          <span class="active">{{ page }}</span>
+        {% elsif page == 1 %}
+          <a href="{{ site.baseurl }}/">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.baseurl }}/page{{ page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if end < paginator.total_pages %}
+        <span class="pagination-more">...</span>
+        <a class="pagination-last" href="{{ site.baseurl }}/page{{ paginator.total_pages }}">{{ paginator.total_pages }}</a>
+      {% endif %}
+
+      {% if paginator.next_page %}
+        <a class="pagination-step" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo</a>
+      {% else %}
+        <span class="pagination-step"></span>
+        
+      {% endif %}
+    </div>
+  </div>
+{% endif %}
+
+<!-- content: post -->
+{% for post in paginator.posts %}
 <div class="row">
     <div class="col-md-12">
        
-        <div class="colorlib-feature animate-box" data-animate-effect="fadeInLeft">
+        <div class="colorlib-feature">
             <div class="col-md-3 p-left">
-            <div class="img-blog img-long">
-                <a href="{{post.url}}"><img src="{{post.image}}" width="80%" class="img-responsive"></a>
+            <div>
+                <a href="{{post.url}}"><img src="{{post.image}}" class="img-responsive width-image"></a>
             </div>
             </div>
-            <div class="col-md-9 p-left">
+            <div class="col-md-9 p-left center-tittle-responsive">
             <div class="colorlib-text">
                 <h3 class="margen">{{ post.title }}</h3>
-                <p class="desc"><span><small>{{ post.day }}</small> - <small>{{ post.author }}</small></span></p>
+                <!-- <p class="desc"><span><small>{{ post.day }}</small> - <small>{{ post.author }}</small></span></p> -->
                 <p class="justify">{{ post.description }} <a href="{{post.url}}" class="font">Leer más</a> </p>
+                <p class="desc bold-date"><span><small>{{ post.day }}</small> - <small>{{ post.author }}</small></span></p>
             </div>
             </div>
         </div>
@@ -37,5 +97,75 @@ layout: default
     </div>
 </div>
 {% endfor %}
+
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+
+  {% assign start = paginator.page | minus: 2 %}
+  {% assign end = paginator.page | plus: 2 %}
+
+  {% if start < 1 %}
+    {% assign start = 1 %}
+    {% assign end = start | plus: 2 %}
+  {% elsif end > paginator.total_pages %}
+    {% assign start = paginator.total_pages | minus: 2%}
+    {% assign end = paginator.total_pages %}
+  {% endif %}
+
+  {% if start < 1 %}
+    {% assign start = 1 %}
+  {% endif %}
+
+  {% if end > paginator.total_pages %}
+    {% assign end = paginator.total_pages %}
+  {% endif %}
+
+
+  <div class="pagination-order">
+  <div class="pagination-wrapper">
+    <div class="pagination">
+      <span class="text-paginate pagination-step">Páginas:</span>
+      {% if paginator.previous_page %}
+        <a class="pagination-step" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo</a>
+      {% else %}
+        <span class="pagination-step">
+          
+        </span>
+      {% endif %}
+
+      {% if start > 1 %}
+        <a class="pagination-first" href="{{ site.baseurl }}/">1</a>
+        <span class="pagination-more">...</span>
+      {% endif %}
+
+      {% for page in (start..end) %}
+        {% if page == paginator.page %}
+          <span class="active">{{ page }}</span>
+        {% elsif page == 1 %}
+          <a href="{{ site.baseurl }}/">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.baseurl }}/page{{ page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if end < paginator.total_pages %}
+        <span class="pagination-more">...</span>
+        <a class="pagination-last" href="{{ site.baseurl }}/page{{ paginator.total_pages }}">{{ paginator.total_pages }}</a>
+      {% endif %}
+
+      {% if paginator.next_page %}
+        <a class="pagination-step" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo</a>
+      {% else %}
+        <span class="pagination-step"></span>
+        
+      {% endif %}
+    </div>
+  </div>
+{% endif %}
+</div>
+
+
+
 
 
