@@ -21,7 +21,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
 
    	<!-- Modernizr JS -->
-    <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="/js/modernizr-2.6.2.min.js"></script>
 
     <!-- Coment --> 
     <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
@@ -79,6 +79,21 @@
     <div id="colorlib-main">
         <div class="colorlib-blog">
             <div class="container-fluid">
+                  
+
+              <div class="row">
+                <div class="col-md-6 col-md-offset-3 col-md-pull-3">
+                  <span class="heading-meta">Últimos post</span>
+                  <h2 class="colorlib-heading">STORIES & NEWS</h2>
+                </div>
+              </div>
+
+              <!-- {% include head.html %}
+              <div class="search-container">
+                <input id="search-input" type="text" placeholder="Buscar" class="border-search">
+                <p class="text-search" id="results-container"></p>
+              </div> -->
+              
               {{content}}
             </div>
         </div>
@@ -102,6 +117,21 @@
     <!-- MAIN JS -->
     <script src="/js/main.js"></script>
 
-  </body>
+</body>
   
+<footer>
+    <script type="text/javascript">
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '/page/search.json',
+          searchResultTemplate: '<p><a href="{url}" title="{desc}">{title}</a></p>',
+          noResultsText: 'No se han encontrado resultados.',
+          limit: 4,
+          fuzzy: false,
+          exclude: ['Welcome']
+        })
+    </script>
+</footer>
+
 </html>

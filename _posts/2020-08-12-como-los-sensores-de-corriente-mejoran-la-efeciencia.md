@@ -3,10 +3,9 @@ layout: post
 title:  "¿Cómo los sensores de corriente pueden mejorar la eficiencia de tu planta?"
 day:  12 agosto, 2020
 categories: new
-author: 'Octopull'
-description:  Sabemos que la palabra eficiencia es un término muy utilizado en cualquier ámbito industrial.En este sentido, siempre se busca maximizar este indicador a nivel productivo...
+author: 'Fabián Serrano'
+description:  Sabemos que la palabra eficiencia es un término muy utilizado en cualquier ámbito industrial. En este sentido, siempre se busca maximizar este indicador a nivel productivo...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-corriente-172.jpg"
-
 ---
 
 <div class="row post-text">
