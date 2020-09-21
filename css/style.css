@@ -1534,30 +1534,38 @@ body.offcanvas {
 
 
 .border-search {
-  border: 0.5px solid lightgrey;
-  border-radius: 15px;
+  border: 2px solid #ede8e8;
+  border-radius: 3px;
   font-size: 15px;
   padding: 4px 8px 5px 15px;
-}
-
-.border-search:focus {
   width:100%;
-  border-radius: 15px 15px 0px 0px;
-}
-
-.border-search:focus {
-  border: 0.5px solid #F75940;
+  border-bottom: 0px;
 }
 
 .text-search {
-  border: 0.5px solid lightgrey;
-  border-radius: 0px 0px 15px 15px;
+
+ }
+ .text-search {
+  border-radius: 0px 0px 3px 3px;
+  border: 0.25px solid #ede8e8;
+  margin: 0px 0.5px;
+
  }
 
 .text-search  a{
   color:rgba(0, 0, 0, 0.7);
   margin-bottom: 0px;
+  padding-left: 18px
   /* margin-top: 8px; */}
+
+.text-search  p:hover{
+  background:#ededed;
+  border-radius: 3px #ede8e8}
+
+.text-search  p{
+  padding: 10px 0px;
+  margin:0px }
+
 
 .text-search ul{
   padding: 0px;}
