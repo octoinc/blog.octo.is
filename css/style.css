@@ -1571,6 +1571,7 @@ body.offcanvas {
 
 .width-image {
   width:75%;
+  border-radius: 20px
 }
 
 @media screen and (max-width: 768px) {
