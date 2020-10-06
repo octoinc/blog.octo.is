@@ -19,7 +19,7 @@ image: "/images/plataforma-seguridad.jpg"
 
 <p>En <a href="https://octopull.cl/seguridad/" target="_blank">Octo Inc</a> hemos desarrollado un sistema de seguridad con esas características, te mantendrá informado y un paso adelante ante las actividades inusuales que pueden suceder en tus instalaciones físicas.</p>
 
-<p>La solución consiste en la integración de <b>sensores IoT</b>(el <a href="" target="">siguiente post</a> que explica a profundidad cómo funcionan estos sensores) y una <b>cerradura electrónica</b> que es gestionada desde una aplicación, de manera web como móvil.</p>
+<p>La solución consiste en la integración de <b>sensores IoT</b>(el <a href="https://blog.octo.is/new/2020/09/17/Sistema-seguridad-como-sentidos.html" target="_blank">siguiente post</a> que explica a profundidad cómo funcionan estos sensores) y una <b>cerradura electrónica</b> que es gestionada desde una aplicación, de manera web como móvil.</p>
 
 <p>Ahora podrás decidir <i>quién, en qué fecha y horario </i>puede ingresar a tus instalaciones con solo generar un permiso en la plataforma definiendo previamente restricciones que tu desees. </p>
 
