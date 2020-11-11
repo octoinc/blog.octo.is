@@ -52,7 +52,7 @@ image: "/images/plataforma-seguridad.jpg"
 <li>Valor Agregado en Modernización.</li>
 </ul><br>
 
-<p>Te dejamos invitado a <a href="https://octopull.cl/seguridad/index.html#contacto" target="_blank">solicitar un demo</a> o más información de esta solución.</p>
+<p>Te dejamos invitado <a href="mailto:contact@octo.is">solicitar un demo</a> o más información de esta solución.</p>
 <p></p>
 
 {% include calltoaction.html %}
