@@ -6,14 +6,17 @@ categories: [old,prueba]
 author: 'Rodrigo Morgado'
 description: Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal!. Somos una empresa de tecnología especialista en crear soluciones de Industrial. Tenemos una plataforma llamada Octopull que utiliza sistemas distribuidos ...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg"
+alt-image: "imagen aplicación octodoor by Octo INC."
 ---
 
-<meta expr:content='data:blog.pageName' property='Metodología XP Aplicada a Octodoor'/>
-<meta expr:content='data:blog.postImageUrl' property='/images/octodoor3.jpg'/>
-<meta expr:content='data:blog.metaDescription' property=' Sí, nos entraron a robar a la casa 3 días después de mudarnos...'/>
+<!-- Shared Social -->
+<meta property="og:site_name" content="Blog Octo INC."/>
+<meta property="og:title" content="Metodología XP Aplicada a OctoDoor"/>
+<meta property="og:image" content="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg"/>
+<meta property="og:url" content="http://octopull.cl/"/>
+<meta property="og:description" content="Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal!..."/>
 
 <div class="post-text add-padd">
-
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/tAKcst__STk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,13 +40,12 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 <li>Sin saberlo, estábamos viviendo una de los aspectos más importantes del Extreme Programming, enfocarse en solo una cosa, pero hacerlo bien hasta que todos lo prueben unas 1000 veces y ahí recién pensar en agregar la lógica de edificios y departamentos que decidimos cubrir después. ¿Por qué era importante para nosotros?, simple. Nuestro terreno tiene 2 casas y teníamos que ayudar a solucionar el problema a los vecinos.</li>
 </ol><br>
 
-
 <p>El primer release lo sacamos en 1 semana, 1 semana más para <a href="https://play.google.com/store/apps/details?id=com.octoInc.octo_door" target="_blank">Google Play</a> y después 1 semana más para <a href=" ">Apple Store</a>. Hoy en día, OctoDoor es una realidad.</p>
 
 <div class="row section-author">
 <div class="col-md-2"></div>
 <div class="col-md-3">
-    <img class="author" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Rodrigo.jpg" width="70%" height="auto">
+    <img class="author" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Rodrigo.jpg" alt="Foto Rodrigo Morgado" width="70%" height="auto">
 </div>
 <div class="col-md-7 author">
     <p>Escrito por:</p>
@@ -51,7 +53,6 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
     <br>CTO</p>
 </div>
 </div>
-
 
 <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
