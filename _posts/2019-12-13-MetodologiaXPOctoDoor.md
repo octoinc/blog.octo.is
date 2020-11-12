@@ -1,20 +1,17 @@
 ---
 layout: post
-title:  "Metodología XP Aplicada a OctoDoor"
+title:  Metodología XP Aplicada a OctoDoor
 day:   13 Diciembre, 2019
-categories: [old,prueba]
-author: 'Rodrigo Morgado'
+categories: [Software,Control de accesos,Seguridad]
 description: Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal!. Somos una empresa de tecnología especialista en crear soluciones de Industrial. Tenemos una plataforma llamada Octopull que utiliza sistemas distribuidos ...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg"
-alt-image: "imagen aplicación octodoor by Octo INC."
----
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg
+alt-image: imagen aplicación octodoor by Octo INC.
 
-<!-- Shared Social -->
-<meta property="og:site_name" content="Blog Octo INC."/>
-<meta property="og:title" content="Metodología XP Aplicada a OctoDoor"/>
-<meta property="og:image" content="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/octodoor.jpg"/>
-<meta property="og:url" content="http://octopull.cl/"/>
-<meta property="og:description" content="Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal!..."/>
+author: Rodrigo Morgado
+job: CTO
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Rodrigo.jpg
+alt-image-author: Foto Rodrigo Morgado
+---
 
 <div class="post-text add-padd">
 
@@ -24,7 +21,7 @@ alt-image: "imagen aplicación octodoor by Octo INC."
 
 <p>Sí, nos entraron a robar a la casa 3 días después de mudarnos. Quedamos averiados y sin respuesta. Lo pasamos mal! </p>
 
-Somos una empresa de tecnología especialista en crear soluciones de Industrial <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/radically-rethink-your-strategy-how-digital-b2b-ecosystems-can-help-traditional-manufacturers-create-and-protect-value" target="_blank">Internet of Things</a>. Tenemos una plataforma llamada Octopull que utiliza sistemas distribuidos a nivel de microcontroladores para aumentar la confiabilidad del sistema y así proveer de datos a terceros a través de una <strong>API</strong> pública y privada para que terceros puedan construir soluciones.
+Somos una empresa de tecnología especialista en crear soluciones de Industrial <a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/radically-rethink-your-strategy-how-digital-b2b-ecosystems-can-help-traditional-manufacturers-create-and-protect-value" target="_blank" rel="noopener">Internet of Things</a>. Tenemos una plataforma llamada Octopull que utiliza sistemas distribuidos a nivel de microcontroladores para aumentar la confiabilidad del sistema y así proveer de datos a terceros a través de una <strong>API</strong> pública y privada para que terceros puedan construir soluciones.
 
 <p>Como el problema que teníamos era justamente la seguridad, comenzamos a instalar nodos en la casa tanto de clima como infrarrojos. Somos 22 personas entrando y saliendo por lo que duplicar las llaves de acceso era un tema. Sobre todo porque una de las llaves cuesta cerca de 10 lucrecias!. </p>
 
@@ -40,17 +37,17 @@ Somos una empresa de tecnología especialista en crear soluciones de Industrial 
 <li>Sin saberlo, estábamos viviendo una de los aspectos más importantes del Extreme Programming, enfocarse en solo una cosa, pero hacerlo bien hasta que todos lo prueben unas 1000 veces y ahí recién pensar en agregar la lógica de edificios y departamentos que decidimos cubrir después. ¿Por qué era importante para nosotros?, simple. Nuestro terreno tiene 2 casas y teníamos que ayudar a solucionar el problema a los vecinos.</li>
 </ol><br>
 
-<p>El primer release lo sacamos en 1 semana, 1 semana más para <a href="https://play.google.com/store/apps/details?id=com.octoInc.octo_door" target="_blank">Google Play</a> y después 1 semana más para <a href=" ">Apple Store</a>. Hoy en día, OctoDoor es una realidad.</p>
+<p>El primer release lo sacamos en 1 semana, 1 semana más para <a href="https://play.google.com/store/apps/details?id=com.octoInc.octo_door" target="_blank" rel="noopener">Google Play</a> y después 1 semana más para <a href="https://apps.apple.com/us/app/octo-door/id1491066941" target="_blank" rel="noopener">Apple Store</a>. Hoy en día, OctoDoor es una realidad.</p>
 
 <div class="row section-author">
 <div class="col-md-2"></div>
 <div class="col-md-3">
-    <img class="author" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Rodrigo.jpg" alt="Foto Rodrigo Morgado" width="70%" height="auto">
+    <img class="author" src="{{page.image-author}}" width="70%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7 author">
+<div class="col-md-7 author-space">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Rodrigo Morgado</b>
-    <br>CTO</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 

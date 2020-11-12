@@ -2,10 +2,14 @@
 layout: post
 title:  "Protocolos Gossip"
 day:   03 junio, 2020
-categories: new
-author: 'Hector Orellana'
+categories: 
 description: Gossip es un protocolo de comunicación de datos utilizado en sistemas distribuidos, funciona de manera parecida a la expansión del contagio de una enfermedad o de un rumor, de persona a persona, ya que básicamente trabaja esparciendo un mensaje de nodo en nodo...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/gossip.png"
+
+author: Hector Orellana
+job: Software Developer
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Hector.jpg
+alt-image-author: Foto Hector Orellana
 ---
 
 <div class="row post-text">
@@ -22,7 +26,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/gossip.png"
 	<li>Ningún nodo debería tener una función especial en la red, por lo que es <b>fácil reemplazarlos</b> si fuese necesario. De igual manera si se agrega o quita un nodo a la red esta no debería sufrir problemas.</li>
 </ul><br>
 
-<p>Las redes que utilizan protocolos gossip son resistentes a los fallos de sus nodos y estos mismos pueden autónomamente dirigir sus mensajes a sus pares vivos, obviando los nodos que no estén respondiendo a los mensajes que les llegan. Por otro lado los protocolos gossip no necesariamente se encargan de manejar mensajes que llegan corruptos o incompletos, lo que se conoce como el <a href="https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf" target="_blank">problema de los generales bizantinos</a>.</p>
+<p>Las redes que utilizan protocolos gossip son resistentes a los fallos de sus nodos y estos mismos pueden autónomamente dirigir sus mensajes a sus pares vivos, obviando los nodos que no estén respondiendo a los mensajes que les llegan. Por otro lado los protocolos gossip no necesariamente se encargan de manejar mensajes que llegan corruptos o incompletos, lo que se conoce como el <a href="https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf" target="_blank" rel="noopener">problema de los generales bizantinos</a>.</p>
 
 
 <h2 style="font-weight: 600">Cómo funciona</h2>
@@ -52,8 +56,8 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/gossip.png"
 
 <p>El siguiente gráfico muestra cómo el mensaje llega a más nodos a medida que pasa el tiempo, con 30 nodos en la red, se envía el mensaje a <b>3 pares cada 5 segundos</b>, asumiendo que no hay nodos con fallas y que no se están perdiendo mensajes.<p>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/protocol-gossip.png" width="100%" height="auto" center></p>
-<p class="tittle">Fuente: <a href="https://www.serf.io/docs/internals/simulator.html" target="_blank">https://www.serf.io/docs/internals/simulator.htm</a></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/protocol-gossip.png" width="100%" height="auto" center alt="Simulador de convergencia del Protocolo Gossip"></p>
+<p class="tittle">Fuente: <a href="https://www.serf.io/docs/internals/simulator.html" target="_blank" rel="noopener">https://www.serf.io/docs/internals/simulator.htm</a></p>
 
 <p>También, se puede observar que toma algo de tiempo (30 segundos) en este caso para que un mensaje llegue a toda la red. Por este motivo se dice que las redes que utilizan protocolos gossip son eventualmente <b>consistentes</b>.</p>
 
@@ -61,16 +65,16 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/gossip.png"
 <h2 style="font-weight: 600">Quién utiliza protocolos Gossip.</h2>
 
 <h3>Hashicorp Consul</h3>
-<p><a href="https://www.consul.io/docs/internals/gossip.html" target="_blank">Consul</a> es un servicio para devOps que permite automatizar y comunicar programas que corren en diversos proveedores de la nube como <a href="https://aws.amazon.com/es/" target="_blank">aws</a> o <a href="https://cloud.google.com/?&utm_source=google&utm_medium=cpc&utm_campaign=latam-CL-all-es-dr-bkws-all-all-trial-e-dr-1008075-LUAC0010193&utm_content=text-ad-none-none-DEV_c-CRE_382183366236-ADGP_BKWS+%7C+Multi+~+Google+Cloud-KWID_43700047166266686-kwd-301173107424-userloc_1003325&utm_term=KW_google%20cloud-ST_Google+Cloud&gclid=EAIaIQobChMIooTutKTm6QIVVQiRCh0cewwZEAAYASAAEgKBFfD_BwE&gclsrc=aw.ds" target="_blank">google cloud</a>. Consul utiliza gossip para administrar y enviar mensaje entre cada uno de sus clusters de clientes.</p>
+<p><a href="https://www.consul.io/docs/internals/gossip.html" target="_blank" rel="noopener">Consul</a> es un servicio para devOps que permite automatizar y comunicar programas que corren en diversos proveedores de la nube como <a href="https://aws.amazon.com/es/" target="_blank" rel="noopener">aws</a> o <a href="https://cloud.google.com/?&utm_source=google&utm_medium=cpc&utm_campaign=latam-CL-all-es-dr-bkws-all-all-trial-e-dr-1008075-LUAC0010193&utm_content=text-ad-none-none-DEV_c-CRE_382183366236-ADGP_BKWS+%7C+Multi+~+Google+Cloud-KWID_43700047166266686-kwd-301173107424-userloc_1003325&utm_term=KW_google%20cloud-ST_Google+Cloud&gclid=EAIaIQobChMIooTutKTm6QIVVQiRCh0cewwZEAAYASAAEgKBFfD_BwE&gclsrc=aw.ds" target="_blank" rel="noopener">google cloud</a>. Consul utiliza gossip para administrar y enviar mensaje entre cada uno de sus clusters de clientes.</p>
 
 <h3>Apache Cassandra</h3>
-<p><a href="https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archGossipAbout.html" target="_blank">Cassandra</a> es una base de datos <b>NoSQL</b>, distribuida que promete ser escalable, mantener alta disponibilidad y ser tolerante a los fallos. En cassandra los nodos se comunican entre sí utilizando un protocolo gossip. Luego de enviar un mensaje se espera a que el nodo receptor envíe una respuesta que indique recibió el mensaje correctamente, si esto no ocurre se considera al nodo como caído y el resto de sus pares periódicamente revisarán su estado para verificar si es que revivió. Mientras tanto no se le enviarán mensajes, de esta manera Cassandra detecta errores en los nodos de su red y automáticamente reacciona para rutear los mensajes sólo a sus nodos disponibles.</p>
+<p><a href="https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archGossipAbout.html" target="_blank" rel="noopener">Cassandra</a> es una base de datos <b>NoSQL</b>, distribuida que promete ser escalable, mantener alta disponibilidad y ser tolerante a los fallos. En cassandra los nodos se comunican entre sí utilizando un protocolo gossip. Luego de enviar un mensaje se espera a que el nodo receptor envíe una respuesta que indique recibió el mensaje correctamente, si esto no ocurre se considera al nodo como caído y el resto de sus pares periódicamente revisarán su estado para verificar si es que revivió. Mientras tanto no se le enviarán mensajes, de esta manera Cassandra detecta errores en los nodos de su red y automáticamente reacciona para rutear los mensajes sólo a sus nodos disponibles.</p>
 
 <h3>DynamoDB</h3>
-<p><a href="https://aws.amazon.com/es/dynamodb/" target="_blank">AWS DynamoDB</a> es una de datos <b>NoSQL</b>, serverless que permite cargas de 10 billones de consultas diarias. Al igual que <i>Apache Cassandra</i>, DynamoDB utiliza una red gossip para detectar nodos que no están disponibles para así balancear la carga entre el resto de pares y además asegurarse que toda la base de datos será eventualmente consistente, cuando los mensajes lleguen a toda la red.</p>
+<p><a href="https://aws.amazon.com/es/dynamodb/" target="_blank" rel="noopener">AWS DynamoDB</a> es una de datos <b>NoSQL</b>, serverless que permite cargas de 10 billones de consultas diarias. Al igual que <i>Apache Cassandra</i>, DynamoDB utiliza una red gossip para detectar nodos que no están disponibles para así balancear la carga entre el resto de pares y además asegurarse que toda la base de datos será eventualmente consistente, cuando los mensajes lleguen a toda la red.</p>
 
 <h2 style="font-weight: 600">Gossip en Octopull</h2>
-<p>La base de la plataforma Octopull es una red distribuida de sensores de diversos tipos, tales como clima, flujo de líquido o movimiento, entre otros. Estos sensores se comunican entre sí principalmente utilizando el protocolo de comunicación <b>LoRa</b>, el cual permite a dispositivos comunicarse a través de <b><a href="https://www.thethingsnetwork.org/article/lorawan-world-record-broken-twice-in-single-experiment-1" target="_blank"> grandes distancias</a> y requiriendo poca energía</b>. Al final de la red se encuentra el gateway el cual se encarga de recibir los datos medidos por los sensores para luego subirlos a la nube.</p>
+<p>La base de la plataforma Octopull es una red distribuida de sensores de diversos tipos, tales como clima, flujo de líquido o movimiento, entre otros. Estos sensores se comunican entre sí principalmente utilizando el protocolo de comunicación <b>LoRa</b>, el cual permite a dispositivos comunicarse a través de <b><a href="https://www.thethingsnetwork.org/article/lorawan-world-record-broken-twice-in-single-experiment-1" target="_blank" rel="noopener"> grandes distancias</a> y requiriendo poca energía</b>. Al final de la red se encuentra el gateway el cual se encarga de recibir los datos medidos por los sensores para luego subirlos a la nube.</p>
 
 <p>Para asegurar la estabilidad, escalabilidad del sistema y disponibilidad de los datos Octopull utiliza una red gossip en la cual se encuentran <b>sensores, gateway y nodos intermedios</b>. De esta manera se asegura que los datos lleguen correctamente al gateway y se simplifica la instalación de nuevos nodos y sensores, los cuales deberían unirse a la red automáticamente.</p>
 
@@ -78,20 +82,19 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/gossip.png"
 
 <p>El lograr que la red se comunique utilizando un protocolo gossip permite que la plataforma Octopull pueda escalar en el momento en que sea necesario agregar más nodos a la red y resiliente para adaptarse a problemas que puedan surgir.</p>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Hector.jpg" width="110%" height="auto">
+    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 written">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Hector Orellana</b>
-    <br>Software Developer</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 
-{% include calltoaction.html %}
+ <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">
-</div>
+

@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Problemas que el IoT puede resolver en la operación y mantenimiento de tu planta"
+title:  Problemas que el IoT puede resolver en la operación y mantenimiento de tu planta
 day:  16 junio, 2020
 categories: new
-author: 'Fabián Serrano'
+author: Fabián Serrano
 description: El IoT (Internet of Things), puesto en palabras simples, es la conexión y comunicación de distintos equipos y dispositivos a través de una red en la cual todos interactúan para captar...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/klipfolio-octopull.png"
-image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/klipfolio-octopull.png"
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/klipfolio-octopull.png
+alt-image: Dashboard Klipfolio
+
+author: Fabián Serrano
+job: Sales Manager
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
+alt-image-author: Foto Fabián Serrano
 ---
-<!-- {% include whatsapp.html %} -->
-{% include whatsapp.html %}
 
 <div class="row post-text">
     <div class="col-md-2"></div>
@@ -69,24 +72,24 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/klipfolio
 <p class="cita"><i><b>Todos los puntos anteriores pueden ser solucionados si se cuenta con sensores IoT instalados en tu planta.</b></i></p>
 </ul>
 
-<p>Por lo mismo, te mostramos como en <a href="https://octopull.cl/" target="_blank"><b>Octo Inc</b></a> te podemos ayudar a mejorar la toma de decisiones con <i><b>tecnología</b></i>.</p>
+<p>Por lo mismo, te mostramos como en <a href="https://octopull.cl/" target="_blank" rel="noopener"><b>Octo Inc</b></a> te podemos ayudar a mejorar la toma de decisiones con <i><b>tecnología</b></i>.</p>
 
-<p>Para esto, utilizamos sensores que son capaces de medir distintas variables dentro de tu planta, en particular, <b>temperatura, presión, nivel o flujo de líquidos y corriente</b> (puedes encontrarlos en <a href="https://shop.octopull.cl/" target="_blank">nuestro marketplace</a>).</p><br>
+<p>Para esto, utilizamos sensores que son capaces de medir distintas variables dentro de tu planta, en particular, <b>temperatura, presión, nivel o flujo de líquidos y corriente</b> (puedes encontrarlos en <a href="https://shop.octopull.cl/" target="_blank" rel="noopener">nuestro marketplace</a>).</p><br>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-octopull-01.jpeg" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-octopull-01.jpeg" width="80%" height="auto" center alt="Sensor de corriente funcionando en planta"></p>
 <p class="tittle">Sensor Octopull instalado en planta</p>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-octopull-02.jpeg" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-octopull-02.jpeg" width="80%" height="auto" center  alt="Sensor de presión funcionando en planta"></p>
 <p class="tittle">En este caso el sensor está midiendo la presión de la bomba en tiempo real</p>
 
 <p>Los datos de cada sensor son enviados de manera inalámbrica (o wireless) hacia un nodo de comunicación que envía la información a nuestra plataforma en la nube mediante conexión a internet.</p><br>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/nodo-octopull.jpeg" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/nodo-octopull.jpeg" width="80%" height="auto" center  alt="Nodo de comunicación funcionando en planta"></p>
 <p class="tittle">La caja blanca que se ve arriba es el nodo de comunicación que se encarga <br>de enviar los datos de los sensores a la nube.</p>
 
 <p>Una vez dentro de la plataforma, ya sea el encargado de planta, jefe de operaciones o quien tenga acceso, puede ver el funcionamiento de sus equipos desde su celular o computador a cualquier hora del día facilitando la gestión asociada a la operación y mantenimiento de la planta.</p><br>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dashboard-octopull-klipfolio.jpeg" width="95%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dashboard-octopull-klipfolio.jpeg" width="95%" height="auto" center  alt="Dashboard de visualización de datos Klipfolio"></p>
 <p class="tittle">Panel de visualización del funcionamiento de equipos en planta, en este caso, un Chiller.</p>
 
 <p>Con esta información es posible definir diverso parámetros de funcionamiento en planta y que pueden facilitar tu día a día.</p>
@@ -111,22 +114,18 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/klipfolio
 
 <p>Nosotros te ayudamos. No dude en escribirnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 written">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Fabián Serrano</b>
-    <br>Sales Manager</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 
-
-{% include calltoaction.html %}
-
+ <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">
-</div>

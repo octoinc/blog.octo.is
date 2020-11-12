@@ -2,14 +2,16 @@
 layout: post
 title:  "Mi experiencia con NodeJS en un proyecto de un gran retail"
 day:  16 junio, 2020
-categories: new
-author: 'Matías Castro'
+categories: [Experencia personal,Programar]
 description: La experiencia que he tenido trabajando en el área del backend ha sido por ya aproximadamente 3 años, en algunos lenguajes como ruby on rails, php nativo, php o con framework Laravel, al igual que el uso de bases de datos mysql y postgresql principalmente. Todos los lenguajes que he mencionado...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/lenguaje-programacion.jpg"
-image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/lenguaje-programacion.jpg"
+alt-image: Programando
+
+author: Matías Castro
+job: Software Developer
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Matias.jpg
+alt-image-author: Foto Matías Castro
 ---
-<!-- {% include whatsapp.html %} -->
-{% include whatsapp.html %}
 
 <div class="row post-text">
     <div class="col-md-2"></div>
@@ -20,7 +22,7 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/lenguaje-
 
 <p>La experiencia que he tenido trabajando en el área del <b>backend</b> ha sido por ya aproximadamente 3 años, en algunos lenguajes como ruby on rails, php nativo, php o con framework Laravel, al igual que el uso de bases de datos mysql y postgresql principalmente. Todos los lenguajes que he mencionado han sido utilizados en trabajos para la universidad como también un par de trabajos de freelance, donde tuve que desarrollar un sistema de gestión de turnos para los empaquetadores de supermercados y una aplicación de ventas online de productos de oficina ubicados en el barrio meiggs. Mi fuerte ha sido trabajar lo que es backend ya que lo que es diseño o programación de front siempre me ha costado.</p>
 
-<p>Soy parte del equipo de desarrollo en <a href="" target="_blank">Octo Inc.</a>, hace 1 año y 2 meses aproximadamente, al principio inicié como practicante en donde tuve que aprender las metodologías de trabajo y los lenguajes que utilizan. Fue un reto para mí, ya que trabajar en una empresa y poder cumplir con las tareas que se me pedían y a la vez con la universidad no ha sido nada fácil.</p>
+<p>Soy parte del equipo de desarrollo en <a href="https://octo.is/" target="_blank" rel="noopener">Octo Inc.</a>, hace 1 año y 2 meses aproximadamente, al principio inicié como practicante en donde tuve que aprender las metodologías de trabajo y los lenguajes que utilizan. Fue un reto para mí, ya que trabajar en una empresa y poder cumplir con las tareas que se me pedían y a la vez con la universidad no ha sido nada fácil.</p>
 
 <h2>Experiencia Follow Regional</h2>
 
@@ -34,9 +36,9 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/lenguaje-
 
 <p>Como comentaba al principio, entré a esta empresa sin conocer lo que era <b>NodeJs</b> o <b>ExpressJs</b>, tuve que iniciar un curso en Udemy para poder tener alguna noción, para ello se me dio una semana para familiarizarme con este lenguaje antes de integrarme definitivamente, al principio no entendía nada y me entraba el pánico por no poder cumplir en la pega y con ello reprobar la práctica.</p>
 
-<p>Con el tiempo logré comprender que no era algo del otro mundo, mientras iba haciendo las cosas que me pedían, empecé a adaptarme a como es node, aprendí sobre qué <b>node es especial para comunicación en tiempo real entre el cliente y servidor</b>, y que es más liviano para trabajar en este último (<i>gran ventaja!</i> ), a trabajar en tiempo real con funciones asíncronas y el uso de async/await, la cual consiste en que una función debe esperar a que termine para poder procesar el siguiente, pude aprender a trabajar con arreglos/objetos de mejor manera al complementar con el uso de <a href="https://lodash.com/docs/4.17.15" traget="_blank"><b>lodash</b></a> (<i>con esto se expandió mi cabeza</i>) es una librería de JavaScript que se puede utilizar con node, te simplificará la vida, siempre se la recomiendo a todos. En cuanto a <b>Express</b> logre comprender cómo armar una infraestructura sencilla para poder manejar las peticiones y de esta forma poder comunicarse con el front de una forma más sencilla.</p>
+<p>Con el tiempo logré comprender que no era algo del otro mundo, mientras iba haciendo las cosas que me pedían, empecé a adaptarme a como es node, aprendí sobre qué <b>node es especial para comunicación en tiempo real entre el cliente y servidor</b>, y que es más liviano para trabajar en este último (<i>gran ventaja!</i> ), a trabajar en tiempo real con funciones asíncronas y el uso de async/await, la cual consiste en que una función debe esperar a que termine para poder procesar el siguiente, pude aprender a trabajar con arreglos/objetos de mejor manera al complementar con el uso de <a href="https://lodash.com/docs/4.17.15" traget="_blank" rel="noopener"><b>lodash</b></a> (<i>con esto se expandió mi cabeza</i>) es una librería de JavaScript que se puede utilizar con node, te simplificará la vida, siempre se la recomiendo a todos. En cuanto a <b>Express</b> logre comprender cómo armar una infraestructura sencilla para poder manejar las peticiones y de esta forma poder comunicarse con el front de una forma más sencilla.</p>
 
-<p>Iniciar un proyecto con módulos de Node y Express no es complicado, pero lo primero que hay que tomar en cuenta es el uso de npm, este es un gestor de paquetes que permite crear, compartir y reutilizar aplicaciones y módulos de node. Para instalar npm solo deben seguir las instrucciones de su documentación (<a href="https://www.npmjs.com/get-npm" target="_blank">Get-npm</a>). Ya que luego de instalar express, es tan sólo con tener esta estructura en un nuevo archivo en su carpeta raíz: </p>
+<p>Iniciar un proyecto con módulos de Node y Express no es complicado, pero lo primero que hay que tomar en cuenta es el uso de npm, este es un gestor de paquetes que permite crear, compartir y reutilizar aplicaciones y módulos de node. Para instalar npm solo deben seguir las instrucciones de su documentación (<a href="https://www.npmjs.com/get-npm" target="_blank" rel="noopener">Get-npm</a>). Ya que luego de instalar express, es tan sólo con tener esta estructura en un nuevo archivo en su carpeta raíz: </p>
 
 <pre>
 <code>
@@ -105,21 +107,19 @@ const nowDate = moment([2018, 6, 15]);
 
 <p>Finalmente, toda esta experiencia que he vivido con nuevas metodologías y nuevos lenguajes es un trabajo que toma tiempo y dedicación, llevo 1 año y 2 meses y aún sigo aprendiendo. Si hay nuevas tecnologías que se deben aprender para realizar un trabajo de la universidad, o para empezar a trabajar, está bien sentirse abrumado o como también habrán pensamientos que te digan que no podrás, pero <b>solo se necesita esfuerzo y dedicación que con esto se puede llegar lejos</b>.</p>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Matias.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 written">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Matías Castro</b>
-    <br>Software Developer</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 
-
-{% include calltoaction.html %}
+ <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">
-</div>
+

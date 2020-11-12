@@ -1423,10 +1423,8 @@ body.offcanvas {
           margin-top: -60px;
           }
     }
-
   
   ol.number {list-style-type: lower-latin;}
-
 
 .author{
   float:right; 
@@ -1456,7 +1454,7 @@ body.offcanvas {
   }
 
 .text-paginate  {  
-  color: #a1a1a1!important;
+  color: #747474!important;
   font-size: 14px!important;
   font-weight: 400!important; }
 
@@ -1588,4 +1586,15 @@ body.offcanvas {
     height: 26px;
     width: 25px;
   }
+}
+
+.written{
+  margin-top: 26px;
+  padding-left:40px;
+}
+
+.container-written{
+  margin-bottom:80px;
+  margin-top:40px;
+  font-size:15px;
 }

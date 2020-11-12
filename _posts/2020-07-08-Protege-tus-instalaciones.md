@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  "Cómo proteger tus instalaciones de manera remota"
+title:  Cómo proteger tus instalaciones de manera remota
 day:  08 julio, 2020
-categories: new
-author: 'Fabián Serrano'
+categories: Seguridad
 description: Ya sea que trabajes en una empresa de energía, telecomunicaciones o industrial, a todos nos gustaría conocer lo que está pasando en todo momento en nuestras instalaciones que tienen activos de alto valor...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/seguridad-octopull.png"
----
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/seguridad-octopull.png
+alt-image: Ilustración del funcionamiento del sistema de seguridad Octo INC.
 
-{% include whatsapp.html %}
+author: Fabián Serrano
+job: Sales Manager
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
+alt-image-author: Foto Fabián Serrano
+---
 
 <div class="row post-text">
     <div class="col-md-2"></div>
@@ -54,8 +57,8 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/seguridad-octopul
 
 <p><b>Utilizando un sistema de detección de estados mediante sensores IoT y visión computarizada.</b></p>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sistema-seguridad-octopull.png" width="98%" height="auto" center></p>
-<p class="tittle"><a href="https://octopull.cl/seguridad/" target="_blank">Sistema de seguridad para espacios cerrados Octopull</a></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sistema-seguridad-octopull.png" width="98%" height="auto" center alt="Diagrama del sistema de seguridad de Octo INC."></p>
+<p class="tittle"><a href="https://octopull.cl/seguridad/" target="_blank" rel="noopener">Sistema de seguridad para espacios cerrados Octopull</a></p>
 
 <p><b>Suena futurista pero es real.</b></p>
 
@@ -75,7 +78,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/seguridad-octopul
 
 <p style="font-size:20px;"><b>¿Cómo hacer frente a esto?</b></p>
 
-<p>Para facilitar la detección y prevención de este y otros eventos, utilizamos diferentes sensores, que puedes encontrar en nuestro <a href="https://shop.octopull.cl/" target="_blank">marketplace</a>:</p>
+<p>Para facilitar la detección y prevención de este y otros eventos, utilizamos diferentes sensores, que puedes encontrar en nuestro <a href="https://shop.octopull.cl/" target="_blank" rel="noopener">marketplace</a>:</p>
 
 <ul>
     <li><b>Clima:</b> Con esto se mide la presión, humedad relativa y temperatura en la instalación.</li><br>
@@ -87,7 +90,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/seguridad-octopul
 
 <p>Con todos los sensores captando información de manera constante, es posible <b>utilizar visión computarizada</b> y así llegar a una detección de eventos dentro de la instalación.</p>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/vision-computarizada.png" width="98%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/vision-computarizada.png" width="98%" height="auto" center alt="Reconomiento de personas en la plataforma de seguridad"></p>
 <p class="tittle">Ejemplo de detección de persona al interior</p>
 
 <p>En este sentido, sabemos que medir si aumentó o disminuyó el valor de una variable no dice mucho.</p>
@@ -112,22 +115,18 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/seguridad-octopul
 <p>Si te interesa o tienes alguna una duda comunicate con nosotros a <a href="mailto:contact@octo.is">contact@octo.is</a><p>
 
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png" width="115%" height="auto">
+    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 written">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Fabián Serrano</b>
-    <br>Sales Manager</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 
-
-{% include calltoaction.html %}
-
+ <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">
-</div>

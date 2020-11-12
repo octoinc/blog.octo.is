@@ -2,17 +2,6 @@
 layout: home
 ---
 
-<!-- <div class="row">
-    <div class="col-md-6 col-md-offset-3 col-md-pull-3">
-        <span class="heading-meta">Últimos post</span>
-        <h2 class="colorlib-heading">STORIES & NEWS</h2>
-    </div>
-</div> -->
-
-
-
-
-<!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 
   {% assign start = paginator.page | minus: 2 %}
@@ -81,7 +70,7 @@ layout: home
         <div class="colorlib-feature">
             <div class="col-md-3 p-left">
             <div>
-                <a href="{{post.url}}"><img src="{{post.image}}" class="img-responsive width-image"></a>
+                <a href="{{post.url}}"><img src="{{post.image}}" class="img-responsive width-image" alt="{{page.alt-image}}"}></a>
             </div>
             </div>
             <div class="col-md-9 p-left center-tittle-responsive">

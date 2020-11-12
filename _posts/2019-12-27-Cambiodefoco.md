@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Cambio de Foco"
+title:  Cambio de Foco
 day:   27 Diciembre, 2019
-categories: [new,prueba]
-author: 'Benjamín Andaur'
+categories: [Software,Proyectos]
 description: Para comenzar con mi experiencia dentro de Octo Inc. quiero contextualizar de la forma más entendible y simple el propósito de nuestra empresa, para que así se pueda comprender fácilmente el proceso que día a día vivimos. Octo Inc. es una Start Up chilena que busca digitalizar y automatizar procesos críticos...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/cambio-de-foco.png"
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/cambio-de-foco.png
+alt-image: Ilustacción sobre cambiar el foco
+
+author: Benjamín Andaur
+job: Key Account Manager
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
+alt-image-author: Foto Benjamín Andaur
 ---
 
 <div class="row post-text">
@@ -13,8 +18,8 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/cambio-de-foco.pn
     <div class="col-md-7">
     <br>
     <p class="centro"><b>  ------------  </b></p>
-    <p>Para comenzar con mi experiencia dentro de <a href="https://www.octo.is/" target="_blank">Octo Inc.</a> quiero contextualizar de la forma más entendible y simple el propósito de nuestra empresa, así puedan comprender fácilmente el proceso que día a día vivimos. </p>
-    <p>Octo Inc. es una <a href="https://www.youtube.com/watch?v=P_s_NdTNIqU" target="_blank">Start Up</a> chilena que busca digitalizar y automatizar procesos críticos de negocio usando dos tecnologías emergentes a nivel nacional, el <a href="https://www.youtube.com/watch?v=EKRVILAohck">Internet de las cosas (IoT)</a> y el desarrollo de software bajo la metodología <a href="https://www.youtube.com/watch?v=RCWrbli3YXk" target="_blank">RPA (Robotic Process Automation)</a>, todo esto con el fin de optimizar las operaciones internas de nuestros clientes y devolver valor al trabajo humano dentro de cualquier organización. </p>
+    <p>Para comenzar con mi experiencia dentro de <a href="https://www.octo.is/" target="_blank" rel="noopener">Octo Inc.</a> quiero contextualizar de la forma más entendible y simple el propósito de nuestra empresa, así puedan comprender fácilmente el proceso que día a día vivimos. </p>
+    <p>Octo Inc. es una <a href="https://www.youtube.com/watch?v=P_s_NdTNIqU" target="_blank" rel="noopener">Start Up</a> chilena que busca digitalizar y automatizar procesos críticos de negocio usando dos tecnologías emergentes a nivel nacional, el <a href="https://www.youtube.com/watch?v=EKRVILAohck" target="_blank" rel="noopener">Internet de las cosas (IoT)</a> y el desarrollo de software bajo la metodología <a href="https://www.youtube.com/watch?v=RCWrbli3YXk" target="_blank" rel="noopener">RPA (Robotic Process Automation)</a>, todo esto con el fin de optimizar las operaciones internas de nuestros clientes y devolver valor al trabajo humano dentro de cualquier organización. </p>
     <p>Como se dieron cuenta la empresa tiene un único foco, pero utilizando dos herramientas tecnológicas diferentes, lo que genera internamente dos unidades de negocios , uno en el cual se desarrolla hardware y software (IoT) bajo el nombre de <b>Octopull</b> y el otro dedicado full al software (RPA) bajo el nombre de <b>Octoprojects</b>.</p>
     <p class="centro"><b>  ------------  </b></p>
     <p>A inicios de 2019, comencé a trabajar en la empresa bajo el cargo de practicante, fue mi primer trabajo de ingeniero, estaba muy motivado con la idea de trabajar en una empresa joven y disruptiva, por lo que quería demostrar todas mis capacidades aprendidas a lo largo de mi experiencia escolar y universitaria. 
@@ -46,16 +51,16 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/cambio-de-foco.pn
     <li>Optimismo y paciencia, ya que muchas veces te verás superado por la situación pero tendrás que salir adelante como sea.</li> 
     </ul><br>
     <p>A pesar de que un principio me sentí incómodo al cambiar completamente el foco que tenía dentro de la empresa, este me sacó de mi zona de confort permitiéndome conocer nuevas realidades que sin duda ayudaron a seguir desarrollándome como profesional, además de ganar algo de la tan preciada experiencia. </p>
-    <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+    <div class="row container-written">
     <div class="col-md-2">
     </div>
     <div class="col-md-3">
-        <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="110%" height="auto">
+        <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
     </div>
-    <div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+    <div class="col-md-7 written">
         <p>Escrito por:</p>
-        <p><b style="font-size:20px">Benjamín Andaur</b>
-        <br>Key Account Manager</p>
+        <p><b style="font-size:20px">{{page.author}}</b>
+        <br>{{page.job}}</p>
     </div>
     </div>
         

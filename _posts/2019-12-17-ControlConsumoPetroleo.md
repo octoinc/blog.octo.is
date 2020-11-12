@@ -1,22 +1,29 @@
 ---
 layout: post
-title:  "Control del Consumo de Petróleo en Faenas Industriales"
+title:  Control del Consumo de Petróleo en Faenas Industriales
 day:   17 Diciembre, 2019
-categories: experiencias
-author: 'Santiago Valdivieso'
+categories: Experiencia personal
 description: Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para industria 4.0 adaptadas a resolver una necesidad específica de ellos ...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas2.jpg"
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas2.jpg
+alt-image: Santiago junto al auto de Leonardo Farkas
+
+author: Santiago Valdivieso
+job: RRHH
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Santiago.jpg
+alt-image-author: Foto Santiago Valdivieso
 ---
 
 <div class="post-text add-padd">
 
-<img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas.jpg" width="100%" height="auto">
+<img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas.jpg" width="100%" height="auto" alt="Santiago junto al auto de Farkas">
+
 <br><br>
-<p>Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para <a href="https://www.mckinsey.com/business-functions/operations/our-insights/industry-40-looking-beyond-the-initial-hype" target="_blank">industria 4.0</a> adaptadas a resolver una necesidad específica de ellos. </p>
+
+<p>Hace un par de años que tenía en mente abrir uno de mis contactos gordos de mi cartera de posibles clientes, para entablar una relación de servicio fundada en proveer de algunas de nuestras soluciones para <a href="https://www.mckinsey.com/business-functions/operations/our-insights/industry-40-looking-beyond-the-initial-hype" target="_blank" rel="noopener">industria 4.0</a> adaptadas a resolver una necesidad específica de ellos. </p>
 
 <p>Este contacto es de aquellos que no quieres utilizar hasta que estás completamente seguro de que posees la espalda suficiente para responder todas sus necesidades, en tiempo y calidad, ¿Me hago entender? Son de esos cartuchos que sabes “solo tienes un tiro para darle en el blanco”. Vi esta posibilidad como un éxito de escalamiento y apalancamiento al crecimiento de la empresa. Si no era asertivo en sacar esta carta en el tiempo preciso probablemente me arrepentiría de haber derramado la oportunidad.</p>
 
-<p>Bueno, nos sentimos capaces y con ganas, por lo que de manera no planificada se activó sola esta ballena después de enviar correos y mensajes a LinkedIn. Imagínense, logramos comunicarnos directamente con uno de los dueños, el cual nos recibió en su oficina y pudimos presentarle nuestro desarrollo en plataforma para la integración de dispositivos <a href="https://www.mckinsey.com/featured-insights/internet-of-things/how-we-help-clients" target="_blank">IoT</a> Industriales, quedó súper motivado y pasó directamente a contarnos su dolor:</p>
+<p>Bueno, nos sentimos capaces y con ganas, por lo que de manera no planificada se activó sola esta ballena después de enviar correos y mensajes a LinkedIn. Imagínense, logramos comunicarnos directamente con uno de los dueños, el cual nos recibió en su oficina y pudimos presentarle nuestro desarrollo en plataforma para la integración de dispositivos <a href="https://www.mckinsey.com/featured-insights/internet-of-things/how-we-help-clients" target="_blank" rel="noopener">IoT</a> Industriales, quedó súper motivado y pasó directamente a contarnos su dolor:</p>
 
 <ul style="list-style-type: none;">
 <li><strong>- Cliente:</strong> “Necesito controlar el consumo del Petróleo que compramos (+ de 2 toneladas) todos los meses, del cual tenemos pérdidas bastante significativas. ¿Tú crees podrían sensorizar nuestros estanques de faenas y camiones para saber quien y cuando se están haciendo los vivos con el petróleo?”</li>
@@ -25,6 +32,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas2.jpg"
 </ul>
 
 <br>
+
 <p>Quedamos sorprendidos junto a mis compañeros presentes; nunca un cliente nos había llevado de inmediato a conocer sus instalaciones. Bajamos de manera rápida y resumida junto a parte del equipo que lideraría la integración de nuestra tecnología, en el intertanto en uno de sus talleres había un auto grande de esos americanos antiguos color azul, nos acercamos y pregunté:</p>
 
 <ul style="list-style-type: none;">
@@ -68,7 +76,10 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas2.jpg"
 
 <p>Solo por darles ciertos números en cada faena se poseen estanques con capacidades de 15.000 a 30.000 litros. Mensualmente en cada uno de estos lugares se consumen aproximadamente 120.000 litros y en cada uno de estos estanques existen mermas aproximadas de 1.000 litros mensuales. Que de los cuales 400 aproximados provienen de errores humanos en la medición de combustible por varilla y 600 aproximados por robo o pérdida en ruta de combustible de los camiones.</p>
 
-<img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dispensadorpetroleo.jpg" width="48%" height="auto" hspace="10" vspace="20"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dispensadorpetroleo2.jpg" width="48%" height="auto" hspace="10" vspace="20">
+<div class="text-center">
+<img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dispensadorpetroleo.jpg" width="45%" height="auto" hspace="10" vspace="20" alt="Estanque visible del camión"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dispensadorpetroleo2.jpg" width="45%" height="auto" hspace="10" vspace="20" alt="Estanque camión">
+</div>
+
 <br><br>
 
 <p>Para esto creamos una solución digital que ayuda a eliminar el viejo sistema de nota de vales, para llevar contabilidad de la cantidad de petróleo dispensado. Quiere decir; quién, cuándo, cuánto y a qué máquina se le echó petróleo, de manera digital.<p>
@@ -77,7 +88,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas2.jpg"
 
 <ul>
 <li><strong>Instalación de Sistema TAG para máquinas:</strong> De esta forma, saber qué máquina entra a la estación de petróleo y por cuánto tiempo.</li>
-<li><strong>Integración de Lector código QR:</strong> PPara saber quién sacó petróleo, se implementó el lector de códigos QR, cada chofer antes de utilizar la pistola dispensadora de petróleo debe escanear su carnet de identidad. De esta forma, se llevará control del consumo de cada chofer como también en general.</li>
+<li><strong>Integración de Lector código QR:</strong> Para saber quién sacó petróleo, se implementó el lector de códigos QR, cada chofer antes de utilizar la pistola dispensadora de petróleo debe escanear su carnet de identidad. De esta forma, se llevará control del consumo de cada chofer como también en general.</li>
 <li><strong>Integración de Caudalímetro en manguera de Salida Camiones:</strong>De la máquina dispensadora donde se conecta la manguera integramos un caudalímetro electro-mecánico para petróleo certificado, capaz de medir la cantidad de flujo líquido que atraviesa por la manguera cuando se hace una descarga.</li>
 <li><strong>Integración de Caudalímetro en manguera de Entrada Estanque:</strong> Cuando los camiones repartidores llegan a descargar petróleo a los estanques del cliente, incorporamos un conector con caudalímetro entre el estanque y la manguera del camión para saber exactamente cuánto petróleo hecho el camión proveedor de petróleo.</li>
 <li><strong>Desarrollo de Plataforma de visualización con integración de sensores e inteligencia de negocio:</strong> Visualizando de manera gráfica la trazabilidad de consumo de petróleo por local como a nivel país.</li>
@@ -92,12 +103,12 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/auto-farkas2.jpg"
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img class="author" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Santiago.jpg" width="70%" height="auto">
+    <img class="author" src="{{page.image-author}}" width="70%" height="auto" alt="{{page.alt-image-author}}">
 </div>
 <div class="col-md-7 author-space">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Santiago Valdivieso</b>
-    <br>RRHH</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 

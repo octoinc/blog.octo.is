@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "IoT el primer paso para digitalizar tu empresa"
+title:  IoT el primer paso para digitalizar tu empresa
 day:  15 julio, 2020
-categories: new
-author: 'Benjamín Andaur'
+categories: Digitalización
 description: Todas las empresas están en la búsqueda continua de mejorar el rendimiento de sus procesos sumado a la necesidad de reducir costos y optimizar el uso de los recursos ¡Todo esto al mismo tiempo!...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
-image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg
+alt-image: Ilustración de IoT (sensor)
+
+author: Benjamín Andaur
+job: Key Account Manager
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
+alt-image-author: Foto Benjamín Andaur
 ---
-<!-- {% include whatsapp.html %} -->
-{% include whatsapp.html %}
 
 <div class="row post-text">
     <div class="col-md-2"></div>
@@ -28,7 +30,7 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
 
 <p><b>¡Transformación Digital en la Industria!</b></p>
 
-<p>Esta transformación viene dada por los grandes avances tecnológicos que conforman lo que se conoce como <a href="https://blog.octo.is/new/2020/06/19/Como-Octopull-ayuda-a-transformar-tu-empresa.html" target="_blank">industria 4.0</a>, la cual permitirá lograr la hazaña que todas las empresas buscan.</p>
+<p>Esta transformación viene dada por los grandes avances tecnológicos que conforman lo que se conoce como <a href="https://blog.octo.is/new/2020/06/19/Como-Octopull-ayuda-a-transformar-tu-empresa.html" target="_blank" rel="noopener">industria 4.0</a>, la cual permitirá lograr la hazaña que todas las empresas buscan.</p>
 
 <p>La transición es un largo camino en donde todas las empresas se verán obligadas a ser parte, entregando herramientas y ventajas competitivas que generan un valor imprescindible en las época en que vivimos.</p>
 
@@ -55,7 +57,7 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
                     <li>Maximizar el tiempo de funcionamiento de las máquinas.</li>
                     <li>Ganar transparencia en la salud de tus equipos.</li>
                 </ul>  <br>  
-                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-03.png" width="100%" height="auto" center></p>
+                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-03.png" width="100%" height="auto" center alt="Vista lista de sensores en la plataforma Octopull"></p>
                 <p class="tittle">Plataforma Octopull - Lista de sensores</p>  
             <li><b>Gestión de rendimiento de activos</b>: Al rastrear y monitorear la condición y estado de tus equipos en tiempo real, se pueden identificar y alertar de los momentos en que estos dejan de operar de forma óptima. Logrando:</li>
                 <ul>
@@ -63,7 +65,7 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
                     <li>Generar indicadores de rendimiento (KPI’s) de las máquinas.</li>
                     <li>Ajustar continuamente los equipos para obtener su máxima eficiencia y productividad.</li>
                 </ul><br>
-                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-02.png" width="100%" height="auto" center></p>
+                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-02.png" width="100%" height="auto" center alt="Vista de datos de un sensor en la plataforma Octopull"></p>
                 <p class="tittle">Plataforma Octopull - Alertas y data</p>  
                 <br>   
             <li><b>Optimización de recursos (energía y agua)</b>: Con un seguimiento continuo de las plantas productivas permite identificar los equipos y procesos que puedan reducir su consumo de recursos naturales. Generando beneficios como:</li>
@@ -73,7 +75,7 @@ image-sharing: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg"
                     <li>Comprender mejor la contribución de las máquinas y procesos en el consumo de estos recursos naturales.</li>
                     <li>Mejorar los esfuerzos de sostenibilidad ambiental.</li>
                 </ul><br>
-                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-01.png" width="100%" height="auto" center></p>
+                <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/plataforma-octopull-01.png" width="100%" height="auto" center alt="Vista datos actuales sensores en la plataforma Octopull"></p>
                 <p class="tittle">Plataforma Octopull - sensores</p>  
                 <br>  
         </ol>
@@ -95,18 +97,16 @@ El tener datos correctos y confiables permite generar información clave a la ho
 
 <p>Te invito a tomar contacto con nosotros y comenzar esta revolución industrial en tu empresa!</p>
 
-
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 written">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Benjamín Andaur</b>
-    <br>Key Account Manager</p>
-    <br>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 
@@ -115,7 +115,6 @@ El tener datos correctos y confiables permite generar información clave a la ho
     <li><a style="font-size: 15px; color: #e37607;" href="https://www.eng-tips.com/resource.cfm?resid=1091" target="_blank">eBook - Applying the Internet of Things to Manufacturing: 8 IoT use cases to boost ROI</a></li>
     <li><a style="font-size: 15px; color: #e37607;" href="https://www.sciencedirect.com/science/article/pii/S0166361517307285" target="_blank">The industrial internet of things (IIoT): An analysis framework</a></li>
 </ul>
-
 
 {% include calltoaction.html %}
 

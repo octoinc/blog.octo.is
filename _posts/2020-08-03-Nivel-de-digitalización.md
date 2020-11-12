@@ -3,10 +3,10 @@ layout: post
 title:  "Sabes que tan tecnológica es tu empresa"
 day:  03 agosto, 2020
 categories: new
-author: 'Octopull'
+author: Fabián Serrano, Camila Fonseca
 description: Hoy en día la tecnología está continuamente en procesos de cambios por lo que las empresas hacen el mayor esfuerzo por estar al día con las nuevas tecnologías, adaptando las herramientas y plataformas necesarias...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/encuesta-digitalizacion.png"
-
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/encuesta-digitalizacion.png
+alt-image: Imagen inical de la encuesta
 ---
 
 <div class="row post-text">

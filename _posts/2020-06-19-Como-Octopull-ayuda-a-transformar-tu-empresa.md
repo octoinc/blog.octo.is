@@ -6,9 +6,14 @@ categories: new
 author: 'Benjamín Andaur'
 description: Hoy en día estamos viviendo un cambio de era. Las nuevas tecnologías e innovaciones están transformando el mundo a una velocidad sorprendente, donde aparecen oportunidades únicas que modifican por completo la manera de hacer las cosas, logrando cosas como, por ejemplo ...
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/monitoreo-datos.png"
+alt-image: Visualización de datos en Klipfolio
+
+author: Benjamín Andaur
+job: Key Account Manager
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
+alt-image-author: Foto Benjamín Andaur
 ---
-<!-- {% include whatsapp.html %} -->
-{% include whatsapp.html %}
+
 
 <div class="row post-text">
     <div class="col-md-2"></div>
@@ -28,10 +33,10 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p>La <b>industria 4.0</b> viene dado por la aparición de tecnologías innovadoras como lo son el <b>internet de las cosas, los drones, robots, la inteligencia artificial, impresión 3D, big data,</b> entre otras tecnologías que permiten mejorar de forma significativa la eficiencia y productividad. </p>
 
-<p>Este nuevo paradigma industrial, según el <a href="https://es.weforum.org/agenda/2017/05/industry-4-0-o-como-las-nuevas-tecnologias-estan-poniendo-patas-arriba-el-sector-industrial/" target="_blank">foro económico mundial</a>, <i>se define como la creación de un modelo abstracto y virtual del mundo físico de la planta de manufactura y sus procesos, lo cual permite tomar mejores decisiones a todo nivel</i>.</p><br>
+<p>Este nuevo paradigma industrial, según el <a href="https://es.weforum.org/agenda/2017/05/industry-4-0-o-como-las-nuevas-tecnologias-estan-poniendo-patas-arriba-el-sector-industrial/" target="_blank" rel="noopener">foro económico mundial</a>, <i>se define como la creación de un modelo abstracto y virtual del mundo físico de la planta de manufactura y sus procesos, lo cual permite tomar mejores decisiones a todo nivel</i>.</p><br>
 
 <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/diagrama-industria4.0.png" width="95%" height="auto" center></p>
-<p class="tittle"><a href="https://grupofranja2.com/index.php/oftalmica/item/1763-de-la-industria-1-0-a-la-4-0" target="_blank">Revista MAFO Volumen 13, Andy Huthoefer</a></p>
+<p class="tittle"><a href="https://grupofranja2.com/index.php/oftalmica/item/1763-de-la-industria-1-0-a-la-4-0" target="_blank" rel="noopener">Revista MAFO Volumen 13, Andy Huthoefer</a></p>
 <!-- <p style="text-align:center;"><img src="/images/diagrama-industria-2.png" width="95%" height="auto" center></p>
 <p class="tittle"><a href="https://www.shutterstock.com/es/image-vector/industrial-revolution-stages-steam-power-cyber-524444866" target="_blank">Industrial Revolution</a></p> -->
 
@@ -41,24 +46,24 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p>Después de conocer estos conceptos es importante pensar: ¿Cómo puedo implementar o tener tecnologías de la Industria 4.0? ¿Cómo empiezo con este proceso de transformación digital?, quiero optimizar mi planta, ¿Cómo lo hago?.</p>
 
-<p><b>Todas estas preguntas se resuelven con la plataforma <a href="https://octopull.cl" target="_blank">Octopull</a>.</b></p>
+<p><b>Todas estas preguntas se resuelven con la plataforma <a href="https://octopull.cl" target="_blank" rel="noopener">Octopull</a>.</b></p>
 
 <p>Con esta herramienta podemos transformar tu empresa en una empresa 4.0. </p>
 
 <p>En esta plataforma se integran tecnologías de vanguardia, ya sean sensores que utilizan Internet de las Cosas, drones o robots y modelos matemáticos de Inteligencia Artificial, todo esto con la visión de lograr mantener la operación de tu empresa de forma remota.</p><br>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-vibracion.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-vibracion.png" width="80%" height="auto" center alt="Sensor vibración instalado en planta"></p>
 <p class="tittle">Sensor vibración</p>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-presion.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-presion.png" width="80%" height="auto" center alt="Sensor de presión instalado en planta"></p>
 <p class="tittle">Sensor presión de fluido</p>
 
-<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/monitoreo-datos.png" width="80%" height="auto" center></p>
+<p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/monitoreo-datos.png" width="80%" height="auto" center alt="Dashboard de visualización de datos Klipfolio"></p>
 <p class="tittle">Plataforma donde se pueden visualizar los datos obtenidos por <br>los sensores en tiempo real.</p>
 
 
 
-<p><a href="https://octopull.cl" target="_blank"><b>Octopull</b></a> te ayuda a comenzar con este proceso de <b>transformación digital</b>, que más que integración de nuevas tecnologías, es un cambio cultural que se da dentro de las empresas. En este sentido, <a href="https://octopull.cl" target="_blank"><b>Octopull</b></a> te acompaña en el camino a la implementación de la <b>Industria 4.0</b>.</p>
+<p><a href="https://octopull.cl" target="_blank" rel="noopener"><b>Octopull</b></a> te ayuda a comenzar con este proceso de <b>transformación digital</b>, que más que integración de nuevas tecnologías, es un cambio cultural que se da dentro de las empresas. En este sentido, <a href="https://octopull.cl" target="_blank" rel="noopener"><b>Octopull</b></a> te acompaña en el camino a la implementación de la <b>Industria 4.0</b>.</p>
 
 <p>El viaje de la <b>transformación digital</b> comprende dos etapas principales:</p>
 
@@ -67,7 +72,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
     <li>Dar el salto a la <b>automatización</b> con robots y actuadores que te permiten controlar tu planta de forma remota.</li>
 </ol><br>
 
-<p>Siendo concretos, <a href="https://octopull.cl" target="_blank">Octopull</a> te permite realizar:</p>
+<p>Siendo concretos, <a href="https://octopull.cl" target="_blank" rel="noopener">Octopull</a> te permite realizar:</p>
 
 <ul>
     <li><b>Monitoreo de condiciones de tus activos</b></li>
@@ -82,24 +87,20 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
     <p>Gracias a la integración de cámaras o robots dentro de tu planta puedes conocer a través de una pantalla lo que está sucediendo en tiempo real.</p>
 </ul><br>
 
-<p>Si quieres probar <b>gratis</b> y conocer cómo <a href="https://octopull.cl" target="_blank">Octopull</a> puede transformar la forma en que trabajas, no dudes en contactarnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
+<p>Si quieres probar <b>gratis</b> y conocer cómo <a href="https://octopull.cl" target="_blank" rel="noopener">Octopull</a> puede transformar la forma en que trabajas, no dudes en contactarnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg" width="115%" height="auto">
+    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 written">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Benjamín Andaur</b>
-    <br>Key Account Manager</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 
-
-{% include calltoaction.html %}
-
+ <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
-<div class="col-md-3">
-</div>

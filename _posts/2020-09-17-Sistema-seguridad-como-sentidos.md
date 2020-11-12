@@ -1,21 +1,19 @@
 ---
 layout: post
-title:  "¿Alguna vez pensaste en encontrar un sistema de seguridad que te ofrezca lo mejor de los sentidos humanos?"
+title:  ¿Alguna vez pensaste en encontrar un sistema de seguridad que te ofrezca lo mejor de los sentidos humanos?
 day:  20 agosto, 2020
-categories: new
-author: 'Octopull'
+categories: Seguridad
+author: Octopull
 description: Dentro de las aplicaciones del Internet de las Cosas en las industrias, se enfocan principalmente en los procesos de mantenimiento, para la gestión en tiempo real de activos...
-image: "/images/sistema-seguridad.png"
+image: /images/sistema-seguridad.png
+alt-image: 
 ---
-
-{% include whatsapp.html %}
 
 <div class="row post-text">
     <div class="col-md-2"></div>
     <div class="col-md-7">
     <br>
-
-
+    
 <p>El resguardo de los bienes materiales siempre ha sido una prioridad. Es que obtenerlos no es sencillo, y una vez que lo hemos logrado solo pensamos en la mejor manera de protegerlos.</p>
 
 <p>La seguridad de nuestras instalaciones físicas es un tema muy delicado.  Por esta razón nos centramos en la búsqueda de algún sistema, que nos brinde <b>protección, seguridad y eficiencia</b>.</p>
@@ -24,7 +22,7 @@ image: "/images/sistema-seguridad.png"
 
 <p>¿Alguna vez pensaste en encontrar un sistema de seguridad que te ofrezca lo mejor de los sentidos humanos? Pues sí, aunque parezca imposible nuestro sistema <b>escucha, ve, huele y siente</b>. Todo a través de <b>sensores loT y una cerradura electrónica</b>.</p>
 
-<p style="text-align:center;"><img src="/images/sistema-seguridad-sensores.png" width="100%" height="auto" center></p><p class="tittle">Sistema de Seguridad Octo Inc.</p>
+<p style="text-align:center;"><img src="/images/sistema-seguridad-sensores.png" width="100%" height="auto" center alt="Diagrama del sistema seguridad de Octo INC."></p><p class="tittle">Sistema de Seguridad Octo Inc.</p>
 
 <p>Las distintas funcionalidades de los sensores son las encargadas de captar la información.</p>
 
@@ -36,12 +34,12 @@ image: "/images/sistema-seguridad.png"
     <li>
     <b>Cámara Inteligente (ve)</b>
     <p>Es la encargada de mostrar todo lo que sucede al interior de la instalación. La cámara detecta movimiento mediante un infrarrojo y se puede programar para que saque fotografías o grabe. Asimismo el sistema cuenta con un algoritmo de procesamiento de imágenes para reconocer personas u objetos al interior de la instalación.</p>
-    <p style="text-align:center;"><img src="/images/reconocimiento.jpeg" width="100%" height="auto" center></p><p class="tittle">Procesamiento de imágenes</p>
+    <p style="text-align:center;"><img src="/images/reconocimiento.jpeg" width="100%" height="auto" center alt="Reconocimiento de personas en la plataforma Octopull"></p><p class="tittle">Procesamiento de imágenes</p>
     </li>
     <li>
     <b>Sensor de Clima (siente)</b>
     <p>Mide la humedad, presión y temperatura. Puedes definir el clima adecuado que debe existir en tu instalación, gatillando alarmas cuando alguna variable esté fuera de este rango normal.</p>
-    <p style="text-align:center;"><img src="/images/graficos-plataforma-seguridad.png" width="70%" height="auto" center></p><p class="tittle">Aplicación: Comportamiento del clima</p>
+    <p style="text-align:center;"><img src="/images/graficos-plataforma-seguridad.png" width="70%" height="auto" center alt="Visualización de gráficos de las variables en las plataforma"></p><p class="tittle">Aplicación: Comportamiento del clima</p>
     </li>
     <li>
     <b>Sensor de Humo y Gases (huele)</b>
@@ -58,7 +56,7 @@ image: "/images/sistema-seguridad.png"
     <li>
     <b>Cerradura IoT</b>
     <p>Es la encargada de evitar el ingreso no autorizado a la instalación. Mediante nuestra plataforma de seguridad debes crear permisos de accesos, sin ellos, no podrás ingresar.</p>
-    <p style="text-align:center;"><img src="/images/permisos.png" width="90%" height="auto" center></p><p class="tittle">Creación del Permiso</p>
+    <p style="text-align:center;"><img src="/images/permisos.png" width="90%" height="auto" center alt="Diagrama de creación de permiso en la plataforma Octopull"></p><p class="tittle">Creación del Permiso</p>
     </li>
 </ul>
 

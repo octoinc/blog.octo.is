@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Mi viaje antes de llegar a una Startup de tecnología"
+title:  Mi viaje antes de llegar a una Startup de tecnología
 day:   20 Diciembre, 2019
-categories: new
-author: 'Fabián Serrano'
+categories: Experencia personal
 description: Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me cambié a Ingeniería Civil Industrial. Todos mis compañeros me decían pero cómo te vai a cambiar si no te queda nada para terminar la carrera”. Luego de tanto tiempo de haberlo hecho, fue la mejor decisión que pude tomar...
-image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/firstdoit.png"
+image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/firstdoit.png
+alt-image: Firt do it
+
+author: Fabián Serrano
+job: Sales Manager
+image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
+alt-image-author: Foto Fabián Serrano
 ---
 
 <!-- <div class="borde2">
@@ -53,7 +58,7 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/firstdoit.png"
 
 <p>Como siempre me gustaron los negocios y ya estaba en algo más cercano a lo que me gustaba, en ese tiempo donde estaba en minas y me cambiaba a industrial, empecé a cachar que la mayoría de los más crack como Elon Musk, Bill Gates, Jeff Bezos, Warren Buffet y otros, <b><i>leían caleta</i></b>.</p>
 
-<img style="float:left; margin:10px;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/libro-elton-musk.jpg" width="40%" height="auto"><i><br>Para los que no cachan nada, lean la biografía de Musk. Sin embargo, les advierto dos cosas: primero sentirán admiración y luego un sentimiento de depresión/angustia si llegan a compararse con él a nivel empresarial o intelectual jajaja.</i></p>
+<img style="float:left; margin:10px;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/libro-elton-musk.jpg" width="40%" height="auto" alt="El Empresario que Anticipa el Futuro - Elton Musk"><i><br>Para los que no cachan nada, lean la biografía de Musk. Sin embargo, les advierto dos cosas: primero sentirán admiración y luego un sentimiento de depresión/angustia si llegan a compararse con él a nivel empresarial o intelectual jajaja.</i></p>
 <br>
 <p><i>Dato: Si leen en inglés, traigan los libros de Amazon. Pueden encontrar en tapa dura y mucho más baratos que en Chile. Acá se van al chancho con el IVA.</i></p>
 
@@ -115,16 +120,16 @@ image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/firstdoit.png"
 
 <p>PD: A mis amigos a los que les dije que iba a cambiar el mundo, les diría que aún no lo logro, pero siento que todo lo que he vivido y estoy viviendo me acercan cada vez más a alcanzar ese objetivo.</p>
 
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
-    <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png" width="110%" height="auto">
+    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
 </div>
-<div class="col-md-7" style="margin-top: 26px;padding-left:40px;">
+<div class="col-md-7 written">
     <p>Escrito por:</p>
-    <p><b style="font-size:20px">Fabián Serrano</b>
-    <br>Sales Manager</p>
+    <p><b style="font-size:20px">{{page.author}}</b>
+    <br>{{page.job}}</p>
 </div>
 </div>
 
