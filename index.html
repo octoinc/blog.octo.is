@@ -70,7 +70,7 @@ layout: home
         <div class="colorlib-feature">
             <div class="col-md-3 p-left">
             <div>
-                <a href="{{post.url}}"><img src="{{post.image}}" class="img-responsive width-image" alt="{{page.alt-image}}"}></a>
+                <img src="{{post.image}}" class="img-responsive width-image" alt="{{post.alt-image}}">
             </div>
             </div>
             <div class="col-md-9 p-left center-tittle-responsive">
@@ -86,7 +86,6 @@ layout: home
     </div>
 </div>
 {% endfor %}
-
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
