@@ -5,7 +5,7 @@ day:  11 noviembre, 2020
 categories: Seguridad
 author: 'Octopull'
 description: Un gran problema que viven a diario las empresas es cuidar sus bienes y más aún cuando hablamos de una empresa de telecomunicaciones...
-image: "/images/placa-pozo"
+image: "/images/placa-pozo.png"
 ---
 
 <div class="row post-text">
