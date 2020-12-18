@@ -14,13 +14,13 @@ image: "/images/placa-pozo.png"
     <br>
 
 
-<p>Un gran problema que viven a diario las empresas es cuidar sus bienes y más aún cuando hablamos de una empresa de telecomunicaciones la cual tiene que proteger todo el cableado que recorre bajo de nuestra ciudad.</p>
+<p>Un gran problema que viven a diario las empresas es cuidar sus bienes y más aún cuando hablamos de una empresa de telecomunicaciones, la cual tiene que proteger todo el cableado que recorre bajo de nuestra ciudad.</p>
 
 <ul> 
-<p class="cita"><a href="http://octopull.cl/" target="_blank">Octopull</a> se encargó de crear un <a href="https://www.octopull.cl/seguridad/" target="_blank">sistema de seguridad IoT</a> único y seguro para espacios confinados, como cámaras y bóvedas subterráneas, de accesos limitados.</p>
+<p class="cita"><a href="http://octopull.cl/" target="_blank">Octopull</a> se encargó de crear un <a href="https://www.octopull.cl/seguridad/" target="_blank">sistema de seguridad IoT</a> único y seguro para espacios confinados, como cámaras y bóvedas subterráneas de accesos limitados.</p>
 </ul>
 
-<p>A continuación, te contaremos de uno de los proyectos que estamos desarrollando actualmente, es la seguridad de las tapas de las cámaras, en las cuales se encuentra el cableado que transporta la fibra óptica a tu hogar.</p> 
+<p>A continuación, te contaremos de uno de los proyectos que estamos desarrollando actualmente, es la seguridad de las tapas de las cámaras donde se encuentra el cableado que transporta la fibra óptica a tu hogar.</p> 
 
 <p>El principal objetivo de este proyecto fue <b>impedir el ingreso de personas</b> y ser notificado cuando el acceso se encontrará abierto. De esta forma evitar el malestar de los propios clientes quienes se ven afectados de esta acción, al moverse o romperse un cable impidiendo que se entregue el servicio de manera eficaz.</p>
 
