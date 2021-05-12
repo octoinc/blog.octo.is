@@ -41,7 +41,7 @@ author: Equipo Octopull
         <p class="tittle"><a href="https://octopull.cl/seguridad/" target="_blank" rel="noopener">Dato entregado por el sensor de corriente</a></p>
         <h2>Cómo solicitar este servicio</h2>
         <p>Si te parece que este tipo de sensores podrían ser de gran utilidad para aumentar la eficiencia de tu proceso productivo, puedes contactarnos para realizar una reunión y así coordinar un piloto en planta durante 1 semana para que prueben el sistema y así visualicen los beneficios potenciales para su empresa.</p>
-        <div class="row container-written">
+        <!-- <div class="row container-written">
         <div class="col-md-2">
         </div>
         <div class="col-md-3">
@@ -52,7 +52,7 @@ author: Equipo Octopull
             <p><b style="font-size:20px">{{page.author}}</b>
             <br>{{page.job}}</p>
         </div>
-        </div>
+        </div> -->
 
         <div>{% include calltoaction.html %}</div>
         {% include footer.html %}
