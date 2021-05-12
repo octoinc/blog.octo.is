@@ -7,10 +7,10 @@ description: Todas las empresas están en la búsqueda continua de mejorar el re
 image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/iot.jpg
 alt-image: Ilustración de IoT (sensor)
 
-author: Benjamín Andaur
-job: Key Account Manager
-image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
-alt-image-author: Foto Benjamín Andaur
+author: Equipo Octopull
+# job: Key Account Manager
+# image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
+# alt-image-author: Foto Benjamín Andaur
 ---
 
 <div class="row post-text">

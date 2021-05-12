@@ -7,10 +7,7 @@ description: Estuve 4 años en Ingeniería Civil en Minas, me aburrí, y me camb
 image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/firstdoit.png
 alt-image: Firt do it
 
-author: Fabián Serrano
-job: Sales Manager
-image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
-alt-image-author: Foto Fabián Serrano
+author: Equipo Octopull
 ---
 
 <!-- <div class="borde2">
@@ -120,7 +117,7 @@ alt-image-author: Foto Fabián Serrano
 
 <p>PD: A mis amigos a los que les dije que iba a cambiar el mundo, les diría que aún no lo logro, pero siento que todo lo que he vivido y estoy viviendo me acercan cada vez más a alcanzar ese objetivo.</p>
 
-<div class="row container-written">
+<!-- <div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
@@ -131,7 +128,7 @@ alt-image-author: Foto Fabián Serrano
     <p><b style="font-size:20px">{{page.author}}</b>
     <br>{{page.job}}</p>
 </div>
-</div>
+</div> -->
 
 <div>{% include calltoaction.html %}</div>
 {% include footer.html %}

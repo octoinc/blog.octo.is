@@ -3,10 +3,10 @@ layout: post
 title:  ¿Alguna vez pensaste en encontrar un sistema de seguridad que te ofrezca lo mejor de los sentidos humanos?
 day:  20 agosto, 2020
 categories: Seguridad
-author: Octopull
+author: Equipo Octopull
 description: Dentro de las aplicaciones del Internet de las Cosas en las industrias, se enfocan principalmente en los procesos de mantenimiento, para la gestión en tiempo real de activos...
-image: /images/sistema-seguridad.png
-alt-image: 
+# image: /images/sistema-seguridad.png
+# alt-image: 
 ---
 
 <div class="row post-text">

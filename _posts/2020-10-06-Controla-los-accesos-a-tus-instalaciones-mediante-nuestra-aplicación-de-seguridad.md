@@ -3,7 +3,7 @@ layout: post
 title:  Controla los accesos a tus instalaciones mediante nuestra aplicación de seguridad
 day:  06 octubre, 2020
 categories: Seguridad
-author: Octopull
+author: Equipo Octopull
 description: ¿Qué harías si contarás con una aplicación donde pudieras controlar todos los accesos a tus instalaciones y lo que ocurre dentro de ella?...
 image: "/images/plataforma-seguridad.jpg"
 alt-image: Seguridad

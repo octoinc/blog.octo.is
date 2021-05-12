@@ -8,10 +8,10 @@ description: Hoy en día estamos viviendo un cambio de era. Las nuevas tecnolog�
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/monitoreo-datos.png"
 alt-image: Visualización de datos en Klipfolio
 
-author: Benjamín Andaur
-job: Key Account Manager
-image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
-alt-image-author: Foto Benjamín Andaur
+author: Equipo Octopull
+# job: Key Account Manager
+# image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
+# alt-image-author: Foto Benjamín Andaur
 ---
 
 
@@ -89,7 +89,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
 
 <p>Si quieres probar <b>gratis</b> y conocer cómo <a href="https://octopull.cl" target="_blank" rel="noopener">Octopull</a> puede transformar la forma en que trabajas, no dudes en contactarnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
 
-<div class="row container-written">
+<!-- <div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
@@ -100,7 +100,7 @@ Es un fenómeno que se repite a lo largo de toda nuestra historia como sociedad,
     <p><b style="font-size:20px">{{page.author}}</b>
     <br>{{page.job}}</p>
 </div>
-</div>
+</div> -->
 
  <div>{% include calltoaction.html %}</div>
 {% include footer.html %}

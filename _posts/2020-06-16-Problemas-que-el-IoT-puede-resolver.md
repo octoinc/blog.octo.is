@@ -8,10 +8,10 @@ description: El IoT (Internet of Things), puesto en palabras simples, es la cone
 image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/klipfolio-octopull.png
 alt-image: Dashboard Klipfolio
 
-author: Fabián Serrano
-job: Sales Manager
-image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
-alt-image-author: Foto Fabián Serrano
+author: Equipo Octopull
+# job: Sales Manager
+# image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
+# alt-image-author: Foto Fabián Serrano
 ---
 
 <div class="row post-text">
@@ -114,7 +114,7 @@ alt-image-author: Foto Fabián Serrano
 
 <p>Nosotros te ayudamos. No dude en escribirnos a <a href="mailto:contact@octo.is">contacto@octo.is</a>.</p>
 
-<div class="row container-written">
+<!-- <div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
@@ -125,7 +125,7 @@ alt-image-author: Foto Fabián Serrano
     <p><b style="font-size:20px">{{page.author}}</b>
     <br>{{page.job}}</p>
 </div>
-</div>
+</div> -->
 
  <div>{% include calltoaction.html %}</div>
 {% include footer.html %}

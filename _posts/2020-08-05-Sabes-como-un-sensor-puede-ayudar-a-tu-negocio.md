@@ -7,10 +7,10 @@ description: Hoy en día se habla mucho de las tecnologías de la industria 4.0 
 image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/placa.png
 alt-image: Placa de un sensor
 
-author: Benjamín Andaur
-job: Key Account Manager
-image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
-alt-image-author: Foto Benjamín Andaur
+author: Equipo Octopull
+# job: Key Account Manager
+# image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
+# alt-image-author: Foto Benjamín Andaur
 ---
 
 <div class="row post-text">
@@ -73,7 +73,7 @@ alt-image-author: Foto Benjamín Andaur
 
 <p>Si quieres saber más de cómo funciona o el potencial que posee esta tecnología en tu empresa, no dudes en <a href="mailto:contact@octo.is" target="_blank">contactarnos</a> y feliz realizamos una <b>demostración GRATIS</b> en tu instalación. </p><br>
 
-<div class="row container-written">
+<!-- <div class="row container-written">
 <div class="col-md-2">
 </div>
 <div class="col-md-3">
@@ -84,7 +84,7 @@ alt-image-author: Foto Benjamín Andaur
     <p><b style="font-size:20px">{{page.author}}</b>
     <br>{{page.job}}</p>
 </div>
-</div>
+</div> -->
 
  <div>{% include calltoaction.html %}</div>
 {% include footer.html %}

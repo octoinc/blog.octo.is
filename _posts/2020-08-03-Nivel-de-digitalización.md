@@ -3,10 +3,10 @@ layout: post
 title:  "Sabes que tan tecnológica es tu empresa"
 day:  03 agosto, 2020
 categories: new
-author: Fabián Serrano, Camila Fonseca
-description: Hoy en día la tecnología está continuamente en procesos de cambios por lo que las empresas hacen el mayor esfuerzo por estar al día con las nuevas tecnologías, adaptando las herramientas y plataformas necesarias...
-image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/encuesta-digitalizacion.png
-alt-image: Imagen inical de la encuesta
+author: Equipo Octopull
+# description: Hoy en día la tecnología está continuamente en procesos de cambios por lo que las empresas hacen el mayor esfuerzo por estar al día con las nuevas tecnologías, adaptando las herramientas y plataformas necesarias...
+# image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/encuesta-digitalizacion.png
+# alt-image: Imagen inical de la encuesta
 ---
 
 <div class="row post-text">
@@ -44,7 +44,7 @@ alt-image: Imagen inical de la encuesta
 <div id="ss_survey_widget"></div><script>(function(){var e="ss-widget",t="script",a=document,r=window;var s,n,c;r.SS_WIDGET_TOKEN="tt-b7a240";r.SS_ACCOUNT="octo.surveysparrow.com";r.SS_SURVEY_NAME="DIGITALIZACION";if(!a.getElementById(e)){var S=function(){S.update(arguments)};S.args=[];S.update=function(e){S.args.push(e)};r.SparrowLauncher=S;s=a.getElementsByTagName(t);c=s[s.length-1];n=a.createElement(t);n.type="text/javascript";n.async=!0;n.id=e;n.src=["https://","octo.surveysparrow.com/widget/",r.SS_WIDGET_TOKEN].join("");c.parentNode.insertBefore(n,c)}})();</script>
 
 <br>
-<div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
+<!-- <div class="row" style="margin-bottom:80px;margin-top:40px;font-size:15px;">
 <div class="col-md-2">
     <img style="border-radius:50%;" src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png" width="110%" height="auto">
 </div>
@@ -59,7 +59,7 @@ alt-image: Imagen inical de la encuesta
     <p><b style="font-size:20px">Camila Fonseca</b>
     <br>Marketing Manager</p>
 </div>
-</div>
+</div> -->
 
 
 

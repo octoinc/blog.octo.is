@@ -7,10 +7,10 @@ description:  Sabemos que la palabra eficiencia es un término muy utilizado en 
 image: "https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/sensor-corriente-172.jpg"
 alt-image: Sensor de corriente en planta
 
-author: Fabián Serrano
-job: Sales Manager
-image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
-alt-image-author: Foto Fabián Serrano
+author: Equipo Octopull
+# job: Sales Manager
+# image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Fabian.png
+# alt-image-author: Foto Fabián Serrano
 ---
 
 <div class="row post-text">

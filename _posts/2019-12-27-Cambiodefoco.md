@@ -7,10 +7,10 @@ description: Para comenzar con mi experiencia dentro de Octo Inc. quiero context
 image: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/cambio-de-foco.png
 alt-image: Ilustacción sobre cambiar el foco
 
-author: Benjamín Andaur
-job: Key Account Manager
-image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
-alt-image-author: Foto Benjamín Andaur
+author: Equipo Octopull
+# job: Key Account Manager
+# image-author: https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/Team/Benjamin.jpg
+# alt-image-author: Foto Benjamín Andaur
 ---
 
 <div class="row post-text">
@@ -51,7 +51,7 @@ alt-image-author: Foto Benjamín Andaur
     <li>Optimismo y paciencia, ya que muchas veces te verás superado por la situación pero tendrás que salir adelante como sea.</li> 
     </ul><br>
     <p>A pesar de que un principio me sentí incómodo al cambiar completamente el foco que tenía dentro de la empresa, este me sacó de mi zona de confort permitiéndome conocer nuevas realidades que sin duda ayudaron a seguir desarrollándome como profesional, además de ganar algo de la tan preciada experiencia. </p>
-    <div class="row container-written">
+    <!-- <div class="row container-written">
     <div class="col-md-2">
     </div>
     <div class="col-md-3">
@@ -62,7 +62,7 @@ alt-image-author: Foto Benjamín Andaur
         <p><b style="font-size:20px">{{page.author}}</b>
         <br>{{page.job}}</p>
     </div>
-    </div>
+    </div> -->
         
  <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
