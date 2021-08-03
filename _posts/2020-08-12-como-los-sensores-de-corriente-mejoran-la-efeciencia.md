@@ -36,12 +36,12 @@ author: Equipo Octopull
         <p class="tittle">Sensor de corriente</p>
         <p>Posteriormente, esa información se muestra en <b>tiempo real</b> en la <a href="https://octopull.cl/" target="_blank" rel="noopener">plataforma Octopull</a> y se indican las horas efectivas de funcionamiento del equipo durante el día.</p><br>
         <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/grafico-sensor-corriente.jpg" width="98%" height="auto" center alt="Grafana: Gráfico del comportamiento del sensor"></p>
-        <p class="tittle"><a href="https://octopull.cl/seguridad/" target="_blank" rel="noopener">Gráfico con el comportamiento de la corriente</a></p>
+        <p class="tittle"><a>Gráfico con el comportamiento de la corriente</a></p>
         <p style="text-align:center;"><img src="https://octo-marketing.s3-us-west-2.amazonaws.com/Blog/dato-sensor-corriente.jpg" width="98%" height="auto" center alt="Grafana: dato en tiempo real"></p>
-        <p class="tittle"><a href="https://octopull.cl/seguridad/" target="_blank" rel="noopener">Dato entregado por el sensor de corriente</a></p>
+        <p class="tittle"><a>Dato entregado por el sensor de corriente</a></p>
         <h2>Cómo solicitar este servicio</h2>
         <p>Si te parece que este tipo de sensores podrían ser de gran utilidad para aumentar la eficiencia de tu proceso productivo, puedes contactarnos para realizar una reunión y así coordinar un piloto en planta durante 1 semana para que prueben el sistema y así visualicen los beneficios potenciales para su empresa.</p>
-        <div class="row container-written">
+        <!-- <div class="row container-written">
         <div class="col-md-2">
         </div>
         <div class="col-md-3">
@@ -52,7 +52,7 @@ author: Equipo Octopull
             <p><b style="font-size:20px">{{page.author}}</b>
             <br>{{page.job}}</p>
         </div>
-        </div>
+        </div> -->
 
         <div>{% include calltoaction.html %}</div>
         {% include footer.html %}
