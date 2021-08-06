@@ -5,7 +5,7 @@ day:  20 agosto, 2020
 categories: Seguridad
 author: Equipo Octopull
 description: Dentro de las aplicaciones del Internet de las Cosas en las industrias, se enfocan principalmente en los procesos de mantenimiento, para la gestión en tiempo real de activos...
-# image: /images/sistema-seguridad.png
+image: /images/sistema-seguridad.png
 # alt-image: 
 ---
 
