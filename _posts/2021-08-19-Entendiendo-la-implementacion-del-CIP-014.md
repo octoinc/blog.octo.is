@@ -129,9 +129,33 @@ Este proceso es importante que se ejecute al detalle porque incide directamente 
 <h3>R5 - Desarrollo e implementación del plan de seguridad física</h3>
 
 <p>
+<b>Desarrollar, implementar y documentar el plan de seguridad física </b>que cubra las estaciones y subestaciones de transmisión, como centros primarios de control.
+</p>
+
+<p>
+Es mejor tener una visión holística de este proceso y más que pensar en un plan, es desarrollarlo como un programa de acción con responsables y fechas.
+</p>
+
+<p>
+<b>¿Dónde debería colocar foco la empresa al implementar el requerimiento R5?</b>
+</p>
+
+<ul>
+<li>Usar un método enfocado en la creación de un programa más que en un plan</li>
+<li>Incluir todo lo que se espera en un programa de seguridad para infraestructura crítica. Comenzar con un template base.</li>
+<li>Ser realista en los tiempos de implementación, en la inversión requerida, y en las metas del programa de seguridad.</li>
+</ul>
+
+<br><br>
+<h3>R6 - Evaluación y revisión por parte de un tercero de R4 y R5</h3>
+
+<p>
 En este proceso se revisa la evaluación realizada en R4 y del plan de seguridad desarrollado en R5.
 </p>
 
+<p>
+Este proceso busca mejorar la protección, aumentar la disuasión a posibles ataques, y fortalecer la eficiencia operacional del plan de seguridad.
+</p>
 
 <p>
 Acá se busca <b>validar el plan de seguridad física desarrollado</b> y en caso de ser necesario, identificar y corregir los posibles errores que éste presente.
