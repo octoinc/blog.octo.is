@@ -97,9 +97,9 @@ Si te interesa saber más acerca de nuestra solución de seguridad para infraest
 <div class="row container-written">
 <div class="col-md-2">
 </div>
-<!-- <div class="col-md-3">
-    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
-</div> -->
+<div class="col-md-3">
+    <img style="border-radius:50%;" src="/images/Santiago.jpeg" width="110%" height="auto" alt="{{page.alt-image-author}}">
+</div>
 <div class="col-md-7 written">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">{{page.author}}</b>
