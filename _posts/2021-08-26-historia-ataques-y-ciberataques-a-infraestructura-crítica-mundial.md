@@ -82,7 +82,12 @@ Analizando la historia, podemos dar cuenta que existen 2 formas mediante las cua
 </ol>
 
 <p>
-La solución Octo Security cumple con esos altos estándares de ciberseguridad y seguridad física debido a que su desarrollo se alinea con el cumplimiento del estándar NERC-CIP-014. Y si bien es una solución CLOUD, ésta1 posee la capacidad sistémica de operar de manera local, gracias a su sistema de nodos con UPS y protocolos de comunicación cifrados. Facilitando de igual modo una versión móvil con doble factor de autenticación y llaves temporales con verificación georreferenciadas y por dispositivos únicos, para una mayor impenetrabilidad del sistema.
+Hechos como estos dejan en evidencia la urgencia creciente de que las empresas que cuentan con infraestructura crítica (Energía, Telecomunicaciones, Agua, etc) 
+implementen altos estándares de ciberseguridad como seguridad física en sus instalaciones. Es por esto que recomendamos comenzar con un sistema de seguridad adaptado al plan de seguridad física de cada instalación, que integre de manera centralizada los sistemas de vigilancia, control de accesos (a toda zona/todo activo) y sistema de alarma.
+<p>
+
+<p>
+La solución Octo Security cumple con esos altos estándares de ciberseguridad y seguridad física debido a que su desarrollo se alinea con el cumplimiento del estándar NERC-CIP-014. Y si bien es una solución CLOUD, ésta posee la capacidad sistémica de operar de manera local, gracias a su sistema de nodos con UPS y protocolos de comunicación cifrados. Facilitando de igual modo una versión móvil con doble factor de autenticación y llaves temporales con verificación georreferenciadas y por dispositivos únicos, para una mayor impenetrabilidad del sistema.
 </p>
 
 <p>
@@ -92,9 +97,9 @@ Si te interesa saber más acerca de nuestra solución de seguridad para infraest
 <div class="row container-written">
 <div class="col-md-2">
 </div>
-<div class="col-md-3">
+<!-- <div class="col-md-3">
     <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
-</div>
+</div> -->
 <div class="col-md-7 written">
     <p>Escrito por:</p>
     <p><b style="font-size:20px">{{page.author}}</b>
